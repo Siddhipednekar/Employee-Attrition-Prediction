@@ -1,0 +1,1526 @@
+EmployeeID,Age,Gender,Department,JobRole,EducationLevel,TotalWorkingYears,YearsAtCompany,YearsSinceLastPromotion,JobSatisfaction,WorkLifeBalance,PerformanceRating,OverTime,DistanceFromHome,TrainingTimesLastYear,MonthlyIncome,Attrition,Comments,Temp_Code,Extra_Salary_Text
+EMP1000,59,Female,HR,HR Executive,Master's,4,1,0,3,3,3,Yes,7,1,66523,No,Good,,45000
+EMP1001,49,Female,Marketing,Digital Marketing Manager,MBA,25,12,0,5,4,1,Yes,11,4,212938,No,,999X,45000
+EMP1002,35,Male,Operations,Operations Executive,Master's,9,9,8,3,4,4,Yes,9,6,94129,Yes,,A101,45000
+EMP1003,28,F,Customer Support,Support Executive,Bachelor's,3,3,2,4,2,5,No,30,8,56101,Yes,Pending,A101,Not Available
+EMP1004,41,Female,Marketing,Digital Marketing Manager,MBA,9,2,2,1,2,3,No,3,5,105423,No,Pending,999X,Thirty Thousand
+EMP1005,59,Female,IT,Software Engineer,PhD,24,16,12,4,3,1,No,22,9,235472,No,Check Later,A101,
+EMP1006,39,Male,IT,Software Engineer,Diploma,1,0,0,1,1,2,No,40,3,25073,Yes,Good,B202,Not Available
+EMP1007,43,female,Customer Support,Support Executive,PhD,4,0,0,5,4,4,Yes,20,2,89435,No,,A101,
+EMP1008,31,Female,HR,Recruiter,Diploma,6,1,1,4,3,4,No,32,8,52419,Yes,N/A,A101,Thirty Thousand
+EMP1009,31,Male,Customer Support,Support Executive,MBA,5,4,3,4,3,4,No,7,6,79466,No,Good,,Not Available
+EMP1010,44,Male,Finance,Accountant,Bachelor's,21,12,0,4,2,3,Yes,7,10,145976,No,,A101,
+EMP1011,56,Female,IT,Data Scientist,Diploma,2,2,0,4,3,4,No,20,5,37393,No,Check Later,A101,Thirty Thousand
+EMP1012,60,Female,Operations,Operations Manager,Bachelor's,12,1,0,3,3,4,No,25,6,105557,No,,,
+EMP1013,44,Male,Finance,Financial Analyst,Master's,2,0,0,5,4,3,No,35,7,55110,No,,A101,45000
+EMP1014,23,F,Sales,Business Development Executive,Bachelor's,1,1,0,5,1,3,Yes,24,4,40233,Yes,,,
+EMP1015,42,Male,Marketing,Marketing Executive,Diploma,20,16,4,3,1,2,No,40,2,116394,Yes,,A101,45000
+EMP1016,22,Female,Finance,Financial Analyst,Master's,0,0,0,5,3,3,Yes,13,2,34835,Yes,,A101,
+EMP1017,44,F,Marketing,Marketing Executive,MBA,5,2,1,4,2,5,Yes,39,1,92795,Yes,Good,A101,Thirty Thousand
+EMP1018,50,Female,Customer Support,Support Executive,Bachelor's,10,3,2,3,3,3,No,4,7,90669,No,Check Later,999X,45000
+EMP1019,58,Female,Finance,Accountant,Bachelor's,11,8,6,3,4,4,No,12,0,92032,No,Pending,999X,45000
+EMP1020,22,Female,Customer Support,Support Executive,Bachelor's,0,0,0,2,3,3,No,17,7,29384,No,,??,Thirty Thousand
+EMP1021,41,Male,Sales,Business Development Executive,Diploma,16,1,1,1,4,2,No,1,2,98121,No,Pending,B202,45000
+EMP1022,53,F,IT,Data Scientist,MBA,3,0,0,2,1,3,No,17,8,59803,No,N/A,A101,45000
+EMP1023,32,Female,Sales,Sales Manager,MBA,1,0,0,3,2,3,No,2,10,52877,No,Check Later,??,Thirty Thousand
+EMP1024,42,M,IT,System Administrator,Master's,10,3,3,3,1,3,No,6,1,101798,Yes,,B202,Not Available
+EMP1025,45,Male,Customer Support,Support Executive,Bachelor's,6,3,3,3,3,2,No,11,9,56802,No,,??,Not Available
+EMP1026,47,Male,IT,Data Scientist,Master's,1,1,0,5,4,3,No,18,8,46356,Yes,Pending,999X,
+EMP1027,48,Male,Marketing,Digital Marketing Manager,Master's,25,25,19,3,1,2,No,40,5,194792,Yes,,,Not Available
+EMP1028,36,Female,Operations,Operations Executive,MBA,1,0,0,3,3,2,Yes,25,0,47314,No,,??,Thirty Thousand
+EMP1029,35,Female,Sales,Business Development Executive,Master's,4,2,2,2,3,3,No,39,4,66376,No,Pending,A101,Thirty Thousand
+EMP1030,23,M,Finance,Financial Analyst,Master's,1,0,0,1,4,3,No,28,9,42351,No,Pending,B202,45000
+EMP1031,57,Female,Sales,Business Development Executive,Master's,21,21,14,4,2,5,No,16,8,176647,Yes,N/A,,45000
+EMP1032,27,F,Marketing,Digital Marketing Manager,Bachelor's,4,3,1,4,2,3,No,12,5,58487,Yes,Good,??,Thirty Thousand
+EMP1033,41,Male,IT,Data Scientist,PhD,17,9,3,4,1,4,Yes,29,6,194844,Yes,,999X,
+EMP1034,29,M,Marketing,Digital Marketing Manager,Bachelor's,2,1,1,2,3,3,No,23,3,38254,No,Check Later,??,Not Available
+EMP1035,59,male,HR,HR Executive,Master's,29,10,2,4,2,4,No,21,0,229616,No,Good,A101,Not Available
+EMP1036,38,male,HR,Recruiter,Bachelor's,7,1,0,3,4,3,Yes,16,4,68110,No,Check Later,,Thirty Thousand
+EMP1037,24,female,Finance,Financial Analyst,Master's,1,1,0,2,3,5,No,26,1,49370,No,,999X,
+EMP1038,45,male,Marketing,Marketing Executive,Master's,14,5,0,1,3,3,No,37,7,124347,Yes,N/A,,Thirty Thousand
+EMP1039,34,Female,Customer Support,Support Executive,Bachelor's,8,5,4,2,3,4,No,22,3,75801,No,,,45000
+EMP1040,29,Male,Finance,Accountant,Diploma,2,1,0,3,1,3,No,10,0,36767,No,Good,B202,45000
+EMP1041,46,Male,Customer Support,Support Executive,Master's,19,1,1,2,3,2,No,7,9,154130,Yes,,B202,
+EMP1042,22,M,Finance,Accountant,Master's,0,0,0,5,4,4,No,9,6,45120,No,,B202,45000
+EMP1043,40,Female,HR,HR Executive,Bachelor's,7,5,3,3,4,1,No,25,10,65043,No,Pending,,Thirty Thousand
+EMP1044,48,female,Finance,Accountant,Bachelor's,24,1,1,2,4,3,No,15,1,159090,No,Good,??,45000
+EMP1045,27,Female,HR,Recruiter,Master's,2,1,1,2,4,2,No,13,2,46680,No,Check Later,??,45000
+EMP1046,28,Male,IT,System Administrator,Diploma,4,3,1,4,2,4,No,26,8,52443,No,Pending,,Thirty Thousand
+EMP1047,55,Male,Customer Support,Support Executive,Bachelor's,10,0,0,1,2,5,No,21,8,94970,Yes,Check Later,999X,Thirty Thousand
+EMP1048,34,Female,Marketing,Marketing Executive,Bachelor's,7,4,4,5,1,3,Yes,23,1,70382,Yes,,,Thirty Thousand
+EMP1049,37,Female,Finance,Accountant,,2,1,0,,3,4,No,28,,354718,Yes,,,45000
+EMP1050,56,Male,HR,Recruiter,Bachelor's,22,12,10,2,2,3,No,38,10,149009,Yes,,A101,45000
+EMP1051,60,Female,Sales,Sales Manager,,26,14,5,,3,3,No,12,,,No,N/A,B202,45000
+EMP1052,24,Male,Customer Support,Support Executive,Diploma,1,0,0,1,3,5,Yes,24,0,40429,Yes,Pending,999X,Not Available
+EMP1053,22,Female,Finance,Financial Analyst,Bachelor's,0,0,0,4,4,5,Yes,13,1,44565,No,Pending,,Thirty Thousand
+EMP1054,26,Male,Operations,Operations Executive,Bachelor's,2,1,1,3,3,4,Yes,40,10,48511,No,Pending,A101,
+EMP1055,24,female,IT,Data Analyst,Bachelor's,1,1,1,3,4,3,Yes,2,1,36791,No,Good,B202,
+EMP1056,49,Male,IT,Data Scientist,Bachelor's,18,4,4,2,1,3,No,39,9,131735,Yes,,??,Thirty Thousand
+EMP1057,38,Female,Sales,Business Development Executive,MBA,9,1,0,4,1,3,Yes,12,2,103826,No,Good,999X,45000
+EMP1058,46,Male,HR,Recruiter,Diploma,6,2,0,3,3,3,No,39,9,58857,No,,A101,Thirty Thousand
+EMP1059,54,Male,Finance,Accountant,Bachelor's,32,10,2,2,2,3,Yes,14,2,200329,Yes,,999X,45000
+EMP1060,30,Female,Customer Support,Support Executive,Diploma,2,0,0,4,2,4,Yes,30,9,35417,Yes,Check Later,B202,45000
+EMP1061,56,Female,HR,HR Executive,Diploma,18,10,1,4,3,5,No,19,1,115798,No,,B202,Thirty Thousand
+EMP1062,34,Female,IT,Data Scientist,Master's,0,0,0,5,2,3,Yes,31,7,39573,Yes,Pending,??,Thirty Thousand
+EMP1063,51,Male,HR,HR Executive,Master's,14,3,3,2,3,1,No,25,7,114006,No,Check Later,??,45000
+EMP1064,35,Female,IT,Data Analyst,MBA,6,3,2,4,3,5,Yes,4,7,96136,Yes,Pending,999X,Not Available
+EMP1065,28,M,HR,HR Executive,Master's,6,4,0,4,3,2,No,13,1,75185,No,N/A,B202,45000
+EMP1066,34,male,Sales,Sales Manager,PhD,9,1,1,2,3,4,No,36,8,122937,Yes,Check Later,,
+EMP1067,43,Male,Marketing,Marketing Executive,,11,8,5,,3,1,No,37,,,No,Pending,A101,45000
+EMP1068,60,Female,Sales,Sales Manager,Diploma,7,1,1,3,2,3,Yes,3,6,59403,No,Good,,
+EMP1069,41,Male,Sales,Business Development Executive,Diploma,4,1,0,5,2,5,No,16,4,46022,Yes,Pending,A101,Thirty Thousand
+EMP1070,36,Male,Marketing,Digital Marketing Manager,,9,1,1,,3,2,No,26,,,No,,999X,Not Available
+EMP1071,38,F,Marketing,Marketing Executive,Bachelor's,4,1,1,4,3,3,No,40,7,55287,No,N/A,B202,
+EMP1072,44,Male,Finance,Financial Analyst,Master's,16,8,5,3,4,3,No,39,8,135005,Yes,Pending,B202,Thirty Thousand
+EMP1073,46,Female,Customer Support,Support Executive,Diploma,4,2,2,5,3,5,Yes,19,1,55670,No,Good,A101,
+EMP1074,45,Female,Customer Support,Support Executive,MBA,21,9,0,3,2,5,No,15,5,205467,No,,999X,45000
+EMP1075,49,male,Finance,Financial Analyst,MBA,14,6,6,5,3,3,Yes,32,8,140194,Yes,Pending,A101,45000
+EMP1076,35,Female,Sales,Sales Manager,,12,3,2,,3,2,Yes,21,,,Yes,N/A,999X,Not Available
+EMP1077,21,Male,Sales,Sales Executive,Diploma,0,0,0,3,3,4,No,1,1,32923,No,N/A,999X,Not Available
+EMP1078,45,Male,IT,Data Analyst,Bachelor's,0,0,0,5,3,3,Yes,6,0,29006,Yes,,,Thirty Thousand
+EMP1079,27,Female,IT,Data Scientist,Diploma,2,0,0,5,3,4,Yes,27,2,42643,Yes,,999X,
+EMP1080,29,Male,Customer Support,Support Executive,Diploma,6,4,2,3,3,1,Yes,23,10,51316,No,Check Later,B202,Not Available
+EMP1081,44,Female,Finance,Finance Manager,Bachelor's,0,0,0,3,3,2,No,31,4,30050,No,Pending,999X,
+EMP1082,21,Male,Operations,Operations Manager,Bachelor's,0,0,0,3,2,4,No,12,6,32683,No,Good,,45000
+EMP1083,28,Male,Operations,Operations Manager,Bachelor's,2,1,1,3,3,3,No,21,9,47298,No,,B202,Not Available
+EMP1084,44,Female,Finance,Accountant,PhD,17,13,7,1,2,5,Yes,2,9,200721,Yes,,A101,45000
+EMP1085,31,Male,IT,Data Analyst,Master's,1,1,1,2,1,2,No,5,2,37651,No,,,
+EMP1086,37,Female,Customer Support,Support Executive,MBA,4,1,1,3,4,3,No,9,8,74504,No,Good,A101,
+EMP1087,28,Female,Customer Support,Support Executive,Diploma,5,0,0,3,4,5,No,20,9,58163,No,N/A,??,
+EMP1088,55,female,IT,Data Analyst,Bachelor's,25,18,10,2,1,3,Yes,18,3,170953,Yes,,B202,Not Available
+EMP1089,55,Male,Operations,Operations Manager,Master's,15,12,7,5,3,4,No,22,9,140123,Yes,,A101,
+EMP1090,53,Male,HR,HR Executive,Diploma,12,2,0,4,2,2,No,8,1,75722,Yes,Pending,999X,45000
+EMP1091,25,Male,HR,Recruiter,Diploma,2,0,0,1,3,4,Yes,34,2,39639,Yes,,A101,45000
+EMP1092,59,Female,IT,System Administrator,Master's,32,5,1,4,4,4,Yes,9,4,241822,No,Check Later,999X,
+EMP1093,48,male,HR,Recruiter,Master's,25,10,1,4,4,3,Yes,7,2,195741,Yes,Pending,999X,Thirty Thousand
+EMP1094,27,Male,Marketing,Digital Marketing Manager,Bachelor's,0,0,0,5,3,4,No,30,4,40822,No,Check Later,A101,Not Available
+EMP1095,29,F,Finance,Accountant,Bachelor's,0,0,0,1,3,4,Yes,18,3,38381,No,N/A,A101,Thirty Thousand
+EMP1096,28,Male,Finance,Finance Manager,Bachelor's,5,5,5,2,3,3,No,27,10,59584,No,N/A,999X,Not Available
+EMP1097,32,Female,IT,System Administrator,Diploma,1,0,0,5,3,3,Yes,16,9,26769,Yes,,??,45000
+EMP1098,54,male,Sales,Sales Executive,Bachelor's,5,2,0,5,4,3,No,21,2,62104,No,,A101,45000
+EMP1099,53,M,Operations,Operations Executive,Bachelor's,13,6,4,4,4,2,Yes,5,5,100115,Yes,Good,,45000
+EMP1100,43,male,IT,Software Engineer,Diploma,17,9,9,4,3,3,No,29,7,107815,No,,B202,45000
+EMP1101,44,female,HR,Recruiter,PhD,5,0,0,1,3,3,No,37,3,91398,No,N/A,A101,45000
+EMP1102,57,Male,Operations,Operations Manager,Master's,23,3,2,3,2,3,Yes,22,8,182233,Yes,,,45000
+EMP1103,55,female,Sales,Sales Executive,Master's,17,14,2,2,1,4,No,14,5,145142,No,Good,A101,Not Available
+EMP1104,60,Male,HR,HR Executive,Bachelor's,26,12,11,2,4,3,Yes,19,4,169441,Yes,,??,
+EMP1105,42,M,Customer Support,Support Executive,Bachelor's,8,8,7,5,3,5,No,35,2,84403,No,,,Not Available
+EMP1106,47,Female,Marketing,Marketing Executive,Bachelor's,7,1,1,2,3,3,No,24,4,68497,No,,??,Not Available
+EMP1107,55,female,HR,HR Executive,Diploma,27,1,1,3,3,3,Yes,6,4,150555,No,,??,
+EMP1108,21,Female,Marketing,SEO Specialist,Bachelor's,0,0,0,5,4,4,Yes,3,3,32383,No,Pending,B202,
+EMP1109,55,Female,Operations,Operations Executive,Master's,9,8,4,2,2,3,No,34,5,93496,Yes,,A101,Thirty Thousand
+EMP1110,57,Female,Marketing,SEO Specialist,Master's,16,12,7,5,4,3,No,2,2,133614,No,N/A,??,Not Available
+EMP1111,34,male,Operations,Operations Manager,Bachelor's,6,2,1,5,4,2,No,15,9,57874,No,,,Thirty Thousand
+EMP1112,23,Male,Operations,Operations Executive,Bachelor's,1,0,0,4,4,3,No,37,0,37899,No,,A101,Thirty Thousand
+EMP1113,21,Male,Operations,Operations Executive,MBA,0,0,0,2,3,3,No,15,6,41817,No,Pending,,
+EMP1114,25,Male,Operations,Operations Manager,Diploma,0,0,0,3,2,5,Yes,32,6,36099,Yes,,??,Thirty Thousand
+EMP1115,46,Male,Operations,Operations Manager,Bachelor's,5,4,2,3,3,3,No,21,3,60957,No,,??,
+EMP1116,34,M,HR,HR Executive,Bachelor's,5,4,1,3,3,5,Yes,17,8,67074,Yes,Good,A101,
+EMP1117,59,Male,Operations,Operations Executive,Master's,5,5,0,3,2,4,No,34,1,69980,No,Good,999X,
+EMP1118,47,F,HR,HR Executive,PhD,25,1,1,5,3,3,No,32,0,256037,No,N/A,A101,Not Available
+EMP1119,29,Male,Operations,Operations Manager,Bachelor's,6,2,0,2,3,3,Yes,23,2,67498,Yes,Good,B202,
+EMP1120,35,Male,Marketing,SEO Specialist,MBA,11,8,3,4,4,4,No,35,6,125246,No,Pending,999X,Thirty Thousand
+EMP1121,35,female,Customer Support,Support Executive,MBA,2,1,1,1,1,5,No,37,8,69563,Yes,,A101,
+EMP1122,46,Female,Operations,Operations Executive,Bachelor's,13,5,4,4,3,2,No,37,1,99957,No,,??,Thirty Thousand
+EMP1123,33,Female,Sales,Sales Executive,Bachelor's,5,5,1,5,4,3,Yes,33,5,58610,No,Pending,??,45000
+EMP1124,52,Female,Operations,Operations Executive,Bachelor's,18,7,1,3,4,3,Yes,25,2,130071,Yes,Check Later,A101,Thirty Thousand
+EMP1125,59,male,Operations,Operations Manager,PhD,22,4,0,2,4,1,No,37,4,211975,No,,B202,45000
+EMP1126,52,Male,Marketing,Marketing Executive,Bachelor's,15,8,3,4,3,3,No,40,8,110085,No,Good,B202,Not Available
+EMP1127,24,F,Finance,Accountant,Master's,2,0,0,4,4,5,No,21,2,55882,No,,999X,45000
+EMP1128,50,F,Marketing,Digital Marketing Manager,Bachelor's,7,0,0,4,3,3,Yes,38,0,66886,No,,,
+EMP1129,57,Female,Sales,Sales Executive,Master's,24,9,8,3,3,4,No,40,4,192358,No,,,Not Available
+EMP1130,43,Male,Finance,Accountant,Bachelor's,12,6,3,3,1,4,No,34,0,102609,Yes,,A101,Not Available
+EMP1131,59,Female,IT,Data Scientist,Master's,20,3,0,5,1,3,No,19,7,167500,No,,A101,
+EMP1132,35,Male,IT,Data Analyst,MBA,8,2,0,5,2,2,No,27,6,91187,No,Good,A101,45000
+EMP1133,49,Male,Sales,Sales Manager,MBA,9,9,5,3,2,4,No,9,10,110582,No,,??,45000
+EMP1134,56,Male,Marketing,Digital Marketing Manager,MBA,8,5,0,5,2,5,No,5,1,109588,No,,A101,
+EMP1135,33,Female,HR,HR Executive,Diploma,3,3,1,3,2,4,No,5,10,42600,No,N/A,B202,Not Available
+EMP1136,52,M,Sales,Business Development Executive,Master's,1,0,0,3,1,1,No,25,8,32772,No,,,Not Available
+EMP1137,27,male,Customer Support,Support Executive,Diploma,0,0,0,2,4,3,No,26,4,28651,Yes,Good,,45000
+EMP1138,42,male,Finance,Financial Analyst,Bachelor's,12,0,0,3,1,2,No,19,6,88697,No,Pending,,Thirty Thousand
+EMP1139,48,Female,Finance,Finance Manager,Bachelor's,1,1,0,3,3,3,No,30,3,42283,No,Pending,B202,Thirty Thousand
+EMP1140,22,Male,Operations,Operations Manager,Bachelor's,0,0,0,1,2,4,Yes,36,0,37805,Yes,Check Later,999X,Thirty Thousand
+EMP1141,26,Female,IT,System Administrator,Bachelor's,2,2,1,3,4,2,Yes,16,7,38064,No,N/A,999X,Thirty Thousand
+EMP1142,48,F,Finance,Finance Manager,PhD,25,1,1,4,4,4,Yes,7,0,253287,No,N/A,A101,Not Available
+EMP1143,48,Male,Sales,Sales Executive,Diploma,1,0,0,4,3,3,Yes,18,2,34263,No,Pending,??,Thirty Thousand
+EMP1144,40,M,Finance,Finance Manager,Master's,2,0,0,4,3,4,Yes,21,5,55004,No,Check Later,??,Not Available
+EMP1145,50,Female,Sales,Sales Executive,Bachelor's,5,0,0,5,1,5,Yes,31,7,62283,Yes,Check Later,B202,
+EMP1146,31,Female,HR,HR Executive,Diploma,2,2,0,1,4,2,No,1,7,29132,No,Good,999X,
+EMP1147,48,male,Operations,Operations Manager,Bachelor's,9,1,0,4,4,5,No,3,1,89077,No,N/A,999X,45000
+EMP1148,45,Female,IT,Software Engineer,MBA,23,19,17,4,4,2,Yes,31,8,205198,Yes,,??,Thirty Thousand
+EMP1149,59,M,Finance,Accountant,MBA,5,5,5,3,3,3,Yes,25,3,78036,No,Good,999X,
+EMP1150,53,M,Sales,Business Development Executive,MBA,22,1,1,3,3,5,No,8,3,216006,No,Check Later,999X,Thirty Thousand
+EMP1151,21,Female,Marketing,SEO Specialist,PhD,0,0,0,2,4,5,No,1,1,55441,No,N/A,??,Not Available
+EMP1152,47,Male,IT,Data Analyst,Bachelor's,15,0,0,5,2,3,No,7,0,114289,No,Check Later,B202,Not Available
+EMP1153,33,Female,HR,Recruiter,Bachelor's,0,0,0,3,3,3,No,7,9,28254,No,N/A,999X,Thirty Thousand
+EMP1154,23,M,Sales,Business Development Executive,Master's,0,0,0,5,1,4,No,8,6,42738,Yes,Pending,999X,Not Available
+EMP1155,59,Male,Customer Support,Support Executive,Bachelor's,2,1,1,4,4,4,No,19,10,43826,No,,,Thirty Thousand
+EMP1156,26,Female,Customer Support,Support Executive,Bachelor's,1,0,0,4,2,2,No,17,9,34565,No,Good,A101,Thirty Thousand
+EMP1157,28,Female,Operations,Operations Executive,Bachelor's,6,1,1,5,2,4,No,11,2,65950,No,,??,
+EMP1158,47,male,Operations,Operations Manager,Master's,8,7,6,4,3,3,No,11,3,90289,No,,,
+EMP1159,29,Male,HR,HR Executive,Master's,3,1,1,3,4,3,No,38,10,51939,No,,??,45000
+EMP1160,57,male,HR,HR Executive,Bachelor's,11,9,7,3,3,3,No,2,8,87289,No,Check Later,,
+EMP1161,53,M,Operations,Operations Manager,Bachelor's,4,1,0,5,2,3,Yes,4,5,50036,No,,A101,
+EMP1162,44,Male,Finance,Financial Analyst,Master's,2,1,0,3,1,5,No,28,0,63329,No,Pending,A101,
+EMP1163,35,Male,Finance,Accountant,Master's,10,8,8,3,4,3,No,33,8,101932,No,Pending,999X,Thirty Thousand
+EMP1164,52,F,Sales,Sales Manager,Bachelor's,24,18,6,1,4,5,No,11,8,168980,No,Pending,B202,45000
+EMP1165,52,Male,Marketing,SEO Specialist,Master's,29,7,0,5,4,2,No,3,4,219209,Yes,,??,Not Available
+EMP1166,44,female,Sales,Sales Manager,Diploma,3,3,1,1,3,4,No,40,7,41769,No,N/A,??,
+EMP1167,32,Female,Marketing,Marketing Executive,Bachelor's,4,2,1,4,4,4,No,5,6,58722,No,N/A,??,
+EMP1168,59,Male,HR,HR Executive,Master's,0,0,0,3,3,4,No,21,10,42710,No,Pending,,45000
+EMP1169,22,M,IT,Software Engineer,Master's,0,0,0,3,3,4,Yes,22,7,38767,No,Good,A101,Thirty Thousand
+EMP1170,23,Female,Sales,Sales Manager,Bachelor's,0,0,0,4,3,3,No,37,8,32108,No,Good,999X,
+EMP1171,57,Female,Sales,Sales Executive,Master's,27,2,2,1,3,5,Yes,11,1,219653,No,Good,,45000
+EMP1172,37,Female,Marketing,Digital Marketing Manager,Master's,14,11,2,4,4,4,Yes,22,9,134047,Yes,,999X,45000
+EMP1173,22,Female,HR,HR Executive,Master's,0,0,0,4,3,2,No,13,4,31606,No,,B202,
+EMP1174,22,Male,HR,Recruiter,Master's,0,0,0,5,3,4,Yes,3,7,38256,No,,A101,Not Available
+EMP1175,48,Female,Customer Support,Support Executive,Master's,17,16,12,2,2,3,No,13,2,146977,Yes,Pending,999X,45000
+EMP1176,43,F,Marketing,Digital Marketing Manager,Bachelor's,11,3,2,5,1,3,Yes,28,10,92151,Yes,,??,Thirty Thousand
+EMP1177,57,Male,HR,Recruiter,Diploma,12,0,0,4,3,5,Yes,11,10,82749,Yes,Good,A101,45000
+EMP1178,52,Female,Operations,Operations Executive,Bachelor's,8,2,2,5,2,3,No,11,5,71308,No,Check Later,B202,
+EMP1179,53,Male,Finance,Accountant,Bachelor's,1,0,0,3,2,4,No,21,5,42816,No,,,45000
+EMP1180,21,male,Customer Support,Support Executive,Master's,0,0,0,3,3,3,No,21,6,42613,No,Check Later,B202,Not Available
+EMP1181,39,Male,Operations,Operations Manager,Bachelor's,4,4,4,5,3,1,No,7,10,48750,Yes,Good,A101,45000
+EMP1182,22,F,IT,Data Analyst,Bachelor's,0,0,0,5,4,3,No,17,2,36057,No,Pending,999X,
+EMP1183,46,Female,Sales,Business Development Executive,Diploma,12,11,5,3,3,2,No,14,7,82292,No,,A101,
+EMP1184,52,Male,Customer Support,Support Executive,,15,4,0,,4,4,No,33,,,No,Pending,,Not Available
+EMP1185,26,Male,IT,Software Engineer,Bachelor's,2,2,0,3,4,3,No,11,8,46136,No,Pending,,
+EMP1186,52,Male,Sales,Business Development Executive,Master's,21,19,15,3,4,3,No,13,7,173408,No,Good,,Not Available
+EMP1187,24,Female,Finance,Financial Analyst,Diploma,2,2,0,3,3,2,Yes,1,2,28195,No,Pending,,45000
+EMP1188,31,Male,HR,HR Executive,Master's,6,4,1,3,3,3,No,34,5,75314,No,N/A,B202,Not Available
+EMP1189,37,female,Operations,Operations Executive,MBA,9,3,2,5,4,4,No,9,8,117466,No,N/A,B202,
+EMP1190,58,Female,Marketing,Marketing Executive,Bachelor's,28,7,6,1,2,2,No,13,0,176274,Yes,,B202,
+EMP1191,44,Male,Operations,Operations Manager,Bachelor's,2,2,1,4,2,4,No,37,2,45509,No,,??,Thirty Thousand
+EMP1192,25,Female,Finance,Finance Manager,Diploma,3,3,2,2,3,5,No,30,1,41838,No,,,Not Available
+EMP1193,54,male,IT,Software Engineer,Master's,14,7,4,3,1,4,No,37,7,131961,No,Pending,999X,Thirty Thousand
+EMP1194,26,Male,Marketing,Digital Marketing Manager,Master's,3,1,0,1,4,4,No,7,5,59410,No,Check Later,999X,Not Available
+EMP1195,42,Male,HR,HR Executive,Bachelor's,9,4,2,3,3,2,Yes,14,9,76675,No,Good,,Not Available
+EMP1196,31,Male,Finance,Financial Analyst,Bachelor's,8,3,0,4,3,3,Yes,6,10,72256,No,Pending,999X,45000
+EMP1197,36,male,Marketing,Marketing Executive,MBA,10,3,0,5,3,5,No,34,10,126562,Yes,Good,B202,
+EMP1198,53,Female,Finance,Finance Manager,Bachelor's,15,11,9,2,3,4,No,16,7,120834,No,Pending,??,
+EMP1199,29,Female,Finance,Accountant,Diploma,1,1,1,3,1,4,Yes,37,1,39372,Yes,Check Later,??,Thirty Thousand
+EMP1200,26,female,HR,HR Executive,MBA,0,0,0,3,3,4,Yes,36,10,52542,No,Pending,A101,Thirty Thousand
+EMP1201,36,female,Customer Support,Support Executive,Master's,2,2,1,5,3,3,Yes,6,5,50673,No,Check Later,999X,Thirty Thousand
+EMP1202,49,Female,Sales,Sales Manager,MBA,1,0,0,4,3,1,No,8,6,44610,No,Pending,999X,
+EMP1203,23,M,Marketing,Marketing Executive,Master's,1,0,0,3,4,4,No,24,7,44469,No,,999X,Not Available
+EMP1204,40,Male,HR,HR Executive,MBA,1,0,0,4,2,4,No,3,8,58643,No,Pending,??,Not Available
+EMP1205,56,Male,Finance,Finance Manager,Bachelor's,30,3,3,5,2,3,Yes,4,4,197573,No,N/A,999X,
+EMP1206,39,Male,HR,Recruiter,Master's,7,3,3,1,2,5,No,32,10,85601,Yes,,,
+EMP1207,46,Male,Customer Support,Support Executive,MBA,2,0,0,3,3,3,Yes,1,2,54166,No,Check Later,??,Thirty Thousand
+EMP1208,23,Female,Sales,Sales Executive,Master's,1,0,0,5,4,3,Yes,34,1,46916,Yes,N/A,??,Thirty Thousand
+EMP1209,39,F,Operations,Operations Executive,Bachelor's,13,9,8,4,4,5,No,9,7,107010,No,,A101,45000
+EMP1210,40,Male,Marketing,SEO Specialist,Bachelor's,15,5,3,3,3,4,No,12,0,119230,No,N/A,999X,45000
+EMP1211,52,Male,Sales,Sales Manager,Bachelor's,0,0,0,3,3,3,Yes,10,9,36203,No,,,Not Available
+EMP1212,27,Female,IT,System Administrator,Bachelor's,4,1,1,3,3,2,Yes,10,5,51988,No,,999X,Thirty Thousand
+EMP1213,53,F,Marketing,Digital Marketing Manager,Bachelor's,2,0,0,3,2,3,Yes,23,1,40143,Yes,Pending,,45000
+EMP1214,60,Male,Sales,Business Development Executive,Master's,25,6,6,4,2,4,No,6,2,202765,No,,,Thirty Thousand
+EMP1215,59,Female,Finance,Finance Manager,Master's,17,16,7,3,4,3,Yes,24,7,144537,Yes,N/A,999X,Thirty Thousand
+EMP1216,38,Male,Marketing,Digital Marketing Manager,Bachelor's,8,4,2,4,3,4,Yes,24,0,82548,No,Good,??,Thirty Thousand
+EMP1217,60,Male,Marketing,Marketing Executive,Master's,37,1,1,5,4,5,Yes,21,5,279685,No,Good,A101,Thirty Thousand
+EMP1218,21,F,HR,HR Executive,Diploma,0,0,0,2,3,4,No,31,2,25255,No,Pending,A101,Not Available
+EMP1219,31,F,Finance,Financial Analyst,Diploma,6,1,1,3,3,3,No,30,5,52110,No,Check Later,B202,45000
+EMP1220,48,Male,IT,Software Engineer,,20,12,12,,2,4,No,34,,,Yes,Good,??,45000
+EMP1221,45,F,Operations,Operations Executive,Bachelor's,0,0,0,4,2,3,No,18,10,32432,No,Pending,999X,45000
+EMP1222,43,Female,Customer Support,Support Executive,Bachelor's,20,8,4,2,3,2,No,12,10,138061,No,,??,Not Available
+EMP1223,51,M,Sales,Sales Executive,Bachelor's,26,0,0,4,3,1,No,35,7,163017,No,N/A,A101,
+EMP1224,50,Female,HR,Recruiter,Bachelor's,9,3,0,5,2,3,Yes,7,4,78256,No,,B202,Not Available
+EMP1225,55,Female,Sales,Business Development Executive,MBA,5,0,0,3,2,5,Yes,40,3,86434,Yes,N/A,,Not Available
+EMP1226,27,Female,IT,Data Scientist,Diploma,3,0,0,5,1,3,No,25,8,37391,No,,,Not Available
+EMP1227,36,Female,IT,Data Analyst,Master's,3,3,2,5,3,3,Yes,6,4,55164,No,,B202,Not Available
+EMP1228,46,Male,Marketing,SEO Specialist,Master's,12,12,2,2,3,5,No,1,3,126766,No,,,Thirty Thousand
+EMP1229,22,Male,Customer Support,Support Executive,Master's,0,0,0,2,1,1,No,16,7,31825,No,N/A,999X,
+EMP1230,21,Male,IT,Data Analyst,MBA,0,0,0,5,2,4,No,4,7,44970,No,Pending,,Thirty Thousand
+EMP1231,32,male,Sales,Sales Manager,Diploma,0,0,0,5,2,3,Yes,29,7,25953,Yes,Check Later,,45000
+EMP1232,25,Male,Finance,Accountant,Bachelor's,2,1,0,1,3,1,No,38,3,36818,No,Good,999X,Not Available
+EMP1233,57,Female,Finance,Accountant,MBA,2,2,0,1,1,5,No,28,0,68971,Yes,,B202,45000
+EMP1234,52,F,Marketing,Digital Marketing Manager,Bachelor's,11,1,1,2,4,2,Yes,22,1,89948,Yes,Pending,999X,Thirty Thousand
+EMP1235,29,Male,Operations,Operations Manager,Master's,6,0,0,5,1,3,No,8,3,75603,No,,B202,
+EMP1236,55,Female,Sales,Sales Executive,Master's,11,10,9,2,2,3,Yes,32,9,102748,Yes,,B202,Thirty Thousand
+EMP1237,39,Female,Sales,Sales Executive,Master's,1,1,0,3,4,2,Yes,33,1,44732,No,Pending,999X,Thirty Thousand
+EMP1238,36,M,IT,System Administrator,MBA,7,3,2,5,3,1,No,13,10,87720,No,N/A,??,
+EMP1239,23,Male,Customer Support,Support Executive,PhD,1,0,0,1,1,2,Yes,27,9,48401,Yes,,??,Not Available
+EMP1240,40,Female,Sales,Business Development Executive,Master's,4,4,3,4,4,2,Yes,18,2,54217,No,Good,B202,Thirty Thousand
+EMP1241,44,female,HR,HR Executive,Bachelor's,8,3,0,3,3,4,Yes,18,8,76552,No,,??,
+EMP1242,53,F,Operations,Operations Manager,MBA,20,15,2,5,4,3,No,13,8,187975,No,Good,A101,
+EMP1243,44,Female,IT,Software Engineer,Diploma,10,10,5,3,3,3,No,22,10,75276,Yes,,999X,Thirty Thousand
+EMP1244,31,Female,HR,HR Executive,Bachelor's,4,4,0,4,3,3,Yes,14,8,56691,No,,??,45000
+EMP1245,28,Female,Marketing,Digital Marketing Manager,MBA,2,0,0,4,4,5,No,11,6,63951,Yes,Good,,45000
+EMP1246,56,M,Finance,Financial Analyst,Bachelor's,26,10,6,2,2,5,Yes,39,3,177657,Yes,,??,Thirty Thousand
+EMP25000,Unknown,Unknown,Unknown,Unknown,Bachelor's,1,0,0,1,3,4,No,22,0,42523,No,Pending,??,Thirty Thousand
+EMP1248,60,Male,Finance,Finance Manager,Diploma,23,18,0,3,3,5,No,36,2,137024,No,,A101,Thirty Thousand
+EMP1249,40,F,Marketing,Digital Marketing Manager,MBA,0,0,0,3,1,3,No,17,7,40551,No,Good,A101,Thirty Thousand
+EMP1250,55,Female,Sales,Business Development Executive,Bachelor's,29,21,15,5,1,3,No,32,3,192071,Yes,N/A,B202,45000
+EMP1251,45,Female,HR,HR Executive,Master's,13,0,0,5,2,4,No,14,9,120188,No,Pending,B202,45000
+EMP1252,55,Male,Finance,Financial Analyst,Bachelor's,27,26,23,3,3,4,Yes,29,9,179502,Yes,N/A,B202,Thirty Thousand
+EMP1253,45,Female,IT,System Administrator,Master's,10,1,0,4,3,3,No,6,1,104635,No,N/A,B202,45000
+EMP1254,49,Female,HR,Recruiter,Master's,22,22,8,4,3,3,Yes,4,7,174305,No,,999X,Thirty Thousand
+EMP1255,38,Female,IT,Data Analyst,Bachelor's,1,1,1,5,1,5,No,11,6,44669,No,Good,A101,
+EMP1256,38,Male,HR,Recruiter,Bachelor's,7,5,4,3,3,4,Yes,40,10,71722,Yes,,B202,Thirty Thousand
+EMP1257,22,Female,HR,Recruiter,Bachelor's,0,0,0,3,4,3,No,10,9,34054,No,Good,A101,
+EMP1258,55,F,Marketing,SEO Specialist,PhD,26,0,0,3,3,4,Yes,28,8,261621,No,N/A,B202,Not Available
+EMP1259,36,Male,Finance,Finance Manager,,2,0,0,,3,3,Yes,11,,,Yes,,999X,
+EMP1260,56,F,Finance,Accountant,MBA,1,1,0,3,4,2,No,35,4,46944,No,,A101,Not Available
+EMP1261,53,Female,Customer Support,Support Executive,Bachelor's,6,6,3,3,4,3,No,15,5,67578,No,N/A,B202,45000
+EMP1262,24,M,HR,HR Executive,Master's,0,0,0,1,3,3,No,8,1,32936,No,N/A,A101,Not Available
+EMP1263,53,female,Sales,Sales Manager,Master's,20,6,4,4,4,1,No,20,1,154625,No,Check Later,,45000
+EMP1264,34,Female,Sales,Sales Manager,Master's,9,3,0,2,3,4,No,21,9,103110,No,Check Later,999X,Thirty Thousand
+EMP1265,41,male,IT,Software Engineer,PhD,4,1,0,2,4,3,Yes,1,3,85209,No,,B202,45000
+EMP1266,40,M,IT,System Administrator,Bachelor's,12,5,3,3,2,3,Yes,29,7,95340,Yes,Pending,A101,45000
+EMP1267,28,Female,Marketing,SEO Specialist,Diploma,4,0,0,2,2,2,Yes,24,10,39587,Yes,Pending,A101,Thirty Thousand
+EMP1268,27,Male,HR,HR Executive,Master's,4,3,3,4,1,2,No,30,4,60468,No,,??,Thirty Thousand
+EMP1269,23,Female,IT,Data Scientist,Master's,1,0,0,3,4,5,Yes,40,8,50105,No,,999X,
+EMP1270,37,female,IT,Data Analyst,Master's,14,12,1,3,3,4,Yes,35,3,130203,No,N/A,??,Not Available
+EMP1271,53,male,Operations,Operations Manager,Bachelor's,28,24,11,3,2,5,Yes,33,2,194200,Yes,Good,,45000
+EMP1272,32,female,HR,HR Executive,Bachelor's,5,3,2,2,2,5,Yes,20,9,69104,Yes,Good,B202,
+EMP1273,42,Female,Marketing,Marketing Executive,Bachelor's,19,18,2,2,4,3,No,16,7,133810,No,Check Later,B202,Thirty Thousand
+EMP1274,42,female,IT,Data Scientist,Bachelor's,17,1,1,5,4,3,Yes,9,0,125280,No,Pending,??,45000
+EMP1275,50,Male,Marketing,Digital Marketing Manager,Master's,24,21,6,3,3,5,No,31,8,199808,Yes,Pending,B202,
+EMP1276,58,Female,Finance,Financial Analyst,Master's,1,1,0,3,3,5,No,17,3,51653,Yes,Pending,,Not Available
+EMP1277,58,Male,Marketing,Digital Marketing Manager,Bachelor's,31,0,0,1,3,4,No,31,10,201776,Yes,,A101,45000
+EMP1278,28,Male,Sales,Sales Manager,Bachelor's,1,1,0,3,3,4,Yes,23,8,37768,No,Good,??,45000
+EMP1279,47,Female,Sales,Business Development Executive,Bachelor's,5,0,0,4,4,4,Yes,6,7,65809,No,Good,??,Thirty Thousand
+EMP1280,47,Female,Marketing,SEO Specialist,Bachelor's,8,8,1,4,2,3,Yes,30,2,74400,Yes,N/A,A101,Thirty Thousand
+EMP1281,54,Female,Sales,Business Development Executive,Master's,2,1,0,4,3,3,No,7,2,46437,Yes,Pending,??,Thirty Thousand
+EMP1282,41,Female,Finance,Accountant,MBA,0,0,0,2,3,4,Yes,40,8,43992,Yes,,??,
+EMP1283,50,Female,HR,Recruiter,Bachelor's,0,0,0,3,3,4,No,11,2,38312,No,Pending,B202,Not Available
+EMP1284,53,Male,Sales,Sales Manager,Master's,18,4,0,5,3,1,No,34,3,142310,Yes,Pending,A101,45000
+EMP1285,48,Female,Sales,Sales Executive,MBA,4,4,4,5,3,3,No,12,8,67393,No,Check Later,A101,
+EMP1286,53,Male,Marketing,Digital Marketing Manager,MBA,12,8,1,2,2,2,No,27,3,127805,Yes,Good,A101,Thirty Thousand
+EMP1287,25,Male,Finance,Financial Analyst,Bachelor's,2,1,0,3,3,3,No,12,10,41886,No,,??,Thirty Thousand
+EMP1288,39,Female,Customer Support,Support Executive,PhD,11,3,2,2,2,5,No,13,2,143857,No,,A101,45000
+EMP1289,24,Female,Customer Support,Support Executive,,0,0,0,,2,1,Yes,8,,,Yes,Pending,,
+EMP1290,55,Female,Customer Support,Support Executive,Bachelor's,11,0,0,3,1,3,No,16,5,87981,No,,B202,Not Available
+EMP1291,37,Female,Customer Support,Support Executive,Diploma,13,5,4,2,4,3,No,29,0,87317,No,N/A,999X,
+EMP1292,48,Female,HR,Recruiter,Bachelor's,4,2,2,4,3,4,No,35,9,54665,No,Check Later,999X,Thirty Thousand
+EMP1293,50,M,Marketing,SEO Specialist,Diploma,1,1,0,3,3,3,Yes,29,7,33371,Yes,N/A,??,
+EMP1294,49,Female,Marketing,Digital Marketing Manager,Bachelor's,21,21,17,2,3,3,No,31,0,143929,Yes,,,Thirty Thousand
+EMP1295,26,Female,Operations,Operations Executive,Bachelor's,4,3,0,1,3,2,Yes,13,3,45554,Yes,,A101,Thirty Thousand
+EMP1296,55,Male,Finance,Finance Manager,MBA,2,1,1,5,3,3,Yes,12,5,62346,No,Check Later,B202,Not Available
+EMP1297,57,Male,Customer Support,Support Executive,MBA,19,14,6,2,3,3,Yes,2,5,183678,Yes,Pending,B202,Thirty Thousand
+EMP1298,44,Female,HR,Recruiter,Bachelor's,4,0,0,4,3,3,Yes,33,6,55294,No,N/A,A101,
+EMP1299,49,Female,Finance,Finance Manager,MBA,23,17,6,3,3,5,No,8,10,222974,No,Good,B202,
+EMP1300,51,Female,Customer Support,Support Executive,MBA,7,2,1,4,3,3,No,40,4,91015,No,Pending,B202,Not Available
+EMP1301,55,Female,HR,Recruiter,Master's,32,9,5,3,4,2,Yes,32,4,231269,No,,999X,45000
+EMP1302,53,Female,Finance,Finance Manager,Diploma,7,0,0,1,4,4,No,38,3,58754,Yes,Good,B202,Thirty Thousand
+EMP1303,41,male,Marketing,SEO Specialist,Master's,17,6,4,2,2,3,No,28,5,147942,Yes,Check Later,,Not Available
+EMP1304,52,female,Marketing,Marketing Executive,MBA,19,14,2,2,2,4,No,15,6,189498,Yes,,999X,Not Available
+EMP1305,43,male,IT,Software Engineer,Master's,15,0,0,3,3,3,No,23,9,135107,No,Good,,
+EMP1306,53,F,Sales,Business Development Executive,,17,10,2,,3,3,No,24,,,No,N/A,A101,Not Available
+EMP1307,23,Male,Customer Support,Support Executive,Bachelor's,1,0,0,3,1,4,Yes,13,0,43113,No,,,Thirty Thousand
+EMP1308,38,Male,Operations,Operations Manager,Master's,11,4,2,1,4,5,No,21,8,112689,No,N/A,999X,Thirty Thousand
+EMP1309,45,Male,Finance,Finance Manager,,12,6,4,,2,3,No,12,,,No,Good,,
+EMP1310,51,Female,Operations,Operations Manager,,12,2,0,,4,3,No,13,,,Yes,,B202,Thirty Thousand
+EMP1311,23,M,IT,Data Scientist,Bachelor's,1,0,0,5,3,3,No,39,8,41182,No,,,
+EMP1312,60,Male,Sales,Sales Manager,MBA,38,28,3,4,4,5,No,23,2,329731,No,Good,??,Thirty Thousand
+EMP1313,44,M,Finance,Financial Analyst,MBA,13,2,0,3,2,5,Yes,28,9,148798,Yes,N/A,A101,Not Available
+EMP1314,52,Male,HR,Recruiter,Diploma,29,14,3,4,2,2,Yes,14,3,152472,No,N/A,??,
+EMP1315,42,F,Customer Support,Support Executive,PhD,15,4,1,5,3,2,Yes,17,6,161214,No,,A101,45000
+EMP1316,43,Female,Sales,Sales Executive,,14,6,6,,2,3,No,24,,,Yes,,,Thirty Thousand
+EMP1317,22,Male,Marketing,SEO Specialist,Master's,0,0,0,3,3,2,No,34,1,33319,No,,B202,
+EMP1318,47,Female,IT,Data Scientist,Master's,11,11,3,2,3,3,No,22,1,103445,No,Check Later,B202,Thirty Thousand
+EMP1319,22,Male,Sales,Sales Manager,MBA,0,0,0,3,2,2,No,10,9,35317,Yes,,??,Not Available
+EMP1320,46,Male,Customer Support,Support Executive,MBA,8,3,1,3,2,4,No,8,6,108241,Yes,N/A,??,
+EMP1321,37,Male,Sales,Business Development Executive,Bachelor's,7,4,4,4,4,5,No,21,8,81044,No,Good,A101,Not Available
+EMP1322,60,female,Customer Support,Support Executive,MBA,22,2,2,3,2,5,No,37,10,207811,No,,,Thirty Thousand
+EMP1323,53,Female,Marketing,Digital Marketing Manager,Diploma,31,8,0,1,1,3,Yes,7,8,163578,Yes,Check Later,,
+EMP1324,29,Male,Finance,Accountant,Master's,1,1,0,4,3,3,No,26,6,41164,No,Check Later,999X,Thirty Thousand
+EMP1325,59,Female,HR,HR Executive,Master's,12,8,4,5,4,5,No,13,10,124178,No,N/A,999X,Not Available
+EMP1326,49,male,Marketing,SEO Specialist,Master's,27,6,5,3,3,2,Yes,16,7,204479,No,N/A,??,Not Available
+EMP1327,46,Male,HR,HR Executive,Bachelor's,17,1,1,4,2,4,Yes,30,9,132250,Yes,Good,??,45000
+EMP1328,55,Female,Finance,Accountant,MBA,14,6,0,3,3,3,No,31,2,146150,No,Good,??,45000
+EMP1329,45,Male,Sales,Business Development Executive,Bachelor's,3,2,1,5,4,3,Yes,5,0,43953,No,,A101,Thirty Thousand
+EMP1330,44,Male,HR,HR Executive,Diploma,16,15,13,5,4,3,No,32,6,99718,Yes,,A101,
+EMP1331,33,Female,IT,Data Scientist,Master's,4,0,0,3,3,2,Yes,16,7,57435,No,Pending,B202,Thirty Thousand
+EMP1332,27,Male,IT,Software Engineer,Bachelor's,5,4,0,4,3,4,No,9,1,67755,No,N/A,??,45000
+EMP1333,56,Female,Customer Support,Support Executive,MBA,15,11,2,5,3,3,No,22,8,152244,Yes,,A101,Not Available
+EMP1334,40,male,Marketing,Marketing Executive,Bachelor's,8,2,1,3,1,3,No,40,3,71311,No,Pending,A101,Not Available
+EMP1335,21,Male,Finance,Financial Analyst,Bachelor's,0,0,0,3,3,2,No,37,9,32848,No,,,Not Available
+EMP1336,28,Female,Customer Support,Support Executive,MBA,1,1,0,4,3,5,No,14,10,59272,No,Check Later,B202,Not Available
+EMP1337,36,Male,Marketing,Digital Marketing Manager,Bachelor's,7,3,2,2,4,3,No,16,8,66629,No,N/A,??,Not Available
+EMP1338,34,F,Marketing,SEO Specialist,Bachelor's,1,0,0,3,2,3,No,20,2,39244,No,N/A,??,
+EMP1339,32,Female,Customer Support,Support Executive,,0,0,0,,1,3,No,15,,,No,Check Later,999X,45000
+EMP1340,43,female,Operations,Operations Executive,Bachelor's,17,5,2,4,3,3,Yes,26,10,121268,No,,999X,
+EMP1341,35,Female,Marketing,Digital Marketing Manager,Master's,6,3,1,3,3,2,No,9,1,73559,Yes,N/A,B202,
+EMP1342,48,Male,Operations,Operations Manager,Bachelor's,3,0,0,2,4,4,No,1,2,52006,No,,,
+EMP1343,54,Female,IT,Data Scientist,MBA,25,17,14,3,2,2,Yes,35,0,220244,Yes,,B202,
+EMP1344,22,F,IT,Data Scientist,MBA,0,0,0,3,2,2,Yes,20,4,41743,No,Check Later,,
+EMP1345,52,Female,Marketing,Digital Marketing Manager,Master's,4,2,0,2,3,4,Yes,6,3,65431,No,N/A,??,Thirty Thousand
+EMP1346,43,female,IT,Data Scientist,Diploma,15,8,2,4,3,3,No,10,0,92406,No,Check Later,A101,
+EMP1347,42,M,Finance,Finance Manager,MBA,2,0,0,3,4,3,No,33,9,56151,No,Check Later,999X,Not Available
+EMP1348,45,Male,Operations,Operations Manager,Master's,17,7,5,3,3,3,Yes,16,8,149558,No,N/A,A101,45000
+EMP1349,42,Male,Operations,Operations Executive,Master's,20,12,1,3,4,3,No,36,5,162991,No,Good,999X,Not Available
+EMP1350,42,Female,Marketing,Marketing Executive,Bachelor's,13,10,6,5,3,4,No,6,5,104623,Yes,,A101,45000
+EMP1351,26,Female,IT,Data Analyst,MBA,0,0,0,3,4,4,Yes,19,10,47057,No,Good,B202,Not Available
+EMP1352,35,female,HR,HR Executive,Master's,0,0,0,1,3,4,No,31,1,42194,Yes,N/A,999X,
+EMP1353,57,M,Customer Support,Support Executive,Diploma,24,11,3,1,4,4,No,2,6,136665,Yes,Pending,,Thirty Thousand
+EMP1354,53,Female,Customer Support,Support Executive,,20,13,8,,2,3,No,18,,,No,Check Later,??,45000
+EMP1355,28,Male,Operations,Operations Manager,MBA,0,0,0,4,3,3,Yes,28,5,47548,No,Check Later,A101,
+EMP1356,25,female,Marketing,SEO Specialist,Diploma,2,0,0,3,2,3,Yes,4,10,37389,No,Good,B202,45000
+EMP1357,59,Male,Marketing,Digital Marketing Manager,PhD,16,3,1,3,3,3,Yes,1,7,181082,No,Check Later,,
+EMP25001,Unknown,Unknown,Unknown,Unknown,Master's,1,0,0,1,3,5,No,16,4,52789,No,Good,999X,Thirty Thousand
+EMP1359,26,Female,Sales,Sales Executive,Master's,4,0,0,3,2,4,No,2,1,69998,No,,A101,Not Available
+EMP1360,52,Female,Sales,Sales Executive,Bachelor's,19,9,9,3,4,2,No,36,3,129808,No,Check Later,B202,
+EMP1361,50,Male,Operations,Operations Manager,Bachelor's,18,3,0,2,2,1,Yes,1,0,118561,Yes,Check Later,B202,
+EMP1362,55,Female,Customer Support,Support Executive,MBA,12,3,2,2,4,1,Yes,39,0,116259,Yes,N/A,A101,Thirty Thousand
+EMP1363,60,Female,Finance,Accountant,Bachelor's,17,8,7,2,4,3,No,23,5,123290,Yes,Check Later,,
+EMP1364,36,Female,Finance,Financial Analyst,Master's,6,4,2,2,1,2,No,26,1,72090,Yes,Good,999X,45000
+EMP1365,33,Male,Finance,Accountant,,0,0,0,,3,3,No,11,,,No,,A101,45000
+EMP1366,50,male,Operations,Operations Manager,Diploma,6,3,2,2,2,5,No,1,0,63065,No,Pending,999X,45000
+EMP1367,39,M,Sales,Sales Executive,Diploma,7,2,0,3,1,4,Yes,11,10,60054,No,N/A,??,Not Available
+EMP1368,37,Male,Customer Support,Support Executive,Bachelor's,1,1,1,2,3,3,Yes,24,9,42216,Yes,Good,A101,Not Available
+EMP1369,39,Male,Finance,Accountant,PhD,8,1,1,5,4,3,Yes,10,2,110789,No,,??,45000
+EMP1370,48,Male,Customer Support,Support Executive,Bachelor's,0,0,0,5,1,3,Yes,14,8,35558,No,Pending,A101,Thirty Thousand
+EMP1371,46,Female,IT,Data Scientist,Bachelor's,21,11,6,2,3,4,Yes,14,1,145414,Yes,,B202,
+EMP1372,57,Female,Marketing,SEO Specialist,Bachelor's,16,15,12,3,3,4,Yes,7,7,123129,No,Pending,,Thirty Thousand
+EMP1373,46,Female,Marketing,Marketing Executive,Bachelor's,18,4,0,2,4,5,Yes,23,5,135513,Yes,Pending,999X,Thirty Thousand
+EMP1374,43,Male,Customer Support,Support Executive,Bachelor's,5,3,2,3,1,3,Yes,22,5,55892,Yes,Check Later,A101,Not Available
+EMP1375,29,Female,HR,HR Executive,MBA,2,0,0,1,3,4,No,36,6,64985,No,Good,,45000
+EMP1376,32,Female,HR,Recruiter,Bachelor's,7,3,2,4,3,2,Yes,27,4,65722,Yes,,??,Not Available
+EMP1377,21,Female,Operations,Operations Manager,Bachelor's,0,0,0,3,3,3,No,2,10,37292,No,,,
+EMP1378,21,F,Operations,Operations Manager,Diploma,0,0,0,5,4,3,No,39,3,22454,Yes,Pending,999X,Thirty Thousand
+EMP1379,54,Male,Marketing,Digital Marketing Manager,PhD,19,10,6,2,4,3,No,19,5,198417,No,N/A,B202,45000
+EMP1380,52,Female,IT,Data Analyst,Bachelor's,24,8,7,5,1,4,No,7,7,167323,Yes,Good,??,Not Available
+EMP1381,45,Female,Sales,Sales Executive,Diploma,3,1,1,4,3,3,Yes,12,3,43705,No,Check Later,??,
+EMP1382,60,Female,Sales,Sales Executive,Master's,9,1,0,2,3,2,No,3,4,91541,No,Check Later,999X,Not Available
+EMP1383,21,male,Operations,Operations Manager,Master's,0,0,0,3,3,1,No,5,6,28773,Yes,N/A,B202,45000
+EMP1384,36,Female,IT,Software Engineer,Bachelor's,9,8,5,2,3,1,No,8,5,74859,No,Good,B202,Not Available
+EMP1385,59,F,Operations,Operations Manager,Bachelor's,23,2,1,3,3,1,Yes,14,3,144889,No,Good,B202,
+EMP1386,25,Male,Sales,Sales Executive,Master's,0,0,0,3,3,2,Yes,36,3,29584,No,Good,B202,45000
+EMP1387,42,Male,Customer Support,Support Executive,Bachelor's,10,3,1,4,4,3,Yes,7,9,82360,No,,A101,
+EMP1388,49,male,Operations,Operations Manager,MBA,26,16,3,3,1,3,No,7,3,233450,Yes,Check Later,A101,
+EMP1389,23,Female,Finance,Accountant,Master's,1,1,0,5,4,5,No,32,0,49282,No,Good,,45000
+EMP1390,32,Male,Customer Support,Support Executive,Bachelor's,9,0,0,2,3,3,Yes,8,4,81983,No,,A101,Thirty Thousand
+EMP1391,46,Male,Operations,Operations Executive,Bachelor's,16,16,8,5,3,2,No,12,7,112069,No,N/A,,
+EMP1392,36,Male,Marketing,Digital Marketing Manager,Bachelor's,6,0,0,2,4,3,No,10,6,62444,No,Pending,A101,Thirty Thousand
+EMP1393,57,M,Operations,Operations Executive,Master's,15,10,6,4,3,5,No,14,4,142538,Yes,,999X,45000
+EMP1394,42,Male,Marketing,Digital Marketing Manager,Bachelor's,2,0,0,3,3,4,No,9,2,46145,No,,B202,Thirty Thousand
+EMP1395,49,Male,IT,Data Analyst,Bachelor's,25,4,1,2,3,3,No,38,10,168102,No,Check Later,??,Not Available
+EMP1396,34,Male,Sales,Sales Executive,Master's,7,0,0,5,3,3,Yes,30,0,84975,Yes,Good,B202,45000
+EMP1397,48,Female,Customer Support,Support Executive,PhD,11,2,2,3,4,4,No,5,6,145730,Yes,N/A,??,Not Available
+EMP1398,25,Male,Customer Support,Support Executive,Bachelor's,2,2,2,4,4,4,Yes,1,10,47702,No,N/A,??,
+EMP1399,50,Female,HR,Recruiter,MBA,16,8,8,4,2,4,No,1,2,164232,No,N/A,??,
+EMP1400,25,Male,HR,HR Executive,Bachelor's,0,0,0,3,2,5,No,20,3,36425,No,Check Later,B202,
+EMP1401,32,female,Sales,Sales Manager,Diploma,1,1,1,3,3,5,No,11,4,35610,No,,??,Thirty Thousand
+EMP1402,36,Male,HR,Recruiter,Bachelor's,10,1,0,4,1,3,No,26,7,85170,No,N/A,,45000
+EMP1403,46,Female,Customer Support,Support Executive,Bachelor's,3,3,0,1,3,3,Yes,3,6,43629,No,Check Later,??,Thirty Thousand
+EMP1404,46,M,Operations,Operations Executive,Bachelor's,15,0,0,4,2,4,Yes,6,8,120958,No,Pending,B202,
+EMP1405,41,Female,IT,Data Scientist,Diploma,16,1,1,5,3,4,No,11,10,105806,No,,A101,Not Available
+EMP1406,59,Female,IT,System Administrator,MBA,31,13,13,1,1,1,Yes,8,2,260996,Yes,Pending,B202,45000
+EMP1407,56,Male,Sales,Sales Manager,MBA,5,5,4,2,3,5,No,29,10,85921,No,Good,A101,Not Available
+EMP1408,53,Male,HR,Recruiter,Master's,23,0,0,4,3,2,Yes,10,9,176509,No,Check Later,A101,Not Available
+EMP1409,50,Female,Operations,Operations Executive,Bachelor's,26,25,17,3,3,3,Yes,34,0,171619,Yes,Good,,45000
+EMP1410,57,F,IT,Data Scientist,Diploma,19,15,15,3,4,5,Yes,24,0,121239,Yes,N/A,A101,45000
+EMP1411,43,Female,IT,Software Engineer,Diploma,1,0,0,2,4,3,No,17,9,34715,Yes,N/A,??,Thirty Thousand
+EMP1412,30,Female,Finance,Finance Manager,Master's,8,7,3,3,3,3,No,32,0,87259,No,N/A,,45000
+EMP1413,25,male,Finance,Finance Manager,,3,2,1,,1,2,Yes,11,,,Yes,Good,,45000
+EMP1414,56,Female,Customer Support,Support Executive,Bachelor's,2,2,0,3,4,3,Yes,34,1,40170,No,Good,A101,
+EMP1415,54,Male,IT,Software Engineer,Diploma,19,14,3,4,4,2,No,24,6,114230,No,,A101,
+EMP1416,51,Female,Sales,Sales Executive,Bachelor's,5,2,1,3,4,3,Yes,5,8,61055,No,Check Later,B202,
+EMP1417,30,F,Marketing,SEO Specialist,Bachelor's,6,1,1,3,2,3,No,29,7,64567,No,Good,??,Thirty Thousand
+EMP1418,39,Male,Marketing,Marketing Executive,Bachelor's,0,0,0,5,4,5,No,34,3,43362,No,N/A,,
+EMP1419,52,Female,Operations,Operations Executive,Master's,22,1,1,4,2,5,No,16,1,181042,No,,B202,45000
+EMP1420,21,Male,IT,System Administrator,Master's,0,0,0,5,3,2,No,25,2,29312,No,Check Later,A101,45000
+EMP1421,25,Female,IT,Software Engineer,Diploma,0,0,0,3,4,4,No,37,9,34485,No,,B202,
+EMP1422,24,Male,Customer Support,Support Executive,,0,0,0,,2,2,No,8,,,No,,,
+EMP1423,36,Female,IT,Data Scientist,,5,2,2,,4,1,No,29,,,No,,A101,Thirty Thousand
+EMP1424,44,male,Sales,Business Development Executive,Bachelor's,12,9,9,2,3,2,No,25,7,94753,Yes,Pending,B202,45000
+EMP1425,36,Male,Finance,Accountant,Diploma,1,0,0,2,4,5,Yes,23,2,38087,Yes,N/A,A101,Not Available
+EMP1426,22,Female,IT,Data Analyst,Bachelor's,0,0,0,3,2,5,No,34,8,44151,No,Check Later,A101,Not Available
+EMP25002,Unknown,Unknown,Unknown,Unknown,Diploma,14,6,0,5,4,2,Yes,3,9,90827,No,,,45000
+EMP1428,52,M,Customer Support,Support Executive,,14,0,0,,1,2,No,30,,,No,Good,A101,Not Available
+EMP1429,47,Male,HR,HR Executive,MBA,12,7,7,4,3,3,No,34,9,132313,No,,B202,
+EMP25003,Unknown,Unknown,Unknown,Unknown,Bachelor's,13,11,11,4,3,3,Yes,32,7,104461,Yes,Good,,Thirty Thousand
+EMP1431,44,Male,Customer Support,Support Executive,Bachelor's,21,3,2,4,3,3,Yes,29,0,142097,No,,999X,Not Available
+EMP1432,32,F,Sales,Sales Executive,,6,5,4,,2,3,No,9,,,No,,A101,Not Available
+EMP1433,55,M,Operations,Operations Executive,,30,30,21,,3,4,No,2,,,No,Good,??,
+EMP1434,53,Female,IT,Data Scientist,MBA,23,20,2,3,2,3,No,39,5,204040,Yes,Pending,,45000
+EMP1435,53,female,Customer Support,Support Executive,MBA,26,9,1,1,3,5,No,7,1,241854,No,Good,??,Thirty Thousand
+EMP1436,57,Female,Customer Support,Support Executive,Diploma,30,28,14,5,2,4,Yes,5,6,161826,Yes,,??,Not Available
+EMP1437,32,Female,HR,Recruiter,Master's,9,0,0,2,4,3,No,8,4,97615,No,Check Later,??,Not Available
+EMP1438,23,Male,Customer Support,Support Executive,Bachelor's,1,1,0,1,1,4,No,32,9,39958,Yes,Good,999X,45000
+EMP1439,21,male,Marketing,Marketing Executive,,0,0,0,,2,4,No,18,,,No,Pending,A101,
+EMP1440,53,Male,Operations,Operations Manager,Bachelor's,16,0,0,3,2,3,Yes,38,10,118247,Yes,Check Later,,
+EMP1441,60,female,IT,Data Scientist,PhD,13,0,0,4,3,3,No,18,5,153039,No,N/A,,Thirty Thousand
+EMP1442,30,female,IT,System Administrator,Master's,7,1,1,3,2,5,Yes,16,10,85437,No,Good,A101,
+EMP1443,49,male,HR,Recruiter,Bachelor's,3,0,0,3,3,2,Yes,21,5,43734,No,Pending,,Thirty Thousand
+EMP1444,33,Male,Sales,Business Development Executive,Bachelor's,9,6,5,3,4,1,No,10,9,70767,No,,,45000
+EMP1445,32,Male,IT,Data Scientist,PhD,7,6,0,3,3,3,Yes,4,7,106879,Yes,,999X,Thirty Thousand
+EMP1446,51,Male,Marketing,Digital Marketing Manager,MBA,12,3,0,3,3,4,Yes,8,9,134249,No,N/A,B202,45000
+EMP1447,22,Female,IT,Data Analyst,Diploma,0,0,0,4,1,4,No,19,3,33334,No,Check Later,??,
+EMP1448,55,Male,Marketing,Marketing Executive,Master's,26,14,10,3,3,5,No,40,9,212167,No,,,45000
+EMP1449,43,F,Operations,Operations Executive,Bachelor's,19,12,6,5,2,3,No,40,7,135942,Yes,N/A,A101,Not Available
+EMP1450,37,Female,Operations,Operations Manager,Diploma,1,1,0,1,4,2,No,9,8,30966,No,Check Later,,Thirty Thousand
+EMP1451,46,Male,Finance,Finance Manager,,13,1,1,,2,3,No,30,,,No,Check Later,,Not Available
+EMP1452,28,Female,Finance,Accountant,Bachelor's,1,1,0,4,3,4,Yes,17,0,41915,Yes,Pending,999X,45000
+EMP1453,49,Female,Marketing,Marketing Executive,MBA,4,2,1,5,3,2,No,40,2,70251,No,Good,B202,Not Available
+EMP1454,46,Female,Sales,Sales Manager,Bachelor's,8,7,2,1,4,2,No,15,0,69019,Yes,,??,
+EMP1455,30,Female,IT,Data Scientist,MBA,2,0,0,4,2,1,No,4,6,49174,No,,A101,Not Available
+EMP1456,46,M,Customer Support,Support Executive,Diploma,7,7,3,5,3,3,Yes,6,0,60592,Yes,Good,,Thirty Thousand
+EMP1457,54,Female,IT,Data Analyst,Bachelor's,19,10,6,2,2,5,Yes,16,10,140049,Yes,,B202,45000
+EMP1458,27,F,Finance,Financial Analyst,Bachelor's,5,2,0,5,3,4,No,26,3,59192,No,Check Later,A101,Thirty Thousand
+EMP1459,24,female,Customer Support,Support Executive,Bachelor's,1,1,1,1,4,5,No,37,0,42355,No,Good,999X,45000
+EMP1460,31,Male,Marketing,Marketing Executive,Diploma,5,1,0,4,3,2,No,23,1,44006,No,,999X,Thirty Thousand
+EMP25004,Unknown,Unknown,Unknown,Unknown,Bachelor's,18,8,4,5,3,5,No,13,10,132133,No,Good,999X,Not Available
+EMP1462,56,Male,IT,System Administrator,Master's,29,26,19,4,4,4,Yes,17,0,222262,Yes,,A101,45000
+EMP1463,45,female,IT,System Administrator,Bachelor's,20,8,2,3,3,3,No,27,4,137195,No,Pending,999X,Thirty Thousand
+EMP1464,41,Female,Sales,Sales Manager,Bachelor's,2,0,0,1,3,5,No,22,6,45653,Yes,Good,999X,Thirty Thousand
+EMP1465,56,M,HR,HR Executive,Bachelor's,10,0,0,5,3,3,No,37,2,85057,No,Check Later,999X,
+EMP1466,30,M,Customer Support,Support Executive,MBA,0,0,0,3,3,5,Yes,19,7,55302,No,Good,,
+EMP1467,57,female,Finance,Finance Manager,MBA,35,30,9,1,2,5,No,39,4,309415,Yes,,B202,
+EMP1468,29,female,Finance,Financial Analyst,Bachelor's,5,3,0,4,4,4,No,35,4,61237,No,N/A,B202,Thirty Thousand
+EMP1469,44,Male,HR,HR Executive,Bachelor's,22,9,2,3,3,3,Yes,13,4,149531,Yes,Check Later,,45000
+EMP1470,55,Male,IT,System Administrator,Diploma,18,4,2,2,1,2,No,14,7,101027,No,,??,
+EMP1471,55,Female,Sales,Sales Executive,PhD,11,1,0,2,4,3,Yes,31,1,134866,Yes,,??,Not Available
+EMP1472,56,Male,Sales,Sales Executive,Diploma,14,14,6,1,3,3,No,2,1,85469,Yes,Pending,B202,Thirty Thousand
+EMP1473,38,Female,Finance,Finance Manager,Bachelor's,10,5,4,4,2,4,No,39,7,92660,No,Pending,999X,Thirty Thousand
+EMP1474,59,Male,Sales,Sales Manager,Bachelor's,36,5,3,4,3,4,Yes,37,8,233305,No,,999X,45000
+EMP1475,52,F,Operations,Operations Manager,Bachelor's,4,3,0,3,4,5,Yes,14,10,62183,No,,A101,
+EMP1476,44,Female,HR,HR Executive,Bachelor's,14,4,2,5,4,1,No,9,9,96893,No,Check Later,??,Thirty Thousand
+EMP1477,43,female,IT,System Administrator,Master's,17,13,12,5,4,4,No,10,9,148889,No,Good,,
+EMP1478,52,Male,Operations,Operations Executive,Diploma,10,6,0,4,4,5,No,7,1,75912,No,,B202,Not Available
+EMP1479,57,M,HR,HR Executive,Master's,25,9,6,1,1,4,Yes,28,3,199989,Yes,Good,B202,
+EMP1480,32,M,Marketing,Marketing Executive,Diploma,1,1,0,4,3,2,No,25,7,23680,Yes,N/A,,
+EMP1481,33,Female,Customer Support,Support Executive,Diploma,3,3,3,3,4,2,Yes,28,1,41912,No,,A101,45000
+EMP1482,43,Female,Finance,Finance Manager,MBA,14,14,14,4,3,1,No,2,3,133542,No,N/A,B202,
+EMP1483,45,male,Sales,Sales Manager,Bachelor's,19,6,2,4,3,4,No,17,9,137223,No,,??,Thirty Thousand
+EMP1484,55,Male,Marketing,SEO Specialist,MBA,3,1,1,3,3,4,No,4,0,69329,No,Pending,999X,45000
+EMP1485,50,Female,Sales,Sales Manager,Bachelor's,21,8,5,5,3,5,No,13,1,153259,No,N/A,A101,Thirty Thousand
+EMP1486,37,Female,Operations,Operations Executive,,1,1,0,,4,3,Yes,18,,,No,Pending,??,Thirty Thousand
+EMP1487,40,Male,IT,System Administrator,PhD,5,1,0,4,3,3,Yes,3,0,93855,No,,A101,Thirty Thousand
+EMP1488,45,Female,IT,Software Engineer,Bachelor's,22,15,14,1,3,4,No,37,0,154484,Yes,,999X,Thirty Thousand
+EMP1489,42,Male,IT,Data Analyst,MBA,18,6,0,5,4,4,No,33,1,180454,Yes,,999X,Thirty Thousand
+EMP1490,33,Male,Sales,Sales Manager,,10,4,0,,3,5,No,24,,,No,Check Later,??,45000
+EMP1491,39,Male,Marketing,Digital Marketing Manager,MBA,1,0,0,1,2,4,No,8,6,56173,No,Check Later,B202,Thirty Thousand
+EMP1492,56,F,IT,Software Engineer,Diploma,7,2,0,3,3,3,No,35,3,59917,No,,A101,Thirty Thousand
+EMP1493,32,Female,Marketing,SEO Specialist,,10,1,1,,4,4,No,2,,,No,,,
+EMP1494,39,F,Sales,Business Development Executive,Master's,4,2,0,2,4,5,No,33,3,67813,No,N/A,999X,Thirty Thousand
+EMP1495,32,Female,Operations,Operations Executive,MBA,1,0,0,4,4,3,Yes,12,3,51904,No,Pending,B202,Thirty Thousand
+EMP1496,29,Male,Marketing,Marketing Executive,MBA,6,4,4,3,3,3,Yes,22,8,82417,No,Good,??,Thirty Thousand
+EMP1497,27,Female,Operations,Operations Manager,MBA,5,3,1,1,2,2,No,13,5,73054,No,Pending,999X,Thirty Thousand
+EMP1498,48,Female,Sales,Sales Manager,MBA,17,4,4,3,4,1,No,10,2,157842,No,Check Later,999X,Not Available
+EMP1499,34,Male,Sales,Sales Executive,Bachelor's,5,3,2,5,4,4,No,17,5,66949,No,Pending,??,
+EMP1500,51,Female,Finance,Accountant,Bachelor's,9,3,0,4,2,2,Yes,5,6,78498,No,Good,B202,Not Available
+EMP1501,39,Male,Sales,Sales Manager,Bachelor's,2,2,1,4,2,3,No,9,6,47012,No,,999X,Not Available
+EMP1502,36,Female,Sales,Sales Executive,Bachelor's,8,8,0,4,4,3,Yes,13,7,74184,No,Check Later,999X,Thirty Thousand
+EMP1503,25,Female,HR,Recruiter,Bachelor's,2,2,2,3,4,3,No,23,3,38381,No,Check Later,??,
+EMP1504,55,Male,IT,Data Analyst,Bachelor's,10,9,5,1,4,3,Yes,30,0,88229,Yes,N/A,A101,Thirty Thousand
+EMP1505,32,Male,Finance,Accountant,Bachelor's,2,0,0,3,4,4,Yes,4,5,44467,Yes,Pending,??,Not Available
+EMP1506,45,female,Customer Support,Support Executive,Master's,20,12,3,5,3,2,Yes,21,7,164591,No,,999X,45000
+EMP1507,41,Female,Finance,Financial Analyst,Bachelor's,6,4,2,5,3,2,Yes,9,4,62373,No,N/A,,
+EMP1508,56,Male,Finance,Finance Manager,Bachelor's,13,7,0,3,3,3,No,7,2,103021,No,N/A,??,45000
+EMP1509,43,F,Customer Support,Support Executive,Bachelor's,10,5,3,1,1,3,Yes,16,3,91091,Yes,N/A,B202,Not Available
+EMP1510,36,Male,HR,Recruiter,Master's,6,2,2,2,3,3,Yes,23,7,79776,Yes,Check Later,??,45000
+EMP1511,59,Female,Operations,Operations Manager,Master's,24,0,0,3,3,2,No,23,5,182164,No,,A101,Not Available
+EMP1512,59,F,Sales,Business Development Executive,Master's,20,15,0,4,3,5,No,31,4,172716,No,Check Later,A101,
+EMP1513,34,Male,IT,Data Scientist,Bachelor's,9,5,1,1,3,4,Yes,5,8,82905,No,,999X,Not Available
+EMP1514,51,Male,Marketing,Marketing Executive,Bachelor's,10,0,0,5,3,2,Yes,6,9,80015,No,Check Later,,45000
+EMP1515,25,Male,Customer Support,Support Executive,Diploma,2,0,0,3,2,2,No,1,2,28125,No,Good,,45000
+EMP1516,55,Male,Operations,Operations Executive,Bachelor's,18,17,14,5,2,5,No,28,6,134420,Yes,Check Later,??,Not Available
+EMP1517,43,Male,Customer Support,Support Executive,Bachelor's,15,10,7,4,2,4,No,18,8,116215,No,Good,A101,45000
+EMP1518,49,Female,Sales,Sales Manager,Diploma,21,17,0,4,2,3,No,24,10,117951,No,Pending,,Thirty Thousand
+EMP1519,31,Male,HR,HR Executive,Bachelor's,4,1,1,4,4,4,Yes,13,10,61800,Yes,,??,45000
+EMP1520,38,Female,Customer Support,Support Executive,PhD,11,9,3,4,2,4,Yes,33,3,147505,Yes,Pending,B202,Thirty Thousand
+EMP1521,32,F,Sales,Business Development Executive,PhD,1,1,0,4,2,4,No,10,9,62647,No,Good,,Thirty Thousand
+EMP1522,29,female,Sales,Sales Executive,Bachelor's,6,5,4,4,3,3,No,7,9,66503,No,N/A,999X,45000
+EMP1523,30,Female,HR,HR Executive,Diploma,4,1,1,4,3,3,Yes,37,2,47369,No,,999X,
+EMP1524,37,Male,Finance,Finance Manager,Bachelor's,3,2,2,5,2,1,No,32,0,39530,No,N/A,B202,
+EMP1525,58,Female,Finance,Accountant,Bachelor's,27,24,5,4,4,5,Yes,22,8,181096,No,N/A,,45000
+EMP1526,27,Female,IT,Data Scientist,MBA,5,4,0,4,4,4,Yes,16,0,81270,Yes,Check Later,??,45000
+EMP1527,33,Female,IT,System Administrator,Diploma,7,0,0,5,2,3,Yes,24,1,63207,Yes,Good,??,Thirty Thousand
+EMP1528,60,Male,Finance,Financial Analyst,Master's,8,6,6,2,2,5,Yes,14,8,100826,Yes,Check Later,999X,
+EMP1529,29,M,Operations,Operations Executive,Diploma,0,0,0,1,4,5,No,11,4,37727,Yes,Check Later,999X,Thirty Thousand
+EMP1530,47,Female,Marketing,SEO Specialist,PhD,18,8,2,3,4,5,No,19,3,209205,No,,A101,
+EMP1531,22,Male,Sales,Sales Manager,Bachelor's,0,0,0,3,3,5,Yes,23,8,43101,No,Good,B202,
+EMP1532,25,Female,Marketing,Marketing Executive,Master's,2,0,0,5,1,5,No,34,8,63002,No,Good,B202,Not Available
+EMP1533,49,Female,Sales,Business Development Executive,Bachelor's,4,1,0,3,3,3,No,40,1,58210,No,N/A,,45000
+EMP1534,57,female,Finance,Accountant,Master's,20,2,0,4,3,4,No,13,2,166411,No,,999X,
+EMP1535,58,male,IT,Data Analyst,Bachelor's,17,2,0,3,2,4,No,39,2,126518,Yes,Good,B202,Not Available
+EMP1536,39,male,Operations,Operations Manager,Diploma,0,0,0,1,3,3,Yes,28,4,28717,Yes,Pending,999X,Not Available
+EMP1537,28,Male,IT,System Administrator,MBA,2,0,0,4,3,2,No,40,2,52720,No,Good,999X,
+EMP1538,21,Female,Marketing,Marketing Executive,MBA,0,0,0,5,3,5,No,16,9,49844,No,,B202,
+EMP1539,42,Female,IT,Data Analyst,MBA,16,1,0,2,4,3,No,28,5,154516,No,Good,??,Thirty Thousand
+EMP1540,37,Male,Finance,Financial Analyst,Master's,15,15,5,4,4,5,No,4,1,136856,No,,,
+EMP1541,27,Male,Operations,Operations Manager,MBA,0,0,0,4,3,1,Yes,28,5,29588,No,Good,??,
+EMP1542,45,male,Marketing,Digital Marketing Manager,Diploma,10,8,7,2,4,1,No,12,5,66587,Yes,N/A,A101,Thirty Thousand
+EMP1543,24,Male,Operations,Operations Manager,,2,2,2,,2,3,Yes,16,,,Yes,N/A,999X,45000
+EMP1544,56,Female,Sales,Sales Manager,Bachelor's,33,14,9,5,4,3,Yes,36,5,213472,Yes,,??,
+EMP1545,26,Male,IT,Data Analyst,Master's,2,1,1,3,2,4,Yes,20,5,55688,No,Good,??,Thirty Thousand
+EMP1546,51,Male,Operations,Operations Manager,Bachelor's,11,4,0,2,1,3,No,26,5,89145,Yes,Pending,999X,45000
+EMP1547,39,Male,HR,HR Executive,Diploma,3,0,0,2,3,2,Yes,26,4,41776,Yes,,,Not Available
+EMP1548,59,F,IT,Software Engineer,Master's,11,3,0,4,3,2,No,22,6,100905,No,,B202,Not Available
+EMP1549,47,female,Sales,Sales Manager,MBA,12,2,0,4,4,3,No,9,4,129035,No,,??,
+EMP1550,30,F,Operations,Operations Manager,Bachelor's,1,0,0,4,3,2,No,5,10,35828,No,,A101,Thirty Thousand
+EMP1551,46,Female,Marketing,Marketing Executive,Diploma,1,1,0,1,2,4,Yes,17,0,29576,Yes,Pending,999X,45000
+EMP1552,39,Male,Sales,Business Development Executive,Bachelor's,14,14,0,5,3,3,No,34,8,108752,No,,??,
+EMP1553,59,Female,HR,Recruiter,Bachelor's,22,20,11,3,3,2,No,2,2,145162,No,N/A,B202,Not Available
+EMP1554,23,Female,Operations,Operations Manager,,0,0,0,,3,3,No,7,,,Yes,Check Later,999X,Thirty Thousand
+EMP1555,33,female,Customer Support,Support Executive,Master's,0,0,0,3,3,2,No,36,9,35687,Yes,,??,45000
+EMP1556,48,Male,Customer Support,Support Executive,Master's,6,5,4,3,4,2,No,13,5,72370,No,,??,45000
+EMP1557,40,Female,Finance,Finance Manager,Master's,13,1,1,5,4,3,No,20,7,122651,No,Check Later,??,Not Available
+EMP1558,48,Male,IT,System Administrator,Bachelor's,11,2,1,5,4,5,No,30,1,100609,No,,B202,45000
+EMP1559,28,Male,Marketing,Digital Marketing Manager,MBA,5,2,1,3,2,5,Yes,30,3,91856,Yes,Check Later,A101,Not Available
+EMP1560,59,male,Finance,Finance Manager,,16,14,6,,3,4,No,11,,,Yes,,,45000
+EMP1561,21,Female,Operations,Operations Executive,Bachelor's,0,0,0,4,3,3,No,31,8,30137,No,Good,A101,Not Available
+EMP1562,23,Female,Customer Support,Support Executive,MBA,1,1,0,5,3,3,No,3,9,54944,No,Pending,B202,Thirty Thousand
+EMP1563,33,Female,Customer Support,Support Executive,Bachelor's,5,3,0,2,3,3,No,2,1,59804,Yes,N/A,999X,Not Available
+EMP1564,48,Female,Customer Support,Support Executive,Diploma,18,8,1,4,4,4,Yes,3,9,115138,No,Check Later,A101,
+EMP1565,45,female,Operations,Operations Executive,MBA,23,4,3,3,3,5,No,15,1,218049,No,N/A,999X,Thirty Thousand
+EMP1566,53,M,Customer Support,Support Executive,Bachelor's,5,3,2,5,4,2,No,17,4,54668,No,N/A,999X,45000
+EMP1567,58,F,Sales,Business Development Executive,Master's,26,1,0,1,4,1,No,7,4,191337,No,N/A,999X,Not Available
+EMP1568,26,female,Operations,Operations Executive,Diploma,1,1,1,4,4,4,Yes,5,6,37324,No,,B202,Not Available
+EMP1569,52,Male,Marketing,Digital Marketing Manager,Master's,23,17,14,3,4,4,No,34,0,188036,No,,A101,Not Available
+EMP1570,41,Female,Finance,Finance Manager,Bachelor's,4,3,2,3,3,4,No,33,1,60399,Yes,Check Later,,Not Available
+EMP1571,36,Female,Marketing,Digital Marketing Manager,Diploma,7,4,2,4,2,4,Yes,16,10,59986,No,Pending,B202,Not Available
+EMP1572,41,Male,HR,Recruiter,Master's,5,2,1,5,3,5,Yes,37,10,73702,Yes,N/A,,Not Available
+EMP1573,31,female,Customer Support,Support Executive,Bachelor's,1,0,0,4,1,3,No,3,5,41811,No,Good,A101,Thirty Thousand
+EMP1574,57,Male,HR,Recruiter,Bachelor's,14,10,1,5,3,5,Yes,21,1,118814,No,Good,A101,
+EMP1575,56,M,IT,Data Scientist,Diploma,10,4,3,3,3,5,No,8,3,81763,Yes,Pending,999X,45000
+EMP1576,55,Female,IT,Data Scientist,Diploma,21,5,5,3,3,4,Yes,22,9,127406,No,Check Later,,Thirty Thousand
+EMP1577,39,Female,HR,Recruiter,Bachelor's,0,0,0,3,4,3,No,5,5,32759,No,,,45000
+EMP1578,40,Female,Operations,Operations Manager,Diploma,17,13,10,1,4,2,No,17,6,100030,No,Check Later,999X,45000
+EMP1579,38,M,Marketing,Marketing Executive,MBA,11,11,9,4,2,3,No,37,9,127015,Yes,Good,B202,Thirty Thousand
+EMP1580,34,Female,HR,HR Executive,Diploma,11,9,6,4,3,3,No,14,4,73133,No,Good,,
+EMP1581,35,Female,IT,Software Engineer,Bachelor's,8,7,3,4,3,5,No,39,7,84469,No,Check Later,999X,Thirty Thousand
+EMP1582,51,Male,HR,HR Executive,Diploma,10,10,7,4,3,2,No,28,5,65753,No,Good,A101,45000
+EMP1583,21,Female,Operations,Operations Executive,Bachelor's,0,0,0,4,4,3,Yes,31,4,36059,No,Good,A101,45000
+EMP1584,23,Male,HR,Recruiter,MBA,1,1,1,1,3,4,No,17,3,56553,No,Pending,,
+EMP1585,36,male,Marketing,Marketing Executive,Bachelor's,7,2,2,2,3,2,Yes,35,5,71498,Yes,Check Later,B202,Not Available
+EMP1586,43,Female,Finance,Finance Manager,PhD,6,2,0,4,4,3,No,40,5,100464,Yes,,999X,
+EMP1587,31,Female,Operations,Operations Manager,Bachelor's,6,4,3,3,4,3,Yes,22,5,59946,Yes,Good,A101,Thirty Thousand
+EMP1588,32,Male,IT,Data Scientist,Master's,4,2,0,1,2,4,Yes,29,0,69707,Yes,Check Later,B202,
+EMP1589,30,Male,Marketing,Marketing Executive,Bachelor's,1,1,0,3,3,2,No,10,5,29516,No,Check Later,B202,
+EMP1590,52,male,HR,Recruiter,MBA,10,2,0,4,3,5,Yes,18,0,128597,No,,B202,45000
+EMP1591,36,Male,HR,Recruiter,Master's,5,1,1,3,2,3,Yes,35,4,73066,Yes,Check Later,999X,Not Available
+EMP1592,28,Male,Finance,Financial Analyst,Bachelor's,1,0,0,4,1,5,No,16,6,41177,No,N/A,,Thirty Thousand
+EMP1593,58,Male,IT,Software Engineer,Bachelor's,34,27,25,4,3,3,No,7,0,214422,No,Check Later,,
+EMP1594,32,F,IT,Data Scientist,Bachelor's,3,1,0,3,3,3,No,30,0,46194,No,N/A,999X,
+EMP1595,44,male,Sales,Business Development Executive,MBA,9,7,1,4,2,2,No,19,5,106703,No,,B202,45000
+EMP1596,48,Female,IT,System Administrator,Bachelor's,26,17,4,4,3,1,Yes,23,6,161364,No,,,Not Available
+EMP1597,28,Male,Finance,Financial Analyst,Bachelor's,1,1,0,4,4,3,No,8,5,40636,Yes,,??,45000
+EMP1598,48,Male,Customer Support,Support Executive,Master's,13,3,1,4,2,2,Yes,17,4,116776,No,,??,Thirty Thousand
+EMP1599,56,male,Sales,Business Development Executive,Bachelor's,17,9,2,1,1,3,No,21,5,119635,Yes,,999X,Not Available
+EMP1600,46,Female,Sales,Sales Manager,PhD,23,16,2,4,4,3,No,26,2,233251,No,,999X,Not Available
+EMP1601,28,Male,HR,Recruiter,Master's,1,1,0,3,1,3,No,28,8,42030,No,,,
+EMP1602,48,Male,HR,HR Executive,Master's,21,11,9,5,4,2,No,39,4,161034,No,,??,
+EMP1603,48,Male,IT,Data Analyst,MBA,12,12,10,5,3,4,Yes,33,1,134018,Yes,Good,999X,45000
+EMP1604,57,Female,Sales,Sales Executive,Diploma,7,4,4,4,3,5,No,40,9,68495,No,,999X,
+EMP1605,56,male,HR,Recruiter,Bachelor's,3,2,0,3,2,2,No,19,9,42366,Yes,,B202,Not Available
+EMP1606,47,Male,Finance,Finance Manager,Bachelor's,3,0,0,2,1,2,Yes,29,6,49668,Yes,N/A,B202,Not Available
+EMP1607,37,Male,HR,HR Executive,,4,3,0,,2,5,Yes,20,,,No,,999X,Not Available
+EMP1608,29,Male,Operations,Operations Manager,Master's,0,0,0,3,2,1,No,20,0,25405,No,Check Later,A101,
+EMP1609,53,F,Operations,Operations Manager,MBA,16,9,8,3,3,5,No,10,2,170908,Yes,Check Later,B202,Not Available
+EMP1610,40,Male,HR,Recruiter,,1,0,0,,2,1,No,12,,,No,Check Later,999X,Thirty Thousand
+EMP1611,33,male,Sales,Business Development Executive,Bachelor's,7,6,4,2,3,5,No,33,4,77091,No,Pending,,Thirty Thousand
+EMP1612,48,Female,Customer Support,Support Executive,PhD,6,2,0,5,3,3,Yes,25,6,99869,No,,??,45000
+EMP1613,49,Female,Customer Support,Support Executive,Bachelor's,14,14,9,2,2,5,No,25,2,118029,Yes,Pending,B202,Not Available
+EMP1614,33,Male,Sales,Business Development Executive,Bachelor's,9,1,0,5,1,3,No,4,3,77896,Yes,,??,Not Available
+EMP1615,55,Male,Marketing,Digital Marketing Manager,Bachelor's,33,24,14,5,1,4,Yes,4,0,212265,Yes,,999X,45000
+EMP1616,26,Female,Customer Support,Support Executive,MBA,3,0,0,3,1,2,No,9,2,57748,Yes,N/A,??,Not Available
+EMP1617,38,male,Operations,Operations Executive,Master's,6,5,5,4,3,3,Yes,15,6,77292,No,N/A,A101,
+EMP1618,25,Female,Finance,Finance Manager,Master's,1,1,0,3,3,4,Yes,26,3,45961,No,Good,??,45000
+EMP1619,45,Female,Sales,Sales Executive,MBA,6,2,0,4,4,3,Yes,15,1,84378,No,Good,??,45000
+EMP1620,22,Male,IT,Data Analyst,Bachelor's,0,0,0,3,3,5,No,26,4,41549,No,Pending,999X,Not Available
+EMP1621,30,F,Operations,Operations Manager,,4,2,0,,3,3,No,28,,,No,Pending,,45000
+EMP1622,50,female,Finance,Finance Manager,MBA,17,17,2,4,3,5,No,7,1,176659,No,Good,,
+EMP1623,25,Male,Finance,Finance Manager,Bachelor's,1,1,0,3,3,3,Yes,32,10,38907,No,Pending,999X,
+EMP1624,53,F,Sales,Business Development Executive,Master's,3,0,0,4,2,5,No,12,5,70040,No,,B202,Not Available
+EMP1625,21,Female,Finance,Financial Analyst,MBA,0,0,0,3,2,5,No,35,9,54301,No,N/A,??,45000
+EMP1626,38,Female,Sales,Sales Executive,Master's,9,6,2,3,3,3,No,32,3,92161,No,Pending,A101,Not Available
+EMP1627,52,male,Customer Support,Support Executive,Master's,17,2,1,1,3,5,No,9,0,154465,Yes,Pending,,Thirty Thousand
+EMP1628,31,female,HR,HR Executive,MBA,8,6,4,1,3,4,No,14,2,108810,No,,,45000
+EMP1629,41,Female,Operations,Operations Manager,MBA,6,3,2,3,3,3,Yes,13,8,84758,No,Pending,,Thirty Thousand
+EMP1630,46,Male,Marketing,Digital Marketing Manager,Bachelor's,5,0,0,1,3,4,No,33,9,58275,No,,B202,Thirty Thousand
+EMP1631,45,Male,HR,Recruiter,Diploma,4,4,4,2,3,2,No,32,6,41078,No,N/A,B202,Thirty Thousand
+EMP1632,42,M,Operations,Operations Manager,Bachelor's,2,2,2,5,3,4,No,19,5,46554,No,Pending,,Not Available
+EMP1633,47,Male,Sales,Sales Manager,Master's,11,7,4,1,3,2,Yes,30,0,102598,Yes,Pending,??,Thirty Thousand
+EMP1634,33,Female,Operations,Operations Manager,Bachelor's,9,5,5,4,3,2,Yes,16,8,72764,No,N/A,999X,Not Available
+EMP1635,53,Female,Customer Support,Support Executive,Master's,25,17,7,3,3,3,No,12,8,191094,Yes,,??,45000
+EMP1636,54,Female,Sales,Sales Manager,,19,18,8,,3,3,Yes,10,,,No,N/A,??,45000
+EMP1637,55,Female,HR,HR Executive,Master's,18,14,13,3,4,5,Yes,2,5,160470,Yes,N/A,999X,
+EMP1638,21,F,IT,Software Engineer,Bachelor's,0,0,0,3,3,5,No,18,6,35189,No,,,Not Available
+EMP1639,41,Male,IT,Software Engineer,Master's,15,9,5,3,3,3,No,13,1,131594,No,Check Later,B202,Not Available
+EMP1640,26,Male,Operations,Operations Executive,Bachelor's,3,2,0,3,4,2,No,29,9,44313,No,,,Not Available
+EMP1641,48,Male,IT,Data Scientist,Bachelor's,10,9,1,4,3,4,No,24,7,93932,No,Check Later,B202,Thirty Thousand
+EMP1642,37,M,Sales,Sales Manager,Bachelor's,7,5,1,2,1,3,Yes,38,7,69945,Yes,Check Later,??,Thirty Thousand
+EMP1643,25,Female,Finance,Finance Manager,Master's,2,1,0,5,4,3,No,12,5,52777,No,Pending,,Not Available
+EMP1644,51,Male,Sales,Sales Manager,Bachelor's,22,16,1,3,1,3,Yes,29,8,155061,Yes,,,
+EMP1645,25,female,Finance,Accountant,Bachelor's,2,0,0,3,3,3,No,22,2,39637,No,N/A,,Thirty Thousand
+EMP1646,58,M,HR,HR Executive,PhD,22,18,1,4,4,3,No,36,1,230847,No,Pending,B202,Thirty Thousand
+EMP1647,23,female,Marketing,Marketing Executive,Master's,0,0,0,3,4,4,No,1,1,41033,No,,,
+EMP1648,43,M,Finance,Financial Analyst,PhD,6,5,2,5,1,3,Yes,40,5,94093,Yes,Check Later,,
+EMP1649,57,Male,IT,Data Analyst,Bachelor's,33,4,2,3,3,5,No,34,6,220319,No,Check Later,,Thirty Thousand
+EMP1650,57,male,Sales,Sales Manager,Bachelor's,18,6,3,4,3,3,Yes,34,5,133978,No,Pending,A101,45000
+EMP1651,30,Female,HR,HR Executive,MBA,8,2,2,2,3,3,No,33,10,97642,No,,999X,Not Available
+EMP1652,30,female,IT,Data Analyst,Bachelor's,2,2,0,5,1,5,No,4,2,51644,No,N/A,,Thirty Thousand
+EMP1653,39,male,HR,Recruiter,Master's,17,6,1,4,3,3,No,38,4,140226,Yes,,999X,45000
+EMP1654,37,male,Marketing,Marketing Executive,Bachelor's,8,7,3,2,3,3,Yes,30,7,73000,Yes,,B202,45000
+EMP1655,41,Female,Customer Support,Support Executive,Bachelor's,15,1,0,2,2,4,No,20,5,120106,Yes,,999X,Not Available
+EMP1656,34,Male,Sales,Business Development Executive,Diploma,12,8,1,3,3,3,No,26,1,80278,No,,A101,45000
+EMP1657,29,Female,Operations,Operations Manager,Bachelor's,1,0,0,5,3,4,Yes,15,6,40950,No,,??,45000
+EMP1658,21,F,Sales,Sales Manager,Diploma,0,0,0,3,4,3,No,7,7,29500,No,Good,999X,45000
+EMP1659,33,F,Marketing,SEO Specialist,Diploma,8,7,1,3,4,4,Yes,7,3,65015,Yes,N/A,??,
+EMP1660,24,Male,Sales,Business Development Executive,PhD,1,1,0,1,3,2,No,29,0,51752,No,N/A,999X,Thirty Thousand
+EMP1661,21,Male,Operations,Operations Manager,Bachelor's,0,0,0,3,4,3,No,23,1,31706,No,,B202,Thirty Thousand
+EMP1662,60,Male,Finance,Financial Analyst,Master's,24,5,4,4,4,5,No,34,3,200642,No,Good,999X,Thirty Thousand
+EMP1663,52,male,HR,Recruiter,MBA,18,8,0,5,2,4,No,20,6,182260,No,N/A,999X,
+EMP1664,54,female,Operations,Operations Executive,Master's,14,3,1,3,2,2,Yes,15,1,124625,No,,999X,
+EMP1665,48,Male,IT,Software Engineer,Bachelor's,15,10,7,5,3,3,Yes,33,5,117601,Yes,,B202,Not Available
+EMP1666,51,Female,Marketing,SEO Specialist,Master's,26,10,8,3,3,3,No,17,1,203383,No,,B202,Thirty Thousand
+EMP1667,28,female,Finance,Financial Analyst,Master's,1,0,0,1,3,4,No,20,6,46857,No,Check Later,B202,
+EMP1668,59,male,IT,Data Scientist,Master's,3,0,0,3,3,4,Yes,13,1,65165,No,Check Later,??,45000
+EMP1669,46,Female,IT,Data Scientist,Master's,18,16,15,4,3,4,No,24,2,150553,No,Good,??,
+EMP1670,54,Female,Marketing,Digital Marketing Manager,PhD,18,6,3,5,3,3,No,37,8,198173,No,Check Later,B202,45000
+EMP1671,23,Female,Finance,Finance Manager,Master's,0,0,0,5,2,4,Yes,7,3,37787,No,,??,
+EMP1672,32,Male,Customer Support,Support Executive,Bachelor's,4,2,0,2,4,3,No,8,4,53886,No,,B202,
+EMP1673,21,Female,IT,System Administrator,Master's,0,0,0,2,3,2,Yes,23,8,31981,Yes,Good,B202,Thirty Thousand
+EMP1674,25,Female,IT,Data Analyst,Diploma,2,2,1,2,4,3,No,14,6,38566,No,,999X,Not Available
+EMP1675,50,M,Finance,Finance Manager,MBA,14,8,7,5,2,5,Yes,4,7,154877,Yes,,,45000
+EMP1676,50,Female,Sales,Business Development Executive,Diploma,13,13,10,5,4,4,No,21,10,85767,Yes,,B202,45000
+EMP1677,37,male,IT,Software Engineer,Bachelor's,0,0,0,4,1,3,No,10,2,31658,No,Good,,45000
+EMP1678,43,Male,HR,Recruiter,MBA,15,12,1,3,2,4,No,22,10,151970,No,,??,Not Available
+EMP1679,35,Female,Finance,Finance Manager,,9,9,8,,1,5,No,30,,,Yes,Check Later,A101,45000
+EMP1680,57,Male,IT,Data Scientist,Bachelor's,18,8,3,3,3,3,No,30,3,125545,No,,B202,Not Available
+EMP1681,41,Male,Marketing,Marketing Executive,Bachelor's,2,1,0,3,4,3,Yes,16,6,43818,No,Good,A101,Not Available
+EMP1682,34,male,Operations,Operations Executive,MBA,4,3,0,3,3,5,No,11,3,84791,No,Check Later,A101,
+EMP1683,22,F,HR,HR Executive,Bachelor's,0,0,0,1,4,5,No,22,1,36095,No,Check Later,B202,
+EMP1684,31,Male,Operations,Operations Executive,MBA,8,0,0,2,3,3,No,29,9,97847,No,N/A,??,Thirty Thousand
+EMP1685,59,Female,Operations,Operations Manager,Diploma,17,13,3,5,3,3,Yes,25,5,107864,No,,999X,
+EMP1686,58,female,IT,Data Analyst,Master's,10,7,2,4,4,3,Yes,14,8,98686,No,Pending,A101,Thirty Thousand
+EMP1687,54,Male,HR,Recruiter,MBA,1,1,1,3,2,2,No,14,1,45788,No,,,Not Available
+EMP1688,58,Female,HR,Recruiter,Bachelor's,11,10,5,3,3,5,No,2,0,98158,No,Pending,B202,45000
+EMP1689,54,male,Sales,Business Development Executive,Bachelor's,5,0,0,3,4,3,No,13,7,63324,No,,A101,Not Available
+EMP1690,38,Female,Operations,Operations Manager,Bachelor's,10,6,6,4,4,5,No,3,0,92061,No,Check Later,999X,Not Available
+EMP1691,50,Male,HR,HR Executive,Master's,26,9,7,4,4,2,Yes,30,0,199133,Yes,,999X,
+EMP1692,35,Female,Sales,Sales Manager,Bachelor's,7,0,0,4,4,3,No,18,2,66857,No,Check Later,999X,45000
+EMP1693,47,female,Finance,Finance Manager,Master's,11,10,1,4,2,1,No,36,4,98743,No,Check Later,A101,
+EMP1694,54,Female,Sales,Business Development Executive,Bachelor's,28,27,5,2,4,4,No,21,8,188560,Yes,Good,A101,45000
+EMP1695,58,Male,Marketing,Marketing Executive,Bachelor's,29,27,21,3,3,3,Yes,19,10,184478,No,N/A,B202,Thirty Thousand
+EMP1696,53,male,Customer Support,Support Executive,Diploma,1,0,0,3,4,4,Yes,16,9,38829,No,,??,45000
+EMP1697,44,Male,IT,System Administrator,Bachelor's,8,2,1,3,3,2,Yes,28,1,70953,Yes,,,Not Available
+EMP1698,35,male,Finance,Financial Analyst,Master's,1,1,1,4,3,3,No,4,0,48268,Yes,Good,B202,Not Available
+EMP1699,50,Male,Customer Support,Support Executive,MBA,28,22,20,3,3,2,Yes,15,0,243428,No,Good,A101,
+EMP1700,37,F,Customer Support,Support Executive,Master's,0,0,0,2,3,3,Yes,1,7,36843,No,,,Thirty Thousand
+EMP1701,25,Female,Finance,Finance Manager,Bachelor's,1,1,1,3,1,4,No,16,9,36997,No,,A101,45000
+EMP1702,49,Male,Marketing,Marketing Executive,PhD,1,1,1,5,4,3,Yes,20,9,61594,No,N/A,A101,
+EMP1703,24,Male,Sales,Business Development Executive,Master's,2,0,0,2,4,4,Yes,33,9,57956,Yes,N/A,??,45000
+EMP1704,30,Male,IT,Data Analyst,MBA,7,6,6,4,2,3,Yes,17,1,90924,Yes,Good,??,Thirty Thousand
+EMP1705,37,M,Sales,Sales Executive,Bachelor's,4,1,0,3,4,3,Yes,5,8,56299,No,,999X,
+EMP1706,30,F,HR,Recruiter,,5,5,3,,3,3,No,5,,,No,Good,,45000
+EMP1707,37,Female,Sales,Sales Executive,Diploma,11,6,1,3,3,2,No,39,1,71828,Yes,,,
+EMP1708,40,Female,Finance,Finance Manager,Master's,0,0,0,4,2,4,No,13,2,37140,No,Pending,B202,
+EMP1709,44,male,IT,Software Engineer,Diploma,14,3,0,3,4,4,No,36,1,96877,No,Pending,,
+EMP1710,25,M,Sales,Sales Executive,Bachelor's,1,1,0,5,3,2,No,30,5,38078,No,,999X,Not Available
+EMP1711,54,Female,IT,System Administrator,Bachelor's,18,4,3,3,3,2,No,4,6,124280,No,,A101,
+EMP1712,26,Female,IT,Data Analyst,,2,1,0,,3,5,Yes,23,,,Yes,,,
+EMP1713,22,Female,HR,HR Executive,Master's,0,0,0,5,1,4,Yes,21,2,40590,Yes,,A101,45000
+EMP1714,33,Female,HR,HR Executive,Bachelor's,0,0,0,3,3,4,No,21,2,33038,No,Check Later,??,Thirty Thousand
+EMP1715,31,Male,Finance,Finance Manager,Bachelor's,3,1,1,4,2,3,Yes,6,1,44674,No,,999X,45000
+EMP1716,43,Female,Marketing,Marketing Executive,Master's,0,0,0,4,2,3,Yes,24,1,38422,Yes,,B202,Not Available
+EMP1717,36,Female,Customer Support,Support Executive,PhD,13,10,1,3,3,5,No,31,10,161925,No,Pending,B202,Not Available
+EMP1718,51,female,IT,System Administrator,Master's,7,6,4,4,4,4,No,19,4,88623,No,N/A,??,Thirty Thousand
+EMP1719,31,Male,Marketing,Digital Marketing Manager,MBA,4,1,1,2,3,3,Yes,38,10,76533,Yes,,,Not Available
+EMP1720,36,Female,Customer Support,Support Executive,Master's,0,0,0,3,2,4,Yes,12,10,46881,No,Good,B202,Thirty Thousand
+EMP1721,28,Female,Customer Support,Support Executive,Master's,5,0,0,2,3,4,No,14,7,68863,No,Check Later,999X,Not Available
+EMP1722,24,Female,Finance,Financial Analyst,Bachelor's,0,0,0,5,4,3,No,12,5,36659,No,Check Later,??,Not Available
+EMP1723,60,Male,Customer Support,Support Executive,Master's,33,3,0,2,3,3,Yes,15,8,242729,No,Good,A101,Not Available
+EMP1724,24,Female,Customer Support,Support Executive,Master's,0,0,0,4,4,2,No,19,10,35285,No,,999X,45000
+EMP1725,45,Female,IT,Software Engineer,Master's,23,0,0,5,3,2,No,28,4,179965,No,Good,,45000
+EMP1726,23,Female,IT,Data Scientist,Bachelor's,0,0,0,3,4,4,No,40,9,390680,No,,??,Not Available
+EMP1727,52,Female,Operations,Operations Manager,Bachelor's,2,2,0,3,2,3,Yes,5,3,44357,No,Good,A101,Not Available
+EMP1728,23,Female,Marketing,Marketing Executive,Bachelor's,1,1,1,3,3,4,Yes,5,8,37017,No,Pending,A101,
+EMP1729,47,female,Sales,Business Development Executive,Bachelor's,6,5,5,3,3,5,No,6,9,72437,No,,??,45000
+EMP1730,49,Male,HR,HR Executive,Bachelor's,14,5,2,3,3,2,No,23,10,101382,No,,??,45000
+EMP1731,52,female,Sales,Sales Manager,MBA,20,10,1,4,4,3,Yes,3,4,187910,No,Pending,??,45000
+EMP1732,39,Female,Marketing,SEO Specialist,Bachelor's,17,9,2,5,4,4,No,37,0,122993,No,Check Later,B202,Not Available
+EMP1733,41,Male,HR,Recruiter,Diploma,2,2,1,5,2,4,Yes,33,4,42164,Yes,,??,Thirty Thousand
+EMP1734,25,Male,Sales,Sales Executive,Bachelor's,3,1,0,5,2,4,Yes,21,4,51658,Yes,N/A,B202,45000
+EMP1735,38,Male,Operations,Operations Manager,Master's,13,0,0,5,3,3,No,20,4,115818,Yes,,999X,Thirty Thousand
+EMP1736,48,female,HR,Recruiter,,23,3,0,,2,3,Yes,1,,,No,,999X,Not Available
+EMP1737,42,male,IT,Data Analyst,Bachelor's,1,1,0,4,3,3,No,39,5,39340,No,Pending,999X,
+EMP1738,41,female,Sales,Business Development Executive,Master's,13,9,4,5,4,5,No,17,4,123625,No,,A101,
+EMP1739,26,Female,HR,HR Executive,Bachelor's,2,0,0,3,4,3,No,29,1,45354,No,Check Later,,45000
+EMP1740,21,Female,Operations,Operations Executive,MBA,0,0,0,5,3,5,No,8,9,52679,No,,A101,Thirty Thousand
+EMP1741,25,Male,Customer Support,Support Executive,,3,0,0,,4,3,No,26,,,No,,,Thirty Thousand
+EMP1742,32,Male,HR,HR Executive,Bachelor's,7,0,0,4,3,5,Yes,28,5,78245,No,,A101,Thirty Thousand
+EMP1743,46,Female,HR,Recruiter,Bachelor's,6,2,1,4,2,4,No,34,10,71371,No,N/A,??,
+EMP25005,Unknown,Unknown,Unknown,Unknown,Master's,7,2,2,5,3,3,No,26,9,79573,No,,A101,
+EMP1745,34,Male,Customer Support,Support Executive,Diploma,5,5,1,2,3,4,Yes,13,10,55260,No,Pending,A101,Not Available
+EMP1746,46,Female,Sales,Sales Manager,Bachelor's,4,0,0,4,3,3,Yes,37,2,56197,Yes,,999X,Thirty Thousand
+EMP1747,47,male,Finance,Financial Analyst,Bachelor's,7,5,5,3,2,3,Yes,13,8,70301,Yes,N/A,999X,Thirty Thousand
+EMP1748,29,F,Sales,Business Development Executive,MBA,1,1,1,3,3,2,No,38,10,44126,No,N/A,A101,
+EMP1749,46,F,Customer Support,Support Executive,Diploma,14,12,10,4,3,2,No,25,10,85849,Yes,Good,,45000
+EMP1750,42,Female,Marketing,Digital Marketing Manager,Master's,11,5,3,4,4,3,No,23,3,103734,No,Check Later,B202,Thirty Thousand
+EMP1751,50,Female,Operations,Operations Executive,Master's,16,4,0,4,3,4,No,22,2,137893,No,Good,B202,Thirty Thousand
+EMP1752,37,Female,Sales,Sales Executive,Bachelor's,0,0,0,3,4,4,No,21,6,34366,No,Good,B202,45000
+EMP1753,46,female,HR,HR Executive,Diploma,14,14,0,3,4,2,No,30,7,89716,No,Check Later,??,Not Available
+EMP1754,56,Male,Operations,Operations Manager,PhD,15,10,9,4,2,5,No,11,6,178846,No,,A101,
+EMP1755,21,Female,IT,Software Engineer,Bachelor's,0,0,0,3,3,4,No,4,0,31088,No,Pending,??,45000
+EMP1756,28,female,Customer Support,Support Executive,Master's,4,1,1,2,4,5,No,33,0,68950,No,,B202,Not Available
+EMP1757,55,Female,Sales,Business Development Executive,Bachelor's,8,3,1,5,3,4,No,12,4,80337,No,Pending,A101,Thirty Thousand
+EMP1758,35,Female,Operations,Operations Executive,Bachelor's,0,0,0,3,4,2,No,9,7,30157,No,Good,B202,Thirty Thousand
+EMP1759,42,Female,Sales,Sales Executive,Bachelor's,16,13,2,4,2,3,No,32,9,115245,No,,999X,Thirty Thousand
+EMP1760,34,Male,Operations,Operations Manager,Diploma,12,9,0,3,1,4,No,11,10,83621,No,N/A,999X,
+EMP1761,46,Female,HR,Recruiter,Diploma,12,4,4,3,4,1,No,37,2,76335,No,,B202,Not Available
+EMP1762,48,Male,IT,Data Scientist,MBA,20,3,2,3,4,1,No,24,7,174430,No,Check Later,B202,
+EMP1763,43,Male,IT,Data Analyst,Bachelor's,20,1,0,3,4,2,No,7,2,138585,No,Check Later,999X,Thirty Thousand
+EMP1764,34,Male,Marketing,Marketing Executive,Bachelor's,4,1,0,3,3,3,No,8,3,56391,No,Pending,999X,Thirty Thousand
+EMP1765,44,female,Operations,Operations Manager,Bachelor's,9,9,0,3,4,3,No,33,9,76554,Yes,,,
+EMP1766,22,Male,Sales,Sales Manager,Master's,0,0,0,3,4,3,Yes,25,6,35234,Yes,,,Thirty Thousand
+EMP1767,46,Female,IT,Data Analyst,Diploma,5,1,1,2,4,2,Yes,1,2,50372,No,Pending,,Thirty Thousand
+EMP1768,34,Male,Customer Support,Support Executive,Master's,7,0,0,3,3,4,No,3,3,88019,No,Good,,Not Available
+EMP1769,27,F,IT,System Administrator,Diploma,2,1,1,2,3,3,No,40,7,36593,No,Pending,??,Not Available
+EMP1770,23,Male,Finance,Finance Manager,Diploma,0,0,0,2,4,3,No,28,3,31823,Yes,,B202,Thirty Thousand
+EMP1771,43,Female,Finance,Accountant,Diploma,12,4,2,5,3,1,No,33,8,70202,No,Check Later,B202,45000
+EMP1772,38,M,IT,System Administrator,MBA,0,0,0,4,3,2,No,1,3,40553,No,Good,B202,Not Available
+EMP1773,58,female,Operations,Operations Manager,Diploma,19,12,5,4,3,3,Yes,38,3,112042,No,,999X,45000
+EMP1774,55,Male,Marketing,Digital Marketing Manager,Diploma,7,0,0,3,3,2,Yes,27,4,58510,No,Check Later,999X,45000
+EMP1775,35,female,IT,Software Engineer,Bachelor's,9,0,0,5,3,3,No,38,0,85878,No,Check Later,,Thirty Thousand
+EMP1776,45,Female,HR,HR Executive,MBA,8,0,0,4,1,4,Yes,35,6,101428,Yes,Pending,A101,45000
+EMP1777,57,Female,Sales,Sales Manager,Bachelor's,2,1,0,4,4,3,No,10,8,45370,No,Good,??,
+EMP1778,48,Male,Marketing,SEO Specialist,Bachelor's,10,8,2,3,3,3,No,12,8,83422,No,N/A,B202,Not Available
+EMP1779,30,Male,HR,HR Executive,Diploma,8,0,0,5,3,3,No,10,0,66294,No,Check Later,,
+EMP1780,59,male,Marketing,Digital Marketing Manager,Bachelor's,24,4,0,5,2,4,No,34,5,170349,No,Check Later,B202,Thirty Thousand
+EMP1781,37,Female,HR,HR Executive,Master's,10,8,8,5,1,5,No,24,2,108411,Yes,,A101,Thirty Thousand
+EMP1782,59,Female,Sales,Business Development Executive,Master's,35,29,11,2,2,4,Yes,28,3,262454,Yes,Good,??,Not Available
+EMP1783,42,male,Sales,Sales Manager,Bachelor's,6,0,0,3,3,3,No,22,7,63887,No,Good,,Thirty Thousand
+EMP1784,46,male,Finance,Accountant,Bachelor's,20,16,12,3,1,3,No,16,3,143695,No,Pending,,Not Available
+EMP1785,45,Male,Operations,Operations Manager,Diploma,13,7,3,3,4,3,Yes,13,7,87285,No,,A101,
+EMP1786,37,Female,HR,HR Executive,Bachelor's,6,0,0,5,2,5,Yes,36,3,75998,Yes,Good,B202,45000
+EMP1787,33,Male,Finance,Financial Analyst,Diploma,7,6,0,1,2,1,Yes,36,8,54666,Yes,,A101,Not Available
+EMP1788,40,male,HR,Recruiter,Master's,7,7,2,1,2,5,Yes,23,5,89955,Yes,,B202,Not Available
+EMP1789,45,Female,Finance,Financial Analyst,PhD,0,0,0,3,1,4,No,14,0,51074,No,Good,??,Thirty Thousand
+EMP1790,24,F,Sales,Business Development Executive,PhD,1,0,0,2,4,4,No,32,9,65818,No,Good,B202,
+EMP1791,30,Male,Marketing,Digital Marketing Manager,MBA,3,3,1,2,4,1,No,3,1,57118,No,Pending,A101,Thirty Thousand
+EMP1792,23,Male,Customer Support,Support Executive,,0,0,0,,3,4,No,27,,,No,,??,
+EMP1793,38,Male,Finance,Finance Manager,Master's,11,4,3,4,2,3,No,19,9,107148,No,,A101,Not Available
+EMP1794,56,Male,HR,HR Executive,Bachelor's,34,23,4,1,2,2,Yes,22,6,215889,Yes,Pending,B202,Thirty Thousand
+EMP1795,42,Male,HR,HR Executive,Master's,12,5,0,3,3,3,No,1,2,113272,No,N/A,A101,Not Available
+EMP1796,54,M,Customer Support,Support Executive,Bachelor's,30,24,21,3,4,5,No,5,0,196960,No,Check Later,A101,Thirty Thousand
+EMP1797,28,Male,Operations,Operations Manager,Bachelor's,5,0,0,2,2,3,No,33,7,58999,Yes,Pending,??,Not Available
+EMP1798,60,Male,Sales,Business Development Executive,Master's,22,0,0,4,3,3,No,19,9,178131,No,N/A,,
+EMP1799,39,male,HR,HR Executive,Bachelor's,3,3,3,4,3,2,No,36,10,42077,Yes,Pending,999X,
+EMP1800,57,Female,IT,System Administrator,Bachelor's,15,9,6,4,2,4,Yes,6,10,114173,Yes,Good,A101,
+EMP1801,26,male,Marketing,Digital Marketing Manager,MBA,4,1,0,4,3,4,No,15,9,76491,No,N/A,A101,45000
+EMP1802,46,Male,Finance,Financial Analyst,Diploma,10,2,1,1,1,4,No,36,6,79781,Yes,,B202,Not Available
+EMP1803,54,Female,Operations,Operations Executive,Bachelor's,32,18,14,5,4,3,Yes,33,9,201589,Yes,Check Later,999X,45000
+EMP1804,26,Male,Customer Support,Support Executive,MBA,1,1,0,5,2,3,No,24,7,53362,No,,999X,
+EMP1805,57,Male,Marketing,Marketing Executive,Master's,28,10,4,5,3,3,No,27,0,215171,No,,,45000
+EMP1806,53,M,Sales,Sales Manager,Bachelor's,31,28,4,1,1,3,Yes,11,2,198314,Yes,,B202,
+EMP1807,42,Male,Operations,Operations Executive,Bachelor's,6,1,1,5,4,5,No,23,1,75454,No,Good,A101,45000
+EMP1808,41,Female,Finance,Accountant,Bachelor's,11,1,0,5,2,3,Yes,33,0,89719,Yes,Pending,A101,Not Available
+EMP1809,26,Female,Finance,Finance Manager,MBA,2,0,0,5,4,3,No,29,4,52601,No,Check Later,A101,Thirty Thousand
+EMP1810,26,Male,Customer Support,Support Executive,Master's,1,1,1,1,4,3,Yes,31,2,41033,Yes,Good,A101,Not Available
+EMP1811,24,M,IT,Software Engineer,,1,0,0,,4,4,No,1,,,No,Check Later,,Thirty Thousand
+EMP1812,50,Male,Customer Support,Support Executive,Diploma,15,11,10,5,3,2,Yes,34,7,94997,Yes,,B202,Thirty Thousand
+EMP1813,31,Female,Sales,Sales Executive,Diploma,9,3,2,4,3,3,Yes,18,5,63029,No,N/A,,45000
+EMP1814,50,F,Operations,Operations Manager,PhD,7,4,0,4,3,4,Yes,18,9,110323,No,,??,45000
+EMP1815,51,Female,Operations,Operations Manager,Bachelor's,8,0,0,5,2,3,No,6,8,79756,No,Check Later,??,Not Available
+EMP1816,44,F,HR,HR Executive,Master's,8,0,0,3,3,4,No,40,8,96262,Yes,Good,??,45000
+EMP1817,29,Male,IT,Data Scientist,Diploma,1,1,1,4,2,2,No,1,10,27568,No,Good,,Thirty Thousand
+EMP1818,23,Female,IT,Software Engineer,Master's,0,0,0,3,4,4,No,30,5,44507,No,,A101,45000
+EMP1819,51,Male,Operations,Operations Manager,MBA,12,11,0,5,1,2,No,4,1,126295,No,Check Later,A101,45000
+EMP1820,60,male,Operations,Operations Manager,Master's,35,19,19,1,3,1,Yes,32,8,251852,Yes,Good,??,Not Available
+EMP1821,57,F,Marketing,SEO Specialist,Diploma,24,17,1,3,3,5,No,10,1,141053,No,,B202,Not Available
+EMP1822,56,Male,Marketing,Marketing Executive,Master's,23,2,2,4,3,3,Yes,5,2,180372,Yes,Good,??,Thirty Thousand
+EMP1823,44,Female,Marketing,Digital Marketing Manager,Master's,11,10,1,4,3,3,No,9,5,103813,No,,999X,Not Available
+EMP1824,51,Male,IT,Data Scientist,Bachelor's,16,3,0,4,2,3,No,5,1,117844,No,,??,Not Available
+EMP1825,26,Female,HR,HR Executive,MBA,1,0,0,5,3,4,No,11,4,50835,No,Good,B202,
+EMP1826,22,Female,Finance,Financial Analyst,Master's,0,0,0,5,2,3,Yes,35,1,37934,Yes,,B202,Not Available
+EMP1827,40,F,Marketing,Digital Marketing Manager,MBA,12,1,1,1,4,5,No,27,3,140819,No,Check Later,999X,
+EMP1828,48,Female,HR,Recruiter,Master's,17,4,1,3,4,5,Yes,4,10,157609,No,Check Later,B202,Thirty Thousand
+EMP1829,31,Male,Customer Support,Support Executive,Diploma,7,5,4,1,4,4,Yes,10,10,63945,No,Good,??,Not Available
+EMP1830,24,Male,Sales,Sales Manager,Bachelor's,2,1,0,3,1,3,Yes,39,2,44802,Yes,N/A,??,Thirty Thousand
+EMP1831,35,Male,Marketing,SEO Specialist,Bachelor's,0,0,0,3,2,3,No,33,4,27437,Yes,N/A,999X,Thirty Thousand
+EMP1832,26,Male,Customer Support,Support Executive,MBA,3,2,2,5,2,4,No,38,5,74424,No,Pending,999X,
+EMP1833,50,Male,Finance,Finance Manager,Master's,9,0,0,5,1,2,Yes,8,6,89075,No,Good,??,45000
+EMP1834,58,female,Sales,Sales Executive,Master's,11,10,8,2,2,3,Yes,24,9,106185,Yes,Check Later,B202,Not Available
+EMP1835,22,Female,Sales,Sales Executive,Bachelor's,0,0,0,1,3,2,No,39,7,32510,No,,B202,Not Available
+EMP1836,35,Female,Finance,Accountant,Bachelor's,4,3,1,4,2,2,No,33,8,425769,Yes,,??,Not Available
+EMP1837,31,Male,Marketing,Marketing Executive,Master's,8,5,1,3,3,2,Yes,19,3,85744,No,N/A,B202,Thirty Thousand
+EMP1838,28,M,IT,System Administrator,Bachelor's,6,4,1,3,4,3,Yes,2,3,60841,No,Good,999X,Thirty Thousand
+EMP1839,46,male,Finance,Finance Manager,Bachelor's,7,7,3,5,3,4,No,11,6,73515,No,Check Later,B202,Thirty Thousand
+EMP1840,25,Male,Finance,Finance Manager,Master's,3,1,0,5,3,3,No,35,9,53094,No,N/A,999X,
+EMP1841,26,male,Finance,Financial Analyst,Diploma,2,1,1,3,3,3,No,17,9,33869,No,,999X,Thirty Thousand
+EMP1842,46,Female,Sales,Business Development Executive,Bachelor's,24,1,0,5,3,2,No,3,10,157076,No,Check Later,,Not Available
+EMP1843,24,Male,HR,HR Executive,Bachelor's,0,0,0,3,2,3,Yes,22,8,31121,Yes,Good,A101,45000
+EMP1844,39,Female,Customer Support,Support Executive,Diploma,12,0,0,4,3,3,Yes,35,10,81690,Yes,Good,999X,Thirty Thousand
+EMP1845,40,Female,IT,Data Analyst,PhD,4,0,0,3,3,4,Yes,21,1,87218,No,Good,A101,45000
+EMP1846,53,Male,Marketing,Marketing Executive,Bachelor's,15,5,1,2,4,5,Yes,25,10,115834,Yes,Good,B202,Thirty Thousand
+EMP1847,40,F,Marketing,Marketing Executive,Diploma,10,0,0,5,4,2,No,39,5,67140,No,Good,A101,Thirty Thousand
+EMP1848,32,female,Customer Support,Support Executive,Bachelor's,5,5,4,3,3,3,No,2,9,63038,No,,A101,Thirty Thousand
+EMP1849,21,Female,HR,HR Executive,Master's,0,0,0,4,3,3,No,1,9,40999,No,,A101,
+EMP1850,46,Female,Finance,Finance Manager,Bachelor's,4,0,0,3,2,5,Yes,7,7,57199,No,Check Later,A101,Not Available
+EMP1851,34,Female,IT,Data Scientist,Master's,12,11,8,1,4,4,No,20,4,113933,No,,,
+EMP1852,58,Female,Marketing,Marketing Executive,,27,14,6,,3,5,No,6,,,No,Check Later,A101,45000
+EMP1853,57,Female,Customer Support,Support Executive,Diploma,24,18,16,3,2,3,Yes,36,7,138247,Yes,N/A,B202,Thirty Thousand
+EMP1854,31,Male,Operations,Operations Manager,Bachelor's,2,2,0,4,2,5,No,21,0,50488,No,N/A,999X,Not Available
+EMP1855,56,Female,Customer Support,Support Executive,MBA,34,21,17,3,2,2,Yes,35,5,283679,Yes,Check Later,,
+EMP1856,33,female,Marketing,Marketing Executive,MBA,6,1,1,4,4,2,Yes,36,9,82690,No,N/A,,Not Available
+EMP1857,23,Female,Finance,Financial Analyst,Diploma,0,0,0,4,2,5,No,8,8,29111,Yes,Good,A101,Thirty Thousand
+EMP1858,53,Male,Operations,Operations Executive,Bachelor's,5,4,0,4,3,5,No,4,5,71315,No,,,45000
+EMP1859,26,female,HR,Recruiter,MBA,2,1,1,3,3,2,Yes,16,6,56135,No,,999X,
+EMP1860,30,Male,IT,Data Analyst,Bachelor's,6,6,3,5,3,2,Yes,3,3,59116,No,Check Later,A101,Not Available
+EMP1861,25,Male,HR,Recruiter,,0,0,0,,4,1,No,7,,,No,Check Later,??,
+EMP1862,43,Male,HR,Recruiter,Diploma,17,11,2,3,4,2,No,2,0,97603,Yes,Good,,Not Available
+EMP1863,30,Male,Customer Support,Support Executive,MBA,5,5,0,2,3,3,No,1,8,439012,No,,B202,Thirty Thousand
+EMP1864,22,male,IT,Data Scientist,,0,0,0,,1,5,Yes,1,,,No,Check Later,A101,
+EMP1865,33,Female,IT,Data Analyst,MBA,7,6,6,1,3,4,Yes,38,2,99990,Yes,,,
+EMP1866,60,Male,Marketing,Marketing Executive,Master's,16,8,5,4,3,4,Yes,7,3,147400,No,,,Not Available
+EMP1867,22,M,Marketing,SEO Specialist,Bachelor's,0,0,0,2,3,4,Yes,24,9,33921,Yes,Check Later,,
+EMP1868,40,M,IT,Data Scientist,MBA,0,0,0,3,3,3,Yes,5,5,42934,No,Pending,,Thirty Thousand
+EMP1869,21,M,Operations,Operations Manager,Bachelor's,0,0,0,4,2,4,Yes,21,5,34373,Yes,Good,,
+EMP1870,57,Male,Sales,Sales Executive,Bachelor's,16,12,9,3,3,3,No,28,8,120554,No,Pending,??,Thirty Thousand
+EMP1871,29,Female,Marketing,Digital Marketing Manager,Master's,1,0,0,2,2,3,Yes,18,3,39936,Yes,N/A,A101,
+EMP1872,37,F,Sales,Business Development Executive,Master's,11,4,3,2,4,3,No,24,4,111877,No,Good,999X,Thirty Thousand
+EMP1873,29,male,Customer Support,Support Executive,MBA,7,4,4,4,3,3,Yes,32,4,97628,No,Good,B202,Not Available
+EMP1874,31,Male,Operations,Operations Manager,Bachelor's,7,5,3,2,3,4,No,33,2,75507,Yes,,??,
+EMP1875,35,Male,IT,Software Engineer,Master's,6,4,4,3,1,5,Yes,10,1,84312,No,,999X,Thirty Thousand
+EMP1876,44,Female,Operations,Operations Executive,Master's,9,9,5,3,3,3,No,9,7,99089,No,,,Thirty Thousand
+EMP1877,58,M,Marketing,SEO Specialist,Diploma,28,15,9,4,3,4,Yes,33,9,154822,Yes,,B202,
+EMP1878,55,Female,HR,Recruiter,Bachelor's,19,6,2,4,2,2,No,33,8,132553,No,,B202,Thirty Thousand
+EMP1879,50,Female,Customer Support,Support Executive,Bachelor's,15,3,3,5,4,4,No,7,9,112804,No,,999X,Not Available
+EMP1880,51,Male,IT,Software Engineer,Bachelor's,16,10,2,1,3,3,No,4,10,114875,No,Good,A101,
+EMP1881,25,Female,Finance,Financial Analyst,PhD,3,3,3,3,3,1,Yes,28,8,66705,No,Check Later,??,Not Available
+EMP1882,34,female,Customer Support,Support Executive,Master's,2,1,1,3,3,3,No,23,4,49852,No,Pending,999X,45000
+EMP1883,31,Female,Sales,Business Development Executive,Master's,7,5,4,2,3,4,No,32,10,489787,No,Good,??,45000
+EMP1884,29,male,Operations,Operations Manager,PhD,7,6,3,3,3,2,Yes,16,8,102328,No,,B202,Not Available
+EMP1885,54,F,IT,Software Engineer,Bachelor's,7,6,5,3,3,5,No,10,3,74453,No,,,Not Available
+EMP1886,32,Male,Customer Support,Support Executive,MBA,5,0,0,3,3,2,No,14,1,71820,Yes,Good,B202,Not Available
+EMP1887,55,Female,Operations,Operations Executive,Bachelor's,28,12,0,4,3,5,No,39,2,188328,Yes,N/A,999X,Thirty Thousand
+EMP1888,55,Male,IT,System Administrator,,25,10,3,,2,4,No,36,,,No,Good,??,Not Available
+EMP1889,21,female,Marketing,Digital Marketing Manager,Bachelor's,0,0,0,4,2,3,No,34,4,35377,No,N/A,A101,Not Available
+EMP1890,60,Female,Customer Support,Support Executive,MBA,30,29,10,3,1,3,No,24,0,262906,Yes,Good,??,Not Available
+EMP1891,42,Female,Marketing,SEO Specialist,Bachelor's,11,2,1,3,3,4,No,18,10,97627,No,,A101,Thirty Thousand
+EMP1892,49,female,Customer Support,Support Executive,Bachelor's,27,8,8,3,3,4,No,16,0,185212,Yes,,,Not Available
+EMP1893,28,Female,Marketing,SEO Specialist,Master's,3,1,1,1,4,4,No,37,10,56126,No,Check Later,999X,Not Available
+EMP1894,31,M,Operations,Operations Manager,Bachelor's,6,5,2,1,2,3,No,25,10,62137,Yes,,B202,Thirty Thousand
+EMP1895,57,Female,Finance,Finance Manager,Master's,16,10,3,3,4,3,No,8,6,134555,No,,??,
+EMP1896,34,Male,Customer Support,Support Executive,Bachelor's,8,2,2,5,3,5,Yes,24,1,79297,No,,999X,Not Available
+EMP1897,50,Female,Customer Support,Support Executive,Master's,6,2,1,4,4,3,No,20,7,80072,No,Good,B202,45000
+EMP1898,55,female,Marketing,Digital Marketing Manager,Bachelor's,11,4,2,1,3,3,Yes,30,5,88778,Yes,Good,B202,Not Available
+EMP1899,41,Male,IT,Software Engineer,Diploma,6,5,0,5,3,3,Yes,20,3,50529,No,,??,Not Available
+EMP1900,57,female,Customer Support,Support Executive,Bachelor's,17,16,3,4,1,4,Yes,18,8,125462,No,Good,B202,Not Available
+EMP1901,25,M,Marketing,Marketing Executive,Bachelor's,2,2,1,4,2,4,No,4,9,48233,No,Good,999X,45000
+EMP1902,39,Male,HR,Recruiter,Bachelor's,5,3,1,5,1,3,Yes,36,7,61845,Yes,N/A,A101,
+EMP1903,34,F,Marketing,SEO Specialist,Bachelor's,9,4,4,3,3,2,No,6,9,76684,No,Check Later,,
+EMP1904,46,Male,Operations,Operations Manager,,11,9,1,,3,1,No,3,,,No,Pending,B202,Thirty Thousand
+EMP1905,24,Male,Finance,Accountant,Diploma,2,0,0,3,4,3,Yes,18,2,32201,No,,??,Not Available
+EMP1906,45,Male,HR,Recruiter,Master's,19,3,1,3,3,3,Yes,40,3,159631,Yes,Pending,A101,Thirty Thousand
+EMP1907,45,M,Operations,Operations Executive,MBA,2,2,1,3,4,5,No,18,8,72013,No,N/A,B202,45000
+EMP1908,38,Female,Operations,Operations Manager,Bachelor's,1,1,1,4,2,3,No,23,8,33559,No,Pending,999X,
+EMP1909,60,Male,Operations,Operations Executive,Master's,37,16,10,5,2,3,No,35,4,271473,Yes,Good,B202,Thirty Thousand
+EMP1910,28,Female,IT,Software Engineer,Master's,5,4,1,5,3,5,No,6,8,77861,No,,A101,45000
+EMP1911,59,Female,Operations,Operations Manager,Bachelor's,4,1,0,5,3,3,No,26,5,53289,No,N/A,??,Thirty Thousand
+EMP1912,60,Male,IT,Data Analyst,Master's,17,0,0,5,3,3,No,21,7,145346,No,Pending,A101,Not Available
+EMP1913,34,M,Operations,Operations Manager,Bachelor's,7,3,1,5,4,2,No,24,10,71280,Yes,Check Later,B202,45000
+EMP1914,52,female,Sales,Sales Executive,Bachelor's,24,3,1,1,1,3,No,15,7,161258,Yes,,??,Not Available
+EMP1915,58,Female,HR,Recruiter,Diploma,31,10,3,3,3,5,No,27,9,171871,No,Pending,??,
+EMP1916,53,F,Sales,Sales Manager,Master's,29,4,2,3,4,3,Yes,32,6,217165,No,,999X,Not Available
+EMP1917,43,Female,Operations,Operations Executive,Master's,19,1,1,5,1,3,No,12,3,159418,No,,999X,Not Available
+EMP1918,35,F,HR,Recruiter,Diploma,5,0,0,3,4,4,No,5,3,54123,No,N/A,,Thirty Thousand
+EMP1919,53,Female,HR,HR Executive,Bachelor's,30,7,6,4,4,5,No,7,5,205251,No,,A101,Thirty Thousand
+EMP1920,45,Female,Customer Support,Support Executive,PhD,10,5,0,2,1,3,Yes,22,8,132032,Yes,Check Later,B202,
+EMP1921,37,Male,Finance,Financial Analyst,Bachelor's,9,4,3,3,2,3,No,27,6,82682,No,,A101,
+EMP1922,53,M,Sales,Business Development Executive,Bachelor's,23,8,2,4,3,5,Yes,15,4,165028,No,Pending,A101,Not Available
+EMP1923,22,Female,Finance,Finance Manager,MBA,0,0,0,2,4,2,Yes,39,4,39227,Yes,Good,B202,45000
+EMP1924,34,Male,HR,Recruiter,Master's,8,1,1,3,3,4,Yes,35,7,92835,No,N/A,??,Thirty Thousand
+EMP1925,60,Male,IT,System Administrator,Master's,11,9,5,3,3,4,No,26,5,113936,No,Check Later,,
+EMP1926,60,Female,HR,Recruiter,Master's,27,11,8,3,4,4,Yes,23,0,208465,Yes,,999X,
+EMP1927,59,Female,Finance,Financial Analyst,MBA,5,2,1,4,2,3,Yes,13,0,81544,No,N/A,999X,Thirty Thousand
+EMP1928,26,male,Sales,Business Development Executive,Bachelor's,2,1,0,3,4,3,Yes,26,8,41401,No,Pending,999X,Not Available
+EMP1929,26,M,Operations,Operations Manager,Bachelor's,3,1,0,4,3,4,No,3,7,51952,Yes,,A101,Not Available
+EMP1930,23,Male,Customer Support,Support Executive,Bachelor's,0,0,0,1,3,3,Yes,29,5,36975,Yes,,,45000
+EMP1931,27,male,Customer Support,Support Executive,PhD,0,0,0,5,4,3,Yes,2,0,49691,No,,,
+EMP1932,28,Male,Customer Support,Support Executive,Master's,1,0,0,3,3,2,No,28,1,41514,No,N/A,A101,Thirty Thousand
+EMP1933,35,female,Operations,Operations Executive,Diploma,10,8,4,4,2,1,No,23,9,62521,No,,??,45000
+EMP1934,49,female,Customer Support,Support Executive,MBA,15,0,0,4,3,5,Yes,36,2,163321,No,Pending,,Thirty Thousand
+EMP1935,53,Female,Sales,Sales Executive,Bachelor's,21,6,2,2,3,3,Yes,6,9,147359,No,Check Later,??,Not Available
+EMP1936,50,male,Operations,Operations Executive,Diploma,13,7,6,5,1,5,Yes,11,2,88123,Yes,Good,,Not Available
+EMP1937,59,Male,Customer Support,Support Executive,Bachelor's,21,2,0,4,4,2,No,38,1,146073,No,Good,,
+EMP1938,47,Female,Operations,Operations Executive,Bachelor's,7,5,3,3,2,3,No,34,1,68334,No,Pending,??,Not Available
+EMP25006,Unknown,Unknown,Unknown,Unknown,MBA,19,19,12,2,3,3,No,17,5,180820,No,,A101,Thirty Thousand
+EMP1940,49,Female,Sales,Business Development Executive,Bachelor's,18,12,10,5,3,4,Yes,3,6,133194,No,,B202,45000
+EMP1941,58,Female,Marketing,Digital Marketing Manager,MBA,13,2,1,4,1,4,No,34,3,141296,No,Pending,B202,Thirty Thousand
+EMP1942,53,Female,IT,Software Engineer,Master's,6,6,0,2,4,2,Yes,22,0,68267,Yes,Check Later,??,Not Available
+EMP1943,57,female,Customer Support,Support Executive,Diploma,33,8,3,3,4,5,Yes,29,5,185891,Yes,Pending,??,Not Available
+EMP1944,47,Male,IT,Data Scientist,PhD,10,2,2,5,3,2,No,29,6,122023,No,Good,??,
+EMP1945,53,Male,Operations,Operations Manager,Bachelor's,21,12,1,4,2,4,No,5,3,150506,No,Good,A101,45000
+EMP1946,24,male,IT,System Administrator,Bachelor's,0,0,0,4,2,5,Yes,10,5,34768,No,Check Later,B202,45000
+EMP1947,42,female,Sales,Sales Manager,Bachelor's,11,5,0,3,3,5,No,10,8,101787,Yes,Good,999X,Thirty Thousand
+EMP1948,22,Male,Sales,Sales Manager,MBA,0,0,0,4,2,5,No,9,3,56430,Yes,Check Later,A101,45000
+EMP1949,30,Male,HR,Recruiter,Bachelor's,1,1,1,3,3,3,No,21,9,37709,No,N/A,B202,45000
+EMP1950,25,Male,Customer Support,Support Executive,Bachelor's,1,1,1,2,4,2,No,13,3,37227,No,Good,,
+EMP1951,30,Male,HR,Recruiter,Diploma,6,1,1,4,3,2,No,10,9,50681,No,N/A,A101,
+EMP1952,53,Female,IT,Data Scientist,Bachelor's,25,22,4,5,4,3,No,38,4,171455,No,,??,Thirty Thousand
+EMP1953,58,male,Marketing,Marketing Executive,Master's,22,1,1,3,3,4,No,11,2,180737,Yes,Pending,B202,45000
+EMP1954,33,Female,HR,Recruiter,Bachelor's,7,1,0,3,3,2,No,4,9,69931,No,,A101,Not Available
+EMP1955,51,Female,HR,Recruiter,Bachelor's,6,1,1,4,4,4,Yes,31,1,68634,No,,??,45000
+EMP1956,56,Female,Sales,Sales Manager,Bachelor's,24,10,5,3,3,3,No,34,8,157224,No,Pending,??,Thirty Thousand
+EMP1957,44,female,Marketing,Digital Marketing Manager,Bachelor's,2,2,0,5,4,3,Yes,35,0,46949,No,,A101,
+EMP1958,35,Female,Operations,Operations Executive,MBA,10,0,0,4,2,4,Yes,39,4,121582,Yes,Check Later,A101,Not Available
+EMP1959,49,F,IT,System Administrator,Bachelor's,5,5,2,1,2,3,No,39,4,55973,Yes,Pending,A101,Not Available
+EMP1960,28,Female,HR,HR Executive,PhD,3,3,3,5,4,4,Yes,33,7,81877,No,Good,999X,45000
+EMP1961,25,Male,Marketing,Marketing Executive,Bachelor's,1,0,0,4,3,2,No,8,5,37912,No,Pending,,
+EMP1962,49,Female,Customer Support,Support Executive,Bachelor's,16,0,0,5,4,4,No,32,5,124163,No,Check Later,A101,Thirty Thousand
+EMP1963,24,Male,Marketing,Digital Marketing Manager,MBA,1,1,0,4,4,2,No,33,5,45817,No,N/A,B202,45000
+EMP1964,32,Female,IT,System Administrator,Bachelor's,0,0,0,5,1,2,Yes,8,3,26942,No,Check Later,B202,
+EMP1965,22,Male,Marketing,Marketing Executive,Master's,0,0,0,2,3,4,Yes,14,0,40501,No,,B202,
+EMP1966,47,Male,Marketing,Digital Marketing Manager,PhD,9,6,0,3,3,5,No,34,2,128799,No,,B202,45000
+EMP1967,51,female,Marketing,SEO Specialist,Diploma,2,2,0,5,3,3,No,8,9,40669,Yes,N/A,A101,Not Available
+EMP1968,56,Male,Customer Support,Support Executive,Diploma,19,15,5,2,4,3,Yes,7,10,116595,No,Check Later,??,Thirty Thousand
+EMP1969,56,female,HR,HR Executive,Master's,17,13,10,1,2,3,Yes,13,5,149723,Yes,Good,B202,Thirty Thousand
+EMP1970,46,Male,IT,Data Analyst,Bachelor's,12,11,9,4,3,3,No,21,4,98887,Yes,N/A,B202,45000
+EMP1971,47,Female,Customer Support,Support Executive,Bachelor's,11,4,1,5,3,4,Yes,32,9,95645,Yes,Pending,B202,
+EMP1972,25,Female,Marketing,Digital Marketing Manager,Diploma,2,2,0,2,2,4,No,11,0,43362,No,Pending,,Not Available
+EMP1973,40,Female,Marketing,Marketing Executive,Diploma,16,15,9,5,4,2,No,14,4,92744,No,Pending,999X,45000
+EMP1974,31,Male,HR,HR Executive,Master's,3,2,0,4,3,3,No,11,1,53739,No,Good,??,45000
+EMP1975,30,Male,IT,System Administrator,Diploma,6,0,0,3,4,4,Yes,2,0,60311,No,N/A,B202,Thirty Thousand
+EMP1976,60,Male,Sales,Sales Executive,Bachelor's,31,26,18,5,3,3,Yes,34,3,198657,Yes,Good,,45000
+EMP1977,58,Male,Customer Support,Support Executive,Master's,9,9,9,3,2,4,Yes,17,5,103567,Yes,,,Thirty Thousand
+EMP1978,26,Female,HR,HR Executive,Bachelor's,2,1,1,2,3,2,No,14,6,44112,Yes,Pending,A101,Thirty Thousand
+EMP1979,28,F,IT,Data Scientist,Diploma,5,2,1,3,1,4,No,25,8,52450,No,,,Not Available
+EMP1980,43,M,Customer Support,Support Executive,Master's,5,0,0,3,4,2,No,27,4,69307,No,,999X,Thirty Thousand
+EMP1981,46,male,Marketing,Marketing Executive,Diploma,8,8,0,3,1,4,No,8,7,68087,No,,A101,Thirty Thousand
+EMP1982,32,female,IT,Data Analyst,Master's,1,1,0,5,4,3,Yes,17,7,45131,No,,999X,Not Available
+EMP1983,46,Female,IT,System Administrator,MBA,3,0,0,4,3,3,No,5,10,61543,No,,A101,45000
+EMP1984,33,Male,Operations,Operations Manager,Bachelor's,4,3,1,4,3,4,No,12,8,56141,No,,A101,45000
+EMP1985,60,M,IT,Data Analyst,Bachelor's,16,4,2,4,1,2,No,38,2,119838,No,,A101,Thirty Thousand
+EMP1986,38,Female,Sales,Business Development Executive,Bachelor's,7,2,2,2,3,3,Yes,18,2,68816,No,,??,Thirty Thousand
+EMP1987,45,Female,IT,Data Analyst,Bachelor's,7,3,2,1,3,3,No,26,8,69094,No,N/A,999X,45000
+EMP1988,53,Male,Sales,Business Development Executive,MBA,21,3,2,5,2,3,No,31,6,191124,No,N/A,??,Not Available
+EMP1989,60,Female,Marketing,SEO Specialist,MBA,11,2,0,1,4,5,No,37,3,133227,No,,A101,45000
+EMP1990,32,Female,Sales,Business Development Executive,Bachelor's,4,1,0,2,3,4,Yes,6,0,56662,No,Pending,A101,Not Available
+EMP1991,56,M,Customer Support,Support Executive,Master's,18,16,3,4,3,2,No,15,6,149847,Yes,,,Not Available
+EMP1992,24,Female,Marketing,Digital Marketing Manager,MBA,2,2,2,3,3,4,Yes,26,9,61681,No,N/A,,45000
+EMP1993,25,Female,Marketing,Marketing Executive,PhD,1,1,1,5,2,3,No,12,5,59963,No,Pending,999X,45000
+EMP1994,57,F,Sales,Business Development Executive,Bachelor's,18,3,3,3,4,5,No,14,2,134000,No,,A101,45000
+EMP1995,28,Male,HR,Recruiter,Bachelor's,6,6,2,1,3,3,No,1,4,61943,No,,,Thirty Thousand
+EMP1996,48,Female,Finance,Finance Manager,Bachelor's,5,4,3,3,1,3,No,17,2,57581,No,,999X,Not Available
+EMP1997,51,Male,IT,Data Analyst,PhD,15,11,2,4,3,3,No,33,7,174773,No,Pending,??,Not Available
+EMP1998,29,male,Operations,Operations Executive,,7,0,0,,3,3,Yes,29,,,Yes,Check Later,A101,45000
+EMP1999,49,M,Finance,Accountant,Master's,15,4,1,3,3,3,Yes,31,9,133820,No,,,45000
+EMP2000,34,Male,IT,Data Analyst,Bachelor's,1,0,0,5,3,3,No,8,9,33896,No,,??,45000
+EMP2001,60,female,IT,Data Analyst,Bachelor's,38,20,1,5,1,4,No,30,5,245115,No,,A101,Not Available
+EMP2002,42,Male,Marketing,Marketing Executive,Bachelor's,16,10,3,3,2,3,Yes,13,1,120718,No,,B202,
+EMP2003,31,M,IT,Data Scientist,PhD,0,0,0,3,4,5,Yes,16,7,62548,No,Check Later,??,Thirty Thousand
+EMP2004,43,male,Operations,Operations Manager,Diploma,11,3,1,3,1,3,No,2,8,74714,No,Good,A101,45000
+EMP2005,21,female,IT,Data Scientist,Master's,0,0,0,5,4,4,No,18,2,44749,No,Check Later,B202,Thirty Thousand
+EMP2006,57,Male,Sales,Sales Manager,Diploma,9,2,2,5,1,5,No,35,5,74064,No,Check Later,??,45000
+EMP2007,41,F,Finance,Financial Analyst,Bachelor's,6,4,2,2,4,4,Yes,19,5,66271,No,,,Thirty Thousand
+EMP2008,46,male,Sales,Sales Manager,Bachelor's,13,0,0,4,3,5,No,13,1,109289,No,,A101,45000
+EMP2009,56,Male,Operations,Operations Manager,Bachelor's,0,0,0,3,3,4,No,4,9,35607,No,,??,45000
+EMP2010,43,female,IT,Software Engineer,Bachelor's,16,11,4,1,2,3,No,19,7,120564,No,N/A,,45000
+EMP2011,21,Male,Customer Support,Support Executive,Bachelor's,0,0,0,1,1,4,No,25,4,36834,Yes,,,45000
+EMP2012,60,M,Operations,Operations Manager,Diploma,35,31,18,3,2,2,Yes,38,10,186412,Yes,N/A,,
+EMP2013,35,Male,Marketing,Marketing Executive,Bachelor's,4,1,1,3,2,3,No,31,10,52399,Yes,N/A,A101,
+EMP2014,41,male,Sales,Sales Manager,PhD,4,4,0,1,3,3,Yes,36,7,81378,Yes,,,Thirty Thousand
+EMP2015,29,Female,Sales,Sales Manager,MBA,3,3,2,4,3,4,Yes,4,7,66457,Yes,Check Later,,45000
+EMP2016,29,Male,HR,Recruiter,Bachelor's,7,1,0,3,3,3,No,39,2,72804,No,Pending,B202,
+EMP2017,30,Male,IT,Software Engineer,Master's,6,3,0,4,4,3,No,7,4,78331,No,Pending,??,Not Available
+EMP2018,46,Male,Marketing,Marketing Executive,MBA,24,20,16,3,3,3,No,16,6,213396,Yes,Good,??,Thirty Thousand
+EMP2019,55,Female,Customer Support,Support Executive,Diploma,6,3,2,2,3,5,No,5,4,57261,No,Good,??,Not Available
+EMP2020,45,Male,Sales,Sales Executive,MBA,9,2,1,3,3,2,No,23,5,99512,No,Good,B202,Thirty Thousand
+EMP2021,46,Female,Sales,Sales Manager,MBA,16,3,2,2,3,1,No,36,1,146105,No,Good,,Thirty Thousand
+EMP2022,31,Male,Marketing,SEO Specialist,Diploma,6,6,5,3,3,3,Yes,32,7,54507,Yes,Check Later,,Not Available
+EMP2023,58,Male,Operations,Operations Executive,Bachelor's,32,16,2,2,4,5,No,24,4,217399,No,Check Later,B202,Not Available
+EMP2024,22,male,Operations,Operations Executive,PhD,0,0,0,3,2,5,Yes,25,5,57141,Yes,,,
+EMP2025,27,Male,IT,Data Analyst,Bachelor's,1,1,0,2,1,4,No,28,0,39736,Yes,Good,B202,45000
+EMP2026,38,M,HR,Recruiter,Diploma,10,2,2,4,3,5,Yes,19,9,80480,No,Good,999X,
+EMP2027,47,female,Sales,Sales Executive,Bachelor's,8,7,0,4,2,3,No,7,1,75759,No,N/A,??,45000
+EMP2028,54,Female,HR,Recruiter,Bachelor's,11,6,3,2,4,5,No,17,10,94997,Yes,,??,Not Available
+EMP2029,47,Female,Operations,Operations Executive,Master's,2,1,1,3,4,2,No,2,3,47553,No,Pending,A101,Thirty Thousand
+EMP2030,37,M,Operations,Operations Manager,Master's,14,0,0,1,1,2,No,16,10,119118,No,Pending,999X,Thirty Thousand
+EMP2031,44,Male,Finance,Financial Analyst,PhD,3,2,1,4,2,2,No,39,8,65707,No,N/A,B202,
+EMP2032,45,Male,Customer Support,Support Executive,Bachelor's,3,3,1,3,3,3,No,18,5,52390,No,,B202,
+EMP2033,27,Male,IT,System Administrator,Bachelor's,3,0,0,3,3,4,No,39,7,56475,No,N/A,A101,
+EMP2034,26,female,Finance,Finance Manager,Bachelor's,0,0,0,3,2,3,No,1,1,30981,Yes,Good,,45000
+EMP2035,44,Male,Customer Support,Support Executive,Bachelor's,12,9,7,5,3,5,Yes,3,9,102486,No,,A101,Thirty Thousand
+EMP2036,53,Female,Finance,Accountant,Bachelor's,22,11,2,3,3,3,Yes,21,4,153366,No,Check Later,999X,
+EMP2037,49,F,Finance,Financial Analyst,PhD,18,0,0,4,3,2,Yes,30,0,184721,No,Good,,Not Available
+EMP2038,42,female,IT,Data Scientist,MBA,9,2,2,3,1,3,Yes,11,3,104154,No,Pending,A101,Thirty Thousand
+EMP2039,46,Female,IT,Data Analyst,Bachelor's,4,2,2,5,4,4,No,22,9,59767,No,,??,
+EMP2040,48,Male,Marketing,Marketing Executive,Master's,6,4,3,4,2,4,Yes,25,0,74816,Yes,,??,
+EMP2041,41,female,HR,Recruiter,,15,2,0,,4,3,Yes,3,,,No,Check Later,B202,45000
+EMP2042,27,Female,HR,Recruiter,Bachelor's,0,0,0,5,3,3,Yes,30,10,36583,Yes,Pending,999X,
+EMP2043,37,Male,Marketing,Marketing Executive,Master's,11,8,5,3,3,3,No,24,8,104332,No,Pending,??,
+EMP2044,40,Male,Marketing,SEO Specialist,Bachelor's,1,0,0,5,4,4,No,36,1,37846,No,,??,Not Available
+EMP2045,40,M,Operations,Operations Executive,PhD,6,3,0,5,4,5,No,23,6,112657,No,Good,??,Not Available
+EMP2046,42,Female,Customer Support,Support Executive,Master's,10,9,7,2,3,1,No,8,2,93174,Yes,N/A,,45000
+EMP2047,48,female,Finance,Financial Analyst,Bachelor's,12,9,0,4,2,5,Yes,4,1,102483,No,,999X,
+EMP2048,60,M,Marketing,Marketing Executive,Master's,30,3,2,3,4,3,No,39,3,231535,No,,B202,
+EMP2049,27,Female,Sales,Sales Manager,Bachelor's,1,0,0,3,3,3,No,31,6,41071,No,Good,,
+EMP2050,21,Female,HR,Recruiter,Bachelor's,0,0,0,3,2,5,Yes,29,6,41552,Yes,,,Not Available
+EMP2051,52,Female,Marketing,Digital Marketing Manager,Bachelor's,6,5,2,4,4,3,No,36,8,67641,Yes,Pending,,Thirty Thousand
+EMP2052,33,Male,Sales,Sales Manager,Bachelor's,8,1,0,2,2,3,No,13,2,80063,Yes,,999X,45000
+EMP2053,50,Female,Sales,Sales Executive,Master's,10,10,7,1,1,2,No,9,6,101356,Yes,Check Later,B202,45000
+EMP2054,43,male,Sales,Business Development Executive,Bachelor's,1,0,0,4,1,3,No,21,5,38191,No,Good,999X,
+EMP2055,39,Female,Operations,Operations Manager,Master's,6,5,0,2,3,4,Yes,3,9,84705,No,Check Later,B202,Not Available
+EMP2056,52,M,Operations,Operations Manager,Master's,3,3,2,2,3,4,Yes,25,6,65100,Yes,Pending,B202,Not Available
+EMP2057,50,Female,Sales,Sales Manager,Bachelor's,10,2,2,2,3,5,Yes,25,6,97564,Yes,,??,Thirty Thousand
+EMP2058,49,Female,Customer Support,Support Executive,MBA,1,0,0,3,3,3,Yes,12,9,53314,No,Pending,,
+EMP2059,49,Female,Operations,Operations Executive,Bachelor's,15,4,0,3,3,2,Yes,29,4,105282,No,N/A,??,45000
+EMP2060,50,Female,Finance,Financial Analyst,Bachelor's,6,0,0,1,3,1,No,11,8,58281,No,,B202,Thirty Thousand
+EMP2061,36,male,Sales,Business Development Executive,Bachelor's,12,6,2,5,1,3,Yes,11,6,99637,No,,??,
+EMP2062,60,Male,Finance,Accountant,Bachelor's,36,3,2,4,4,5,No,26,6,238773,No,Good,B202,Thirty Thousand
+EMP2063,39,Female,Finance,Financial Analyst,,16,4,4,,2,4,No,14,,,Yes,,999X,Thirty Thousand
+EMP2064,38,Male,Sales,Sales Manager,Master's,11,10,4,3,4,3,No,16,0,107303,No,,B202,Thirty Thousand
+EMP2065,21,Female,HR,HR Executive,Bachelor's,0,0,0,3,2,5,No,10,4,37961,Yes,Pending,??,45000
+EMP2066,34,Female,Customer Support,Support Executive,Bachelor's,11,4,1,4,4,4,No,31,7,96347,No,Check Later,B202,Thirty Thousand
+EMP2067,22,Female,Sales,Business Development Executive,PhD,0,0,0,2,2,1,No,31,4,41833,Yes,,B202,
+EMP2068,48,F,Sales,Sales Executive,Master's,18,8,7,2,1,4,No,36,9,153934,Yes,Pending,,Not Available
+EMP2069,50,Female,Operations,Operations Manager,MBA,6,1,1,5,4,3,No,10,2,83272,Yes,Good,B202,45000
+EMP2070,58,male,Sales,Sales Executive,Diploma,7,2,0,3,4,2,No,26,8,57758,Yes,,A101,Thirty Thousand
+EMP2071,24,Female,HR,HR Executive,Master's,0,0,0,3,3,3,Yes,20,1,38782,No,N/A,B202,45000
+EMP2072,21,Female,Operations,Operations Manager,MBA,0,0,0,5,3,3,No,9,2,41705,No,,??,Thirty Thousand
+EMP2073,28,Male,IT,Software Engineer,Master's,4,2,2,4,3,3,No,15,3,61319,No,,A101,
+EMP2074,49,Male,IT,Data Analyst,Master's,1,0,0,3,4,3,No,9,9,41828,No,Pending,B202,45000
+EMP2075,59,Female,Finance,Financial Analyst,Bachelor's,10,6,0,4,3,2,Yes,7,0,78754,Yes,Good,A101,45000
+EMP2076,23,Female,Customer Support,Support Executive,Diploma,1,1,0,1,3,4,No,26,10,31095,Yes,,??,Thirty Thousand
+EMP2077,52,Male,Finance,Financial Analyst,Bachelor's,5,2,0,4,3,5,No,24,3,63888,No,Good,999X,Thirty Thousand
+EMP2078,30,Male,HR,HR Executive,Bachelor's,6,0,0,3,3,4,Yes,12,3,70245,No,Pending,,Thirty Thousand
+EMP2079,30,Male,Marketing,SEO Specialist,MBA,8,3,1,5,4,3,No,20,8,103463,No,Check Later,B202,Thirty Thousand
+EMP2080,39,F,Customer Support,Support Executive,,6,4,3,,2,3,No,14,,,No,Check Later,,Not Available
+EMP2081,54,Male,IT,Data Scientist,PhD,18,18,9,5,2,3,No,22,1,190143,Yes,Check Later,B202,
+EMP2082,53,Female,Finance,Financial Analyst,PhD,5,5,3,5,3,2,No,16,6,80194,No,Check Later,999X,
+EMP2083,43,Male,IT,Data Analyst,Bachelor's,10,0,0,3,3,3,No,29,5,88006,No,,??,45000
+EMP2084,48,Female,HR,Recruiter,Bachelor's,10,5,5,3,2,4,No,32,6,91944,Yes,N/A,999X,
+EMP2085,52,Male,HR,Recruiter,,6,5,0,,3,4,Yes,19,,,No,Check Later,999X,Not Available
+EMP2086,27,Male,Marketing,SEO Specialist,PhD,1,0,0,4,4,4,No,35,3,57307,No,,??,Thirty Thousand
+EMP2087,49,Female,Marketing,SEO Specialist,Bachelor's,18,13,1,5,2,3,No,32,4,125683,No,Check Later,B202,Thirty Thousand
+EMP2088,28,Male,Operations,Operations Manager,Bachelor's,3,3,0,2,3,3,No,20,5,46012,No,,??,Not Available
+EMP2089,21,Male,Customer Support,Support Executive,Bachelor's,0,0,0,5,3,4,No,40,8,34311,No,Good,,45000
+EMP2090,23,Male,HR,HR Executive,Master's,1,1,1,5,3,3,Yes,20,1,45851,No,,,Thirty Thousand
+EMP2091,44,Male,Finance,Financial Analyst,Bachelor's,5,0,0,5,4,3,No,8,10,62357,No,Pending,,
+EMP2092,43,Male,IT,Data Analyst,Master's,16,12,9,5,3,3,Yes,35,8,142188,Yes,Check Later,A101,Not Available
+EMP2093,28,Male,Sales,Business Development Executive,Diploma,0,0,0,3,3,3,Yes,13,9,22208,No,Pending,??,Not Available
+EMP2094,57,female,Marketing,Marketing Executive,Diploma,27,5,0,2,3,2,Yes,6,0,148048,No,N/A,A101,
+EMP2095,23,Female,Sales,Sales Executive,Bachelor's,1,0,0,2,3,4,Yes,16,3,45024,Yes,Good,999X,
+EMP2096,53,Female,Finance,Accountant,,6,3,1,,3,5,No,5,,,No,Check Later,,
+EMP2097,48,Male,Marketing,Marketing Executive,Bachelor's,8,6,4,4,4,3,Yes,34,8,76450,No,,A101,45000
+EMP2098,28,F,Sales,Sales Manager,Bachelor's,0,0,0,5,3,2,Yes,6,5,26236,No,Good,999X,
+EMP2099,54,Female,Customer Support,Support Executive,Bachelor's,32,32,28,5,2,4,No,33,3,209193,Yes,Pending,,Not Available
+EMP2100,55,Male,Finance,Financial Analyst,Bachelor's,0,0,0,4,2,3,No,15,1,27533,No,Pending,,Not Available
+EMP2101,52,Female,IT,System Administrator,Bachelor's,18,0,0,1,1,3,Yes,15,4,131833,Yes,Pending,B202,
+EMP2102,44,Male,Customer Support,Support Executive,PhD,5,4,2,2,1,2,Yes,14,7,79338,Yes,Check Later,A101,Thirty Thousand
+EMP2103,34,Male,Finance,Finance Manager,Bachelor's,1,0,0,1,4,3,Yes,39,7,34028,Yes,Good,,45000
+EMP2104,52,Female,Operations,Operations Manager,Bachelor's,9,5,5,3,3,4,Yes,5,5,83619,No,N/A,,Thirty Thousand
+EMP2105,36,M,Marketing,Marketing Executive,,11,8,2,,3,4,Yes,26,,,No,N/A,??,45000
+EMP2106,24,Female,HR,HR Executive,PhD,2,1,0,1,3,3,No,17,0,61996,No,N/A,,45000
+EMP2107,57,male,IT,Data Scientist,Bachelor's,32,32,17,3,4,3,Yes,16,7,210095,No,Check Later,A101,
+EMP2108,41,F,Customer Support,Support Executive,Master's,0,0,0,2,3,2,No,35,3,29575,Yes,Check Later,999X,
+EMP2109,34,Male,Customer Support,Support Executive,Master's,12,12,4,4,4,2,No,38,1,110321,No,Good,A101,45000
+EMP2110,51,Male,Sales,Business Development Executive,Master's,4,3,0,3,3,5,No,23,0,67428,No,,,45000
+EMP2111,38,Female,Marketing,Marketing Executive,Diploma,0,0,0,3,4,4,No,13,6,25525,No,N/A,999X,Not Available
+EMP2112,27,Female,HR,Recruiter,Master's,3,1,1,3,3,3,No,33,1,54027,No,N/A,,
+EMP2113,30,Female,Finance,Accountant,Diploma,2,1,0,5,2,4,No,29,3,36546,No,N/A,??,
+EMP2114,27,M,HR,Recruiter,Master's,1,0,0,2,3,4,No,34,3,44135,No,N/A,A101,Thirty Thousand
+EMP2115,53,male,Marketing,Digital Marketing Manager,Master's,8,2,1,3,3,4,Yes,34,9,89883,No,Pending,A101,Thirty Thousand
+EMP2116,43,Female,Marketing,SEO Specialist,,13,10,0,,2,1,Yes,27,,,Yes,Check Later,B202,Not Available
+EMP2117,41,Male,Operations,Operations Executive,MBA,16,1,1,4,3,2,No,15,1,158330,No,,999X,45000
+EMP2118,39,female,Operations,Operations Executive,Diploma,13,0,0,5,3,4,No,9,0,90804,Yes,,A101,Thirty Thousand
+EMP2119,39,F,HR,Recruiter,MBA,3,3,0,3,1,3,No,26,5,63849,No,Pending,,Thirty Thousand
+EMP2120,56,female,Finance,Financial Analyst,Bachelor's,25,18,1,3,4,5,No,3,2,179095,No,Good,B202,45000
+EMP2121,49,Male,HR,Recruiter,Bachelor's,20,12,6,1,3,4,No,36,0,147323,Yes,Good,??,45000
+EMP2122,38,Female,Marketing,Marketing Executive,Diploma,16,12,9,4,4,5,No,5,7,100392,No,N/A,B202,Not Available
+EMP2123,22,Male,Marketing,Marketing Executive,PhD,0,0,0,3,3,3,No,20,3,46066,Yes,N/A,??,Thirty Thousand
+EMP2124,21,Male,Sales,Business Development Executive,Diploma,0,0,0,2,3,5,No,20,9,29225,No,Check Later,??,Not Available
+EMP2125,25,Male,Operations,Operations Manager,Bachelor's,1,0,0,3,3,3,No,5,6,35505,No,Check Later,A101,Not Available
+EMP2126,40,Female,Sales,Sales Executive,Bachelor's,1,1,1,3,3,5,No,10,9,40461,Yes,Check Later,??,45000
+EMP2127,31,Female,IT,System Administrator,Master's,6,0,0,1,4,2,Yes,16,1,76393,No,,999X,Thirty Thousand
+EMP2128,22,Male,Marketing,SEO Specialist,,0,0,0,,2,3,No,25,,,No,,,Not Available
+EMP2129,23,Female,Sales,Business Development Executive,Diploma,1,1,1,4,4,4,Yes,25,5,29651,No,,B202,Not Available
+EMP2130,43,Female,HR,Recruiter,Bachelor's,4,4,4,2,4,3,Yes,30,6,50785,Yes,Pending,,45000
+EMP2131,32,Female,Operations,Operations Executive,Bachelor's,3,3,0,3,3,3,No,14,0,49842,Yes,,,45000
+EMP2132,40,Male,Operations,Operations Executive,Bachelor's,3,2,0,4,4,5,Yes,22,0,58945,No,,,Not Available
+EMP2133,25,Female,Finance,Financial Analyst,Bachelor's,1,0,0,3,3,3,No,28,1,39156,No,,B202,45000
+EMP2134,57,male,HR,HR Executive,Master's,20,6,3,3,4,4,Yes,30,10,170310,No,,,45000
+EMP2135,58,Male,Finance,Financial Analyst,Bachelor's,12,7,1,3,3,2,No,19,1,95445,No,Good,??,45000
+EMP2136,50,Male,Sales,Sales Executive,Bachelor's,21,21,15,4,1,4,Yes,38,4,147860,Yes,,A101,45000
+EMP2137,29,Female,Customer Support,Support Executive,Bachelor's,4,4,2,5,4,4,No,20,0,54436,No,Pending,B202,Not Available
+EMP2138,54,F,IT,Software Engineer,PhD,24,22,14,4,3,3,Yes,35,10,247589,Yes,,999X,45000
+EMP2139,55,Female,HR,HR Executive,PhD,25,17,11,1,3,1,No,22,1,244567,Yes,,A101,45000
+EMP2140,42,Female,HR,Recruiter,,6,4,4,,3,3,Yes,15,,,No,Check Later,??,Not Available
+EMP2141,44,Female,HR,HR Executive,Bachelor's,19,6,1,5,2,1,No,11,2,129078,Yes,Pending,999X,45000
+EMP2142,37,Female,Finance,Finance Manager,Diploma,0,0,0,1,3,1,Yes,34,3,18000,Yes,Check Later,A101,Thirty Thousand
+EMP2143,30,Male,Sales,Sales Manager,Bachelor's,7,0,0,5,4,4,Yes,24,0,78127,No,Check Later,??,
+EMP2144,50,Female,HR,HR Executive,Bachelor's,3,0,0,5,1,2,Yes,6,4,41548,No,N/A,B202,Thirty Thousand
+EMP2145,43,M,Customer Support,Support Executive,Bachelor's,16,16,1,1,2,2,No,17,3,119176,No,Pending,??,Not Available
+EMP2146,52,Female,HR,HR Executive,Master's,20,7,6,5,1,4,No,28,7,168163,Yes,,B202,45000
+EMP2147,37,M,Operations,Operations Executive,MBA,13,3,0,3,3,2,No,31,2,136612,No,,,Thirty Thousand
+EMP2148,37,male,IT,Software Engineer,MBA,15,3,2,5,3,3,Yes,36,9,151904,Yes,,A101,Thirty Thousand
+EMP2149,34,Male,Operations,Operations Executive,Bachelor's,7,1,0,3,4,2,No,9,0,68004,No,Check Later,,
+EMP2150,29,M,Operations,Operations Executive,Master's,3,0,0,3,4,3,No,10,9,58388,No,Pending,999X,45000
+EMP2151,60,Male,IT,Software Engineer,Bachelor's,28,0,0,4,3,4,Yes,21,4,185851,No,,,45000
+EMP2152,22,Female,Customer Support,Support Executive,Diploma,0,0,0,4,2,4,No,34,0,27063,No,Pending,,Not Available
+EMP2153,45,Male,Sales,Business Development Executive,Master's,7,0,0,1,4,3,No,31,10,78920,No,Check Later,A101,Thirty Thousand
+EMP2154,59,Male,Operations,Operations Manager,Diploma,23,4,0,4,4,2,Yes,29,4,127257,No,N/A,,Not Available
+EMP2155,29,Female,Sales,Sales Manager,Bachelor's,2,1,1,2,3,2,Yes,11,8,40523,Yes,,??,45000
+EMP2156,42,Male,Operations,Operations Manager,Bachelor's,18,1,0,3,3,3,Yes,33,4,131953,No,Good,,Not Available
+EMP2157,24,Female,Marketing,Digital Marketing Manager,Master's,0,0,0,3,4,5,No,1,1,50342,No,Check Later,,Thirty Thousand
+EMP2158,46,Female,IT,Data Scientist,Master's,1,1,0,3,3,3,Yes,21,1,47316,No,Pending,??,
+EMP2159,49,Male,Operations,Operations Manager,Bachelor's,14,9,9,3,3,3,Yes,23,9,111209,Yes,Pending,B202,Thirty Thousand
+EMP2160,54,Male,Marketing,Marketing Executive,MBA,21,0,0,2,3,2,Yes,9,8,185169,No,,A101,Not Available
+EMP2161,43,Female,Finance,Finance Manager,Bachelor's,9,3,2,2,1,4,Yes,1,4,84712,Yes,Pending,A101,Not Available
+EMP2162,57,Male,Marketing,Digital Marketing Manager,Bachelor's,17,6,2,1,3,4,Yes,21,10,124155,Yes,Check Later,B202,45000
+EMP2163,31,male,HR,HR Executive,Master's,5,5,5,3,3,4,No,22,7,76556,No,,,Thirty Thousand
+EMP2164,26,Female,Operations,Operations Executive,Master's,0,0,0,5,2,5,Yes,4,9,50984,No,,??,45000
+EMP2165,38,female,Marketing,Marketing Executive,PhD,12,9,5,2,1,3,No,1,3,141630,No,Good,??,
+EMP2166,41,Female,Sales,Sales Manager,Bachelor's,0,0,0,5,2,2,No,10,1,28931,No,Good,B202,
+EMP2167,56,Female,Finance,Finance Manager,Master's,4,0,0,4,3,3,No,15,3,63401,No,Pending,??,
+EMP2168,58,Female,Customer Support,Support Executive,Master's,25,0,0,4,4,4,No,36,10,203563,No,Check Later,999X,Thirty Thousand
+EMP2169,54,Male,Operations,Operations Executive,MBA,12,7,3,4,4,4,Yes,29,3,130234,No,Check Later,,Not Available
+EMP2170,37,Male,HR,HR Executive,Bachelor's,10,3,2,5,3,3,No,5,10,86352,No,,999X,Thirty Thousand
+EMP2171,57,female,Customer Support,Support Executive,Master's,13,4,4,2,3,4,No,29,8,119868,No,,999X,Not Available
+EMP2172,45,Female,Marketing,SEO Specialist,Master's,23,12,6,3,4,4,No,27,9,182492,No,Pending,,45000
+EMP2173,58,female,Customer Support,Support Executive,Bachelor's,2,2,0,4,2,5,No,25,10,45654,No,N/A,??,Not Available
+EMP2174,32,female,Customer Support,Support Executive,Bachelor's,2,2,0,4,3,3,No,16,5,40861,No,Good,,Not Available
+EMP2175,43,female,Finance,Financial Analyst,Bachelor's,16,9,4,5,4,4,No,16,9,126194,No,Pending,B202,
+EMP2176,42,M,Customer Support,Support Executive,Master's,2,0,0,1,1,3,No,36,5,54657,Yes,N/A,A101,45000
+EMP2177,41,Female,Customer Support,Support Executive,MBA,15,9,4,4,4,4,No,25,4,152839,No,N/A,??,45000
+EMP2178,47,Male,Operations,Operations Executive,Master's,13,8,3,3,4,5,No,1,5,129004,No,N/A,A101,Not Available
+EMP2179,51,Female,Finance,Accountant,Master's,11,2,1,3,1,3,No,5,0,104531,Yes,Good,A101,Thirty Thousand
+EMP2180,26,Female,HR,Recruiter,Bachelor's,3,3,1,3,1,4,No,20,4,54956,No,,,Thirty Thousand
+EMP2181,47,Female,Marketing,Digital Marketing Manager,Diploma,11,2,2,4,1,4,No,5,5,79853,No,Check Later,999X,Not Available
+EMP2182,60,male,Finance,Accountant,Bachelor's,28,25,16,5,3,2,Yes,36,7,175965,Yes,,B202,
+EMP2183,54,Female,Finance,Finance Manager,Bachelor's,16,8,1,3,3,3,No,29,3,115537,Yes,Pending,,Not Available
+EMP2184,32,Female,IT,Software Engineer,Bachelor's,7,1,1,5,3,2,Yes,34,4,62084,No,Pending,A101,
+EMP2185,27,Male,Finance,Finance Manager,Bachelor's,0,0,0,3,2,5,No,18,3,42541,No,N/A,B202,Thirty Thousand
+EMP2186,30,Female,IT,Data Scientist,Bachelor's,4,2,1,2,4,4,Yes,2,6,60802,No,Good,999X,45000
+EMP2187,37,Male,Marketing,Digital Marketing Manager,Bachelor's,8,7,4,1,3,2,Yes,16,9,73251,No,,B202,Not Available
+EMP2188,46,M,Customer Support,Support Executive,Bachelor's,22,17,14,1,1,2,No,29,5,144627,Yes,,999X,45000
+EMP2189,41,Male,Operations,Operations Executive,Bachelor's,19,13,4,3,3,3,Yes,33,3,135213,No,Good,,Thirty Thousand
+EMP2190,48,Male,Operations,Operations Executive,,10,2,2,,3,3,No,16,,,No,Pending,A101,Thirty Thousand
+EMP2191,22,Male,Marketing,SEO Specialist,MBA,0,0,0,4,3,1,No,35,3,34827,No,N/A,A101,
+EMP2192,21,Female,Marketing,Digital Marketing Manager,MBA,0,0,0,4,2,3,Yes,17,7,45181,No,N/A,,Not Available
+EMP2193,56,Female,Sales,Sales Executive,Master's,33,33,2,1,2,3,Yes,4,10,249495,Yes,,??,45000
+EMP2194,46,Male,Customer Support,Support Executive,Diploma,9,0,0,2,4,2,No,4,2,60468,No,,??,45000
+EMP2195,49,Male,Marketing,SEO Specialist,Master's,9,1,0,3,4,4,Yes,25,7,94136,No,,??,Thirty Thousand
+EMP2196,41,Female,Finance,Financial Analyst,MBA,10,7,2,3,3,5,No,33,1,121609,No,,??,
+EMP2197,31,Male,Operations,Operations Manager,Master's,5,0,0,2,3,4,No,14,5,75046,No,Check Later,999X,Thirty Thousand
+EMP2198,60,Female,HR,HR Executive,Diploma,35,12,3,2,3,4,Yes,24,7,190607,Yes,,??,
+EMP2199,31,Female,Operations,Operations Manager,,7,1,0,,3,3,Yes,11,,,Yes,,A101,Thirty Thousand
+EMP2200,56,Female,IT,Data Analyst,MBA,11,6,3,5,3,3,No,25,5,122657,Yes,Check Later,999X,45000
+EMP2201,59,Male,Operations,Operations Executive,Master's,22,15,11,2,4,3,No,28,8,176309,Yes,Pending,999X,45000
+EMP2202,60,F,Sales,Sales Executive,Master's,26,20,17,3,3,4,Yes,7,9,209284,No,Check Later,A101,
+EMP2203,55,Female,Customer Support,Support Executive,Bachelor's,5,2,1,3,3,5,Yes,36,9,62061,No,,B202,Thirty Thousand
+EMP2204,54,Female,Marketing,Digital Marketing Manager,Bachelor's,0,0,0,4,3,4,No,10,1,34233,No,,999X,45000
+EMP2205,44,Male,Customer Support,Support Executive,Diploma,5,0,0,3,4,5,No,36,10,55702,No,Check Later,999X,45000
+EMP2206,42,Female,Marketing,SEO Specialist,Master's,17,14,3,2,4,4,No,31,0,147039,No,,A101,45000
+EMP2207,25,Male,Operations,Operations Executive,Diploma,1,1,1,4,1,3,No,19,1,26588,No,,A101,Thirty Thousand
+EMP2208,53,Female,HR,HR Executive,Bachelor's,8,0,0,3,3,3,No,18,4,72263,No,N/A,??,
+EMP2209,56,F,HR,HR Executive,Bachelor's,23,20,0,3,3,2,No,6,5,151301,No,Check Later,??,45000
+EMP2210,40,Female,Sales,Sales Executive,Bachelor's,14,6,1,3,3,1,No,28,0,100937,No,,,45000
+EMP2211,39,Male,IT,Data Analyst,Diploma,7,7,7,3,3,4,No,7,6,449613,No,,??,45000
+EMP2212,55,Male,Operations,Operations Executive,Master's,23,19,7,3,4,3,No,38,10,178121,No,Pending,,
+EMP2213,37,Female,Marketing,SEO Specialist,Master's,15,7,0,2,3,3,No,12,3,131049,Yes,Check Later,B202,45000
+EMP2214,54,Male,Operations,Operations Manager,Bachelor's,5,1,1,3,4,3,No,34,8,59371,No,Good,??,45000
+EMP2215,29,Male,Sales,Sales Executive,Diploma,5,4,0,1,2,3,No,25,5,51345,Yes,Good,A101,45000
+EMP2216,46,male,Finance,Finance Manager,Diploma,2,0,0,4,4,3,No,17,8,35433,Yes,,??,45000
+EMP2217,22,Female,Finance,Accountant,MBA,0,0,0,2,4,3,Yes,33,0,38465,Yes,,A101,Thirty Thousand
+EMP2218,29,Male,Sales,Business Development Executive,Bachelor's,1,0,0,1,3,3,Yes,23,3,35650,Yes,,??,Not Available
+EMP2219,29,M,Marketing,Digital Marketing Manager,Bachelor's,0,0,0,4,3,4,No,9,1,32378,No,Pending,B202,Thirty Thousand
+EMP2220,60,Male,Customer Support,Support Executive,Diploma,35,24,7,4,2,3,Yes,6,5,186003,Yes,,A101,Thirty Thousand
+EMP2221,37,F,Sales,Sales Executive,Master's,9,0,0,5,4,4,No,2,3,100857,No,,A101,Thirty Thousand
+EMP2222,21,Male,Marketing,Digital Marketing Manager,MBA,0,0,0,3,3,5,Yes,38,8,52216,No,Check Later,??,45000
+EMP2223,45,M,HR,Recruiter,MBA,11,1,1,2,2,5,No,9,2,127849,No,,,
+EMP2224,60,Female,Sales,Sales Executive,Master's,37,18,11,4,3,5,Yes,3,0,279114,No,Pending,A101,Not Available
+EMP2225,45,female,Marketing,Marketing Executive,Diploma,10,3,3,4,3,3,No,16,10,76183,No,Check Later,??,
+EMP2226,59,F,Sales,Business Development Executive,Diploma,11,9,2,2,2,1,No,25,10,69264,Yes,Good,B202,45000
+EMP2227,55,Male,Sales,Business Development Executive,Diploma,6,0,0,5,1,3,Yes,24,0,56379,Yes,Check Later,,
+EMP2228,23,F,Customer Support,Support Executive,Bachelor's,0,0,0,2,3,3,No,29,8,37400,No,Good,??,Thirty Thousand
+EMP2229,57,Female,Customer Support,Support Executive,Diploma,35,28,9,5,3,5,Yes,40,8,188774,Yes,N/A,,Not Available
+EMP2230,50,Female,Marketing,SEO Specialist,Bachelor's,19,5,3,5,4,4,Yes,26,4,134316,No,,B202,
+EMP2231,58,Male,Marketing,Digital Marketing Manager,Bachelor's,30,16,4,4,4,2,No,38,1,190880,Yes,,A101,Not Available
+EMP2232,54,Female,IT,Data Analyst,MBA,32,24,15,5,3,2,Yes,35,8,264695,Yes,Check Later,??,
+EMP2233,32,Male,Sales,Business Development Executive,Master's,1,1,0,4,4,2,No,23,7,44268,No,,999X,45000
+EMP2234,39,Female,Finance,Accountant,,8,3,2,,3,4,Yes,4,,,No,,,Thirty Thousand
+EMP2235,57,Female,Sales,Business Development Executive,Master's,23,19,19,3,3,4,No,14,9,191551,Yes,Pending,,
+EMP2236,37,male,Sales,Sales Executive,Diploma,8,2,1,1,2,5,No,39,9,66543,Yes,Good,,Thirty Thousand
+EMP2237,30,female,Marketing,Marketing Executive,Master's,6,6,1,3,3,5,No,7,5,86771,No,Good,999X,
+EMP2238,32,Female,Sales,Sales Executive,Bachelor's,8,2,1,4,3,3,No,8,6,75237,No,N/A,B202,Not Available
+EMP2239,36,Male,Operations,Operations Manager,Master's,9,1,0,3,1,3,No,19,5,97566,No,Good,??,
+EMP2240,44,Male,Sales,Business Development Executive,Bachelor's,1,1,0,3,3,3,No,2,4,36353,No,,A101,45000
+EMP2241,39,Male,Operations,Operations Executive,PhD,5,3,0,4,4,3,No,1,3,85449,No,,??,
+EMP2242,28,Male,Customer Support,Support Executive,Bachelor's,6,0,0,5,3,5,Yes,38,6,69986,No,Check Later,B202,Thirty Thousand
+EMP2243,51,Male,Finance,Accountant,Bachelor's,2,2,1,1,3,3,No,13,3,45396,No,Pending,A101,45000
+EMP2244,41,Male,Marketing,SEO Specialist,MBA,10,4,4,3,4,4,Yes,24,9,117122,No,Check Later,B202,Thirty Thousand
+EMP2245,37,F,Sales,Business Development Executive,Diploma,14,12,8,2,4,3,Yes,32,9,93689,Yes,Check Later,??,
+EMP2246,43,Female,Operations,Operations Executive,Master's,5,0,0,4,2,1,No,30,9,63945,No,Check Later,B202,Not Available
+EMP2247,57,Male,Operations,Operations Manager,,2,0,0,,3,2,No,6,,,Yes,Pending,,
+EMP2248,36,Female,Customer Support,Support Executive,MBA,7,2,1,4,3,3,No,38,4,89963,No,N/A,??,
+EMP2249,26,Male,Operations,Operations Manager,,2,0,0,,3,4,No,33,,,Yes,Check Later,,45000
+EMP2250,28,Female,HR,Recruiter,PhD,6,3,2,2,2,3,Yes,23,5,94951,Yes,N/A,999X,Thirty Thousand
+EMP2251,45,Female,IT,Data Analyst,Diploma,12,5,0,5,3,4,Yes,10,3,88075,No,Pending,A101,
+EMP2252,38,Female,Finance,Financial Analyst,MBA,9,9,8,1,4,4,Yes,15,2,115582,Yes,Good,B202,45000
+EMP2253,45,Female,Customer Support,Support Executive,Master's,5,5,4,3,3,3,No,23,10,65564,No,,999X,Thirty Thousand
+EMP2254,32,F,Customer Support,Support Executive,Master's,8,2,0,1,4,4,No,36,5,92739,No,,??,
+EMP2255,35,M,Sales,Business Development Executive,Diploma,1,0,0,3,4,3,Yes,1,0,34003,No,Good,B202,
+EMP2256,46,Female,HR,Recruiter,Master's,17,6,1,3,4,4,No,8,1,149948,No,N/A,??,45000
+EMP2257,46,Female,Sales,Business Development Executive,PhD,6,0,0,3,2,4,No,3,6,106844,No,,,
+EMP2258,52,Female,Sales,Business Development Executive,MBA,14,14,12,2,4,5,No,14,3,149093,No,,B202,Thirty Thousand
+EMP2259,30,Male,Marketing,Marketing Executive,Bachelor's,1,0,0,3,1,3,No,17,4,34821,No,,A101,Thirty Thousand
+EMP2260,36,Female,Marketing,Marketing Executive,Diploma,1,0,0,4,3,3,No,34,10,28247,No,N/A,B202,45000
+EMP2261,27,Male,Marketing,Digital Marketing Manager,Bachelor's,3,3,3,4,3,2,No,6,9,45087,No,Check Later,,Not Available
+EMP2262,37,Female,HR,Recruiter,MBA,8,7,0,3,3,3,Yes,5,0,99102,No,Pending,999X,Thirty Thousand
+EMP2263,43,Female,Sales,Business Development Executive,Master's,1,1,0,4,4,4,Yes,40,1,50427,No,,,Thirty Thousand
+EMP2264,46,Male,IT,System Administrator,Bachelor's,7,7,7,2,4,5,Yes,29,3,77422,Yes,N/A,,Not Available
+EMP2265,41,F,Finance,Finance Manager,Diploma,19,5,2,3,1,3,No,35,7,113655,Yes,Good,A101,
+EMP2266,42,M,Marketing,Digital Marketing Manager,Bachelor's,1,1,0,2,3,2,No,18,9,38323,No,Good,B202,Not Available
+EMP2267,27,male,Marketing,Digital Marketing Manager,Bachelor's,2,1,1,2,3,3,No,40,3,44609,Yes,Pending,A101,
+EMP2268,34,Female,Customer Support,Support Executive,,9,1,1,,3,3,Yes,30,,,Yes,Check Later,A101,
+EMP2269,35,M,Sales,Sales Manager,Master's,6,2,2,3,4,3,No,15,2,79548,No,Good,,Not Available
+EMP2270,27,Male,Sales,Business Development Executive,Bachelor's,5,3,2,4,3,3,No,15,4,446791,No,Pending,,Not Available
+EMP2271,29,female,HR,Recruiter,Bachelor's,5,3,0,5,4,4,No,16,2,62354,No,Good,A101,
+EMP2272,28,Male,HR,Recruiter,,1,1,1,,2,1,No,33,,,Yes,Check Later,999X,45000
+EMP2273,43,female,Marketing,Digital Marketing Manager,PhD,4,0,0,4,3,3,No,10,4,78516,No,,??,Thirty Thousand
+EMP2274,49,Male,Sales,Business Development Executive,Bachelor's,10,9,9,5,3,4,Yes,19,6,91069,No,,A101,
+EMP2275,38,M,IT,Data Analyst,Bachelor's,0,0,0,4,2,3,Yes,37,10,34774,Yes,,,45000
+EMP2276,51,F,Finance,Financial Analyst,Bachelor's,1,1,1,3,3,4,Yes,3,7,45238,No,,,
+EMP2277,50,Male,Sales,Business Development Executive,Master's,23,3,0,3,4,4,No,36,4,187108,No,,??,45000
+EMP2278,59,Female,Customer Support,Support Executive,Master's,0,0,0,1,4,4,Yes,4,7,37194,No,Good,999X,
+EMP2279,55,F,Sales,Business Development Executive,Master's,18,10,4,3,3,3,No,11,2,155537,Yes,Check Later,B202,Thirty Thousand
+EMP2280,38,Female,Operations,Operations Manager,Bachelor's,1,1,1,4,3,3,No,33,6,37091,No,,999X,Not Available
+EMP2281,59,M,HR,Recruiter,,20,19,19,,1,4,Yes,28,,,Yes,,??,45000
+EMP2282,37,Female,Customer Support,Support Executive,Diploma,3,0,0,2,2,4,No,32,6,43630,Yes,Pending,,45000
+EMP2283,34,Female,Finance,Financial Analyst,Master's,12,2,1,4,3,3,Yes,16,1,108721,No,,A101,45000
+EMP2284,51,Male,Marketing,SEO Specialist,,22,20,3,,1,2,No,9,,,No,Pending,A101,
+EMP2285,44,Male,Customer Support,Support Executive,Master's,20,8,7,3,4,2,No,11,5,156302,No,Good,,45000
+EMP2286,55,male,Sales,Sales Executive,MBA,23,8,4,4,3,2,Yes,6,9,199830,Yes,Check Later,B202,
+EMP2287,54,Female,Marketing,SEO Specialist,MBA,3,0,0,3,4,3,No,27,2,68180,No,N/A,B202,45000
+EMP2288,23,Female,Sales,Sales Executive,Bachelor's,0,0,0,2,3,2,No,12,3,29406,No,Good,999X,Thirty Thousand
+EMP2289,57,Female,Marketing,Digital Marketing Manager,Bachelor's,11,10,4,3,4,3,No,22,6,86891,No,,A101,
+EMP2290,60,Female,Finance,Finance Manager,Diploma,21,16,11,4,3,4,No,40,2,123377,No,N/A,??,Thirty Thousand
+EMP2291,46,M,HR,Recruiter,Master's,19,11,9,5,3,3,Yes,37,0,154836,Yes,Check Later,B202,45000
+EMP2292,43,F,Finance,Financial Analyst,MBA,17,12,2,1,4,4,No,21,5,173076,No,Pending,A101,
+EMP2293,59,Female,Operations,Operations Executive,Bachelor's,0,0,0,3,3,4,Yes,33,2,32580,No,Good,,
+EMP2294,35,female,IT,Data Scientist,Bachelor's,13,7,4,3,1,3,Yes,17,10,107200,No,Check Later,A101,
+EMP2295,24,male,HR,HR Executive,MBA,1,1,1,3,3,4,Yes,29,9,58566,No,,A101,45000
+EMP2296,49,Female,Finance,Finance Manager,,0,0,0,,4,4,Yes,40,,,Yes,N/A,999X,
+EMP2297,42,F,Operations,Operations Executive,Bachelor's,13,1,1,3,4,3,No,10,9,105346,No,,,45000
+EMP2298,45,Male,IT,Software Engineer,Master's,3,0,0,5,3,3,Yes,18,2,52173,No,,A101,Not Available
+EMP2299,33,Male,Operations,Operations Manager,Bachelor's,4,2,1,4,3,3,No,13,5,49269,No,Good,999X,Not Available
+EMP2300,38,female,Sales,Sales Executive,Diploma,10,0,0,3,4,5,No,27,10,79550,No,,??,Thirty Thousand
+EMP2301,53,Female,Sales,Sales Manager,MBA,23,0,0,3,1,4,No,10,3,209293,No,Pending,,45000
+EMP2302,36,female,Marketing,SEO Specialist,MBA,11,11,1,3,3,2,No,32,3,114015,No,,A101,45000
+EMP2303,22,M,HR,Recruiter,Master's,0,0,0,3,2,4,Yes,3,9,39083,No,Check Later,,45000
+EMP2304,55,Male,Sales,Business Development Executive,Diploma,30,5,0,5,3,3,No,22,9,158235,No,,999X,45000
+EMP2305,54,M,Customer Support,Support Executive,MBA,12,8,6,5,3,3,No,27,10,128567,Yes,,,Not Available
+EMP2306,50,Female,Operations,Operations Executive,Bachelor's,15,6,1,3,2,4,Yes,3,1,120325,No,N/A,B202,Thirty Thousand
+EMP2307,33,Female,HR,HR Executive,Bachelor's,7,4,0,3,2,3,No,33,3,69985,Yes,N/A,,Thirty Thousand
+EMP2308,33,Female,Customer Support,Support Executive,Bachelor's,7,2,1,5,3,4,No,2,10,74925,Yes,Pending,999X,
+EMP2309,38,M,Sales,Sales Executive,Diploma,1,1,1,3,2,4,Yes,11,3,36134,No,Check Later,A101,45000
+EMP2310,52,Male,Marketing,SEO Specialist,Master's,15,1,1,4,2,4,Yes,10,10,137468,No,,,Not Available
+EMP2311,52,Female,Finance,Accountant,Master's,5,0,0,2,4,2,Yes,39,6,60939,Yes,Pending,999X,Not Available
+EMP2312,55,Female,Marketing,Marketing Executive,Bachelor's,0,0,0,4,3,4,No,33,4,36083,No,,B202,Not Available
+EMP2313,59,male,Customer Support,Support Executive,Bachelor's,10,1,0,3,3,5,No,7,7,90061,No,Check Later,??,45000
+EMP25007,Unknown,Unknown,Unknown,Unknown,Bachelor's,18,0,0,5,4,2,No,15,6,125934,No,Check Later,B202,45000
+EMP2315,49,Male,Sales,Sales Executive,Diploma,2,2,0,4,2,3,No,26,9,34472,No,N/A,??,
+EMP2316,36,Male,Customer Support,Support Executive,Master's,10,5,3,2,3,3,No,11,8,102963,No,,,
+EMP2317,30,Female,IT,Software Engineer,MBA,4,4,0,4,3,4,No,38,7,78375,No,,,45000
+EMP2318,50,female,IT,Data Analyst,Diploma,16,7,3,5,4,4,No,27,8,101843,No,Pending,B202,Not Available
+EMP2319,45,Male,Operations,Operations Manager,Diploma,21,2,1,3,4,2,No,39,0,121239,No,Pending,,
+EMP2320,59,Male,HR,HR Executive,Master's,27,25,5,2,4,5,No,7,9,213809,Yes,Good,??,Thirty Thousand
+EMP2321,40,F,Operations,Operations Manager,MBA,10,8,2,1,4,2,No,1,2,114557,No,N/A,999X,
+EMP2322,25,Male,Sales,Sales Manager,Bachelor's,2,1,0,3,2,4,No,10,4,389970,No,,999X,45000
+EMP2323,21,F,IT,Data Scientist,Bachelor's,0,0,0,3,1,3,No,21,8,29438,No,Check Later,??,
+EMP2324,50,Female,Customer Support,Support Executive,Master's,19,4,2,4,3,3,Yes,15,7,451354,No,Check Later,??,Not Available
+EMP2325,23,female,Finance,Finance Manager,Bachelor's,1,0,0,2,2,2,Yes,30,9,36632,Yes,N/A,??,
+EMP2326,34,Male,IT,Data Scientist,Diploma,10,7,2,5,3,2,No,30,6,473207,No,,,Thirty Thousand
+EMP2327,50,Male,Customer Support,Support Executive,Master's,9,2,2,3,3,4,Yes,8,1,96153,Yes,Good,B202,Thirty Thousand
+EMP2328,24,male,Finance,Accountant,Master's,1,1,1,2,1,3,No,24,10,42116,Yes,,B202,
+EMP2329,38,female,Operations,Operations Executive,Master's,11,1,0,3,4,2,No,19,5,104525,No,Pending,B202,Not Available
+EMP2330,57,male,Operations,Operations Manager,Master's,29,20,17,3,2,2,Yes,3,3,218704,Yes,Pending,A101,Not Available
+EMP2331,45,Male,HR,Recruiter,Master's,9,0,0,2,3,2,Yes,15,4,89303,No,,B202,Thirty Thousand
+EMP2332,21,male,Customer Support,Support Executive,Bachelor's,0,0,0,3,3,4,Yes,36,4,33313,No,Pending,A101,Thirty Thousand
+EMP2333,35,male,IT,System Administrator,Bachelor's,9,1,1,2,3,4,Yes,6,3,84223,No,,A101,
+EMP2334,29,Female,Marketing,SEO Specialist,Diploma,2,0,0,4,3,2,No,18,3,31163,No,,999X,45000
+EMP2335,35,male,Operations,Operations Executive,Diploma,0,0,0,4,1,3,No,38,3,29186,No,Check Later,A101,Not Available
+EMP2336,44,female,Operations,Operations Executive,,9,8,1,,3,2,No,19,,,Yes,,??,45000
+EMP2337,24,Female,HR,HR Executive,MBA,1,0,0,4,4,5,No,30,1,62782,No,N/A,999X,45000
+EMP2338,32,Male,Finance,Finance Manager,PhD,0,0,0,4,4,5,No,13,0,59614,No,,999X,Thirty Thousand
+EMP2339,57,Female,HR,Recruiter,Master's,29,15,2,2,3,4,No,39,1,228321,No,Pending,??,
+EMP2340,57,Male,IT,Data Scientist,Bachelor's,6,6,1,5,3,5,No,12,6,73938,No,,A101,
+EMP2341,26,Female,Customer Support,Support Executive,Diploma,3,3,3,5,3,4,No,34,0,41488,No,Good,,Thirty Thousand
+EMP2342,59,Female,Sales,Business Development Executive,MBA,26,14,6,2,4,4,Yes,12,5,235356,Yes,Good,,45000
+EMP2343,44,Male,Sales,Business Development Executive,Master's,8,5,2,2,2,3,Yes,24,3,88712,Yes,,999X,Not Available
+EMP2344,31,Male,Customer Support,Support Executive,Master's,5,0,0,2,3,3,Yes,4,1,74088,No,N/A,A101,45000
+EMP2345,33,Male,Finance,Accountant,Master's,1,0,0,2,4,3,Yes,36,2,41450,Yes,Check Later,A101,Not Available
+EMP2346,54,female,Operations,Operations Manager,Master's,0,0,0,4,3,3,No,14,6,42771,Yes,Check Later,B202,45000
+EMP2347,45,F,Finance,Accountant,MBA,8,4,0,3,2,4,Yes,17,5,104588,No,,A101,Thirty Thousand
+EMP2348,27,Male,Operations,Operations Manager,Diploma,3,2,2,4,3,2,No,3,5,35370,No,,,45000
+EMP2349,24,F,Operations,Operations Executive,Master's,0,0,0,4,2,3,No,38,7,39287,Yes,,B202,Not Available
+EMP2350,28,Female,Sales,Business Development Executive,MBA,2,0,0,4,3,3,No,23,7,55510,No,Good,B202,Thirty Thousand
+EMP2351,40,Male,Finance,Accountant,Bachelor's,3,3,1,4,3,3,No,13,5,48213,No,Pending,,
+EMP2352,49,Male,HR,Recruiter,Master's,27,5,3,1,4,3,Yes,9,0,205764,No,Pending,,Thirty Thousand
+EMP2353,30,Female,Operations,Operations Manager,Bachelor's,7,5,2,3,3,5,No,21,9,73417,No,Check Later,B202,Thirty Thousand
+EMP2354,54,female,Marketing,SEO Specialist,PhD,3,2,2,4,2,4,Yes,8,6,77990,No,N/A,B202,Not Available
+EMP2355,46,male,Marketing,Digital Marketing Manager,Diploma,8,3,0,1,2,4,No,17,7,70524,No,Pending,??,Not Available
+EMP2356,23,Male,HR,Recruiter,Master's,0,0,0,1,4,3,No,16,4,41173,No,Pending,999X,45000
+EMP2357,26,Male,Marketing,Marketing Executive,Bachelor's,1,0,0,5,2,3,No,16,10,39559,No,Good,,45000
+EMP2358,25,Female,IT,System Administrator,Master's,3,3,1,4,3,2,No,28,3,49951,No,Good,,Thirty Thousand
+EMP2359,25,Male,Operations,Operations Manager,Bachelor's,1,1,1,3,2,5,No,16,6,41952,Yes,Pending,,Not Available
+EMP2360,43,Male,HR,Recruiter,Bachelor's,10,0,0,4,4,3,Yes,14,10,86100,No,Good,A101,45000
+EMP2361,29,Male,Finance,Financial Analyst,Bachelor's,6,4,0,4,3,2,Yes,38,5,64654,No,Good,B202,Thirty Thousand
+EMP2362,55,female,Operations,Operations Manager,MBA,8,8,4,3,3,4,No,20,5,106813,No,Pending,??,45000
+EMP2363,40,M,HR,HR Executive,Bachelor's,5,4,4,1,3,2,No,34,2,51460,No,N/A,A101,
+EMP2364,55,Female,Sales,Sales Executive,Diploma,18,7,2,5,4,3,No,29,10,104315,No,,B202,45000
+EMP2365,38,M,Finance,Finance Manager,Master's,15,7,4,3,3,1,Yes,3,9,126280,No,Good,A101,
+EMP2366,37,Male,Sales,Sales Manager,Bachelor's,13,4,3,2,3,2,No,10,3,96919,No,N/A,,45000
+EMP2367,44,Female,Operations,Operations Manager,MBA,14,11,4,3,4,2,No,20,4,136272,No,Pending,A101,Thirty Thousand
+EMP2368,23,Male,Finance,Accountant,,0,0,0,,4,2,No,2,,,No,Check Later,A101,45000
+EMP2369,52,Female,Marketing,Digital Marketing Manager,Master's,15,8,3,2,3,4,No,27,7,133519,No,,A101,45000
+EMP2370,55,F,HR,Recruiter,Bachelor's,4,2,2,3,4,4,No,32,2,59225,No,Check Later,A101,Thirty Thousand
+EMP2371,58,Female,Operations,Operations Manager,Bachelor's,15,2,2,2,1,3,Yes,10,5,109215,Yes,Pending,??,Not Available
+EMP2372,33,Female,IT,System Administrator,Master's,0,0,0,5,3,5,No,40,9,45977,No,Pending,B202,45000
+EMP2373,45,Female,Finance,Finance Manager,Master's,18,0,0,2,4,3,Yes,17,0,150934,No,Pending,,Not Available
+EMP2374,29,Male,Finance,Accountant,Master's,4,0,0,4,2,3,Yes,33,2,61628,Yes,Check Later,B202,45000
+EMP2375,24,M,Customer Support,Support Executive,Bachelor's,2,1,1,5,2,2,No,6,9,37353,Yes,Check Later,??,45000
+EMP2376,34,Female,Operations,Operations Manager,Bachelor's,2,1,1,2,3,4,No,39,6,48305,No,Check Later,999X,45000
+EMP2377,57,Female,Operations,Operations Manager,Bachelor's,16,11,5,5,3,3,No,18,6,118485,No,,999X,Thirty Thousand
+EMP2378,54,Female,Sales,Sales Manager,PhD,25,8,4,5,3,4,No,9,1,251701,No,,999X,Not Available
+EMP2379,31,Female,Customer Support,Support Executive,Bachelor's,5,0,0,5,3,4,No,8,2,59004,No,,B202,Thirty Thousand
+EMP2380,23,Male,Marketing,SEO Specialist,Bachelor's,1,1,1,2,4,3,Yes,25,6,34112,Yes,Check Later,??,Not Available
+EMP2381,48,Female,Sales,Business Development Executive,Bachelor's,7,1,0,4,3,4,No,31,5,70825,Yes,N/A,,
+EMP2382,49,Male,Customer Support,Support Executive,,0,0,0,,2,5,Yes,4,,,No,Pending,,
+EMP2383,29,male,Sales,Sales Executive,Bachelor's,1,0,0,5,4,3,No,20,9,37021,No,Check Later,999X,45000
+EMP2384,23,female,Marketing,SEO Specialist,MBA,1,0,0,2,2,3,Yes,28,8,51592,Yes,Pending,999X,45000
+EMP2385,45,female,Customer Support,Support Executive,Bachelor's,14,10,9,4,2,4,No,40,7,110271,Yes,N/A,,
+EMP2386,54,Female,Customer Support,Support Executive,MBA,19,3,1,3,1,4,No,1,5,184741,No,,999X,45000
+EMP2387,32,Female,IT,System Administrator,Diploma,1,0,0,2,3,2,Yes,40,3,33488,Yes,N/A,,45000
+EMP2388,29,Male,Sales,Sales Manager,Master's,2,0,0,3,2,3,No,23,9,47004,No,Check Later,A101,
+EMP2389,35,male,Sales,Sales Executive,MBA,8,7,4,4,2,3,Yes,13,8,97702,Yes,Check Later,B202,
+EMP2390,60,Male,Finance,Financial Analyst,Bachelor's,9,1,0,3,3,3,Yes,16,6,80588,Yes,N/A,A101,
+EMP2391,45,Female,Marketing,Marketing Executive,,23,13,3,,2,2,Yes,26,,,Yes,,A101,Thirty Thousand
+EMP2392,25,Male,HR,HR Executive,Bachelor's,3,2,2,5,3,5,No,31,1,53149,No,Check Later,??,
+EMP2393,31,Male,IT,Data Analyst,MBA,3,0,0,3,4,4,No,1,8,69659,No,,B202,Thirty Thousand
+EMP2394,54,Female,Customer Support,Support Executive,Master's,3,1,0,4,4,3,No,17,6,59628,Yes,N/A,??,Not Available
+EMP2395,44,Male,Customer Support,Support Executive,Bachelor's,12,2,1,3,2,4,No,16,8,102920,No,,??,
+EMP2396,35,male,Customer Support,Support Executive,Bachelor's,8,6,4,3,2,5,No,37,10,364783,No,,999X,Not Available
+EMP2397,58,Male,IT,Data Analyst,Bachelor's,12,6,0,4,4,2,No,10,8,417933,No,,,
+EMP2398,28,Male,Customer Support,Support Executive,Diploma,1,1,1,5,1,3,No,38,9,32743,No,Good,,45000
+EMP2399,25,Female,Customer Support,Support Executive,Diploma,0,0,0,3,4,3,No,31,4,30081,No,N/A,B202,45000
+EMP2400,46,Male,Marketing,Marketing Executive,Diploma,23,17,10,4,2,4,No,10,6,137510,No,Check Later,B202,45000
+EMP2401,38,Male,Operations,Operations Executive,Bachelor's,1,0,0,1,4,1,Yes,34,4,28277,Yes,N/A,999X,45000
+EMP2402,26,male,Operations,Operations Manager,Master's,0,0,0,2,3,5,No,6,2,41747,No,N/A,A101,Not Available
+EMP2403,57,Male,Finance,Accountant,Diploma,18,9,6,3,3,3,No,28,9,111550,No,N/A,??,45000
+EMP2404,33,female,Finance,Financial Analyst,Diploma,8,8,4,1,3,3,Yes,28,7,61361,Yes,N/A,??,Not Available
+EMP2405,48,Male,Customer Support,Support Executive,Master's,2,0,0,3,3,3,No,13,7,47324,Yes,Good,A101,45000
+EMP2406,25,Male,Marketing,SEO Specialist,Bachelor's,0,0,0,3,3,2,Yes,12,8,29043,No,Pending,999X,45000
+EMP2407,33,male,Customer Support,Support Executive,Diploma,6,0,0,1,3,4,Yes,40,10,56647,Yes,Check Later,B202,Thirty Thousand
+EMP2408,37,Male,Finance,Finance Manager,Bachelor's,12,1,0,3,3,5,Yes,2,5,106081,No,Good,A101,Not Available
+EMP2409,60,Male,IT,Data Scientist,MBA,9,6,6,3,1,3,No,8,1,105701,No,N/A,999X,
+EMP2410,52,Female,IT,Software Engineer,MBA,0,0,0,4,1,5,No,9,2,48221,No,Good,A101,
+EMP2411,49,Male,HR,HR Executive,Bachelor's,9,4,3,5,3,4,No,8,10,79935,No,,999X,45000
+EMP2412,23,female,Operations,Operations Manager,Master's,0,0,0,4,2,3,Yes,3,9,42518,No,N/A,A101,45000
+EMP2413,60,Male,Marketing,Marketing Executive,Bachelor's,8,5,1,3,3,4,No,9,10,74256,No,,??,Not Available
+EMP2414,54,female,Sales,Sales Manager,Master's,14,0,0,5,2,3,No,13,5,124949,No,,,Not Available
+EMP2415,60,M,Operations,Operations Manager,Master's,34,22,11,4,3,3,Yes,9,0,254054,No,,B202,Thirty Thousand
+EMP2416,47,Female,Sales,Sales Executive,Master's,24,21,20,2,2,2,No,31,1,182947,Yes,,999X,Not Available
+EMP2417,33,M,HR,Recruiter,Bachelor's,4,3,1,2,3,4,Yes,25,7,56137,Yes,Pending,999X,Thirty Thousand
+EMP2418,53,Female,HR,HR Executive,Diploma,8,0,0,4,2,2,Yes,8,10,61428,No,Check Later,,Thirty Thousand
+EMP2419,26,F,Customer Support,Support Executive,,1,0,0,,1,4,No,31,,,No,Pending,A101,Not Available
+EMP2420,44,Male,Finance,Financial Analyst,MBA,21,19,15,4,1,4,No,31,5,194585,Yes,Check Later,999X,Thirty Thousand
+EMP2421,39,Female,HR,Recruiter,Master's,8,1,0,4,4,3,Yes,17,2,86017,No,Check Later,,45000
+EMP2422,36,Female,HR,Recruiter,MBA,6,1,1,4,2,3,Yes,19,1,88826,No,,999X,Not Available
+EMP2423,60,Female,Sales,Sales Executive,PhD,6,4,0,5,3,3,Yes,3,5,99315,No,,A101,Not Available
+EMP2424,48,Female,Finance,Finance Manager,Bachelor's,23,21,9,3,1,3,Yes,30,0,151859,Yes,N/A,,45000
+EMP2425,53,male,HR,Recruiter,Master's,22,10,0,2,2,3,Yes,10,9,175888,Yes,,A101,Thirty Thousand
+EMP2426,33,Male,Operations,Operations Manager,Master's,11,7,3,5,3,3,No,29,5,110891,No,,??,
+EMP2427,45,Male,HR,HR Executive,PhD,8,0,0,3,3,3,No,40,8,115936,No,Check Later,??,
+EMP2428,56,male,Finance,Accountant,PhD,5,0,0,4,4,2,No,18,6,81955,No,N/A,??,
+EMP2429,47,Female,Customer Support,Support Executive,Master's,22,11,5,5,4,1,No,12,8,172231,Yes,,??,Not Available
+EMP2430,58,F,Marketing,Digital Marketing Manager,Bachelor's,33,3,2,4,4,2,No,23,1,206048,No,Pending,A101,45000
+EMP2431,27,male,Finance,Accountant,Master's,0,0,0,4,3,4,Yes,11,10,45947,No,N/A,??,
+EMP2432,25,F,Sales,Business Development Executive,,3,0,0,,3,5,Yes,9,,,No,N/A,,45000
+EMP2433,51,male,Marketing,SEO Specialist,Master's,28,12,10,3,3,3,No,24,8,209676,No,,??,Thirty Thousand
+EMP2434,43,Male,Operations,Operations Manager,MBA,16,8,8,3,4,3,Yes,25,6,158683,Yes,N/A,B202,
+EMP2435,30,Male,IT,System Administrator,Bachelor's,0,0,0,4,3,2,Yes,25,8,33591,No,Good,,45000
+EMP2436,52,female,Finance,Finance Manager,Master's,18,6,4,4,3,3,Yes,9,10,391813,No,Pending,A101,
+EMP2437,50,Female,Customer Support,Support Executive,Bachelor's,27,22,5,4,2,2,No,12,5,177005,No,,??,45000
+EMP2438,59,Male,Sales,Business Development Executive,Bachelor's,5,4,2,2,1,4,No,11,6,66024,No,N/A,??,
+EMP2439,51,Female,Operations,Operations Manager,Bachelor's,4,4,0,3,4,5,No,38,9,57461,No,Check Later,??,Not Available
+EMP2440,38,F,Marketing,SEO Specialist,Master's,1,0,0,4,3,2,No,28,4,41223,No,,,45000
+EMP2441,56,Female,Operations,Operations Executive,MBA,28,8,8,3,3,4,No,8,5,250537,No,,??,45000
+EMP2442,22,Female,Finance,Financial Analyst,MBA,0,0,0,3,2,1,No,10,0,30182,No,Check Later,,
+EMP2443,34,Female,HR,Recruiter,Bachelor's,9,5,0,4,4,3,Yes,25,0,77498,No,Pending,A101,Thirty Thousand
+EMP2444,33,Male,Customer Support,Support Executive,MBA,3,0,0,4,1,2,Yes,36,1,63940,Yes,Good,999X,45000
+EMP2445,49,Female,Finance,Accountant,Master's,3,2,1,3,4,3,Yes,9,10,60422,No,Good,??,45000
+EMP2446,32,Female,IT,Data Scientist,Bachelor's,4,4,4,5,2,2,Yes,8,3,47609,No,Check Later,B202,Not Available
+EMP2447,59,Male,Finance,Finance Manager,Diploma,14,1,0,2,4,3,Yes,3,10,89063,No,Check Later,B202,45000
+EMP2448,22,male,Marketing,Digital Marketing Manager,Bachelor's,0,0,0,5,3,3,Yes,18,8,34628,No,,999X,Not Available
+EMP2449,52,Female,Marketing,Digital Marketing Manager,MBA,7,1,1,2,2,3,Yes,35,6,97900,Yes,Good,999X,45000
+EMP2450,33,female,Finance,Finance Manager,Master's,9,4,1,1,3,4,No,17,5,99366,No,N/A,999X,Thirty Thousand
+EMP2451,47,female,Marketing,Digital Marketing Manager,Master's,3,2,1,5,3,5,No,36,0,68781,No,Good,A101,Thirty Thousand
+EMP2452,37,Male,HR,Recruiter,,15,12,8,,2,3,No,28,,,Yes,Good,??,Not Available
+EMP2453,60,Female,Operations,Operations Executive,Master's,20,12,11,4,4,2,No,15,10,162867,No,N/A,,45000
+EMP2454,51,Female,Finance,Accountant,Diploma,27,12,0,5,3,3,No,19,3,148872,No,,A101,45000
+EMP2455,54,M,Customer Support,Support Executive,Bachelor's,3,2,1,5,3,5,Yes,22,4,56950,No,Good,??,Not Available
+EMP2456,44,Male,HR,HR Executive,Master's,15,13,6,5,2,3,Yes,6,10,127772,Yes,Check Later,??,45000
+EMP2457,55,Female,Operations,Operations Manager,Diploma,21,7,5,3,3,3,Yes,7,8,126073,No,Pending,,45000
+EMP2458,26,Female,Customer Support,Support Executive,MBA,3,2,2,4,4,2,No,9,2,55837,No,N/A,B202,Thirty Thousand
+EMP2459,39,Male,Customer Support,Support Executive,Bachelor's,15,1,0,2,3,3,No,20,3,117194,No,,??,45000
+EMP2460,50,Male,Customer Support,Support Executive,Master's,18,3,0,3,4,3,Yes,37,7,147386,No,,999X,Not Available
+EMP2461,27,Female,Operations,Operations Manager,Bachelor's,5,1,1,5,4,5,Yes,11,2,68061,No,N/A,A101,Not Available
+EMP2462,30,male,HR,Recruiter,Master's,4,1,0,3,2,5,No,2,2,67881,Yes,Good,,
+EMP2463,52,Male,Customer Support,Support Executive,Diploma,28,0,0,4,2,2,Yes,22,8,152699,Yes,Good,,
+EMP2464,54,Female,Customer Support,Support Executive,Diploma,17,4,0,3,4,3,No,36,4,105832,Yes,Check Later,999X,Thirty Thousand
+EMP2465,48,Female,Sales,Business Development Executive,MBA,9,0,0,4,3,3,Yes,5,9,103231,No,Good,999X,45000
+EMP2466,35,male,Finance,Accountant,Bachelor's,9,6,6,5,1,3,No,7,0,76327,No,,999X,45000
+EMP2467,50,Male,Operations,Operations Manager,MBA,6,2,1,1,2,5,Yes,6,6,97381,Yes,Pending,999X,Not Available
+EMP2468,57,M,Operations,Operations Manager,PhD,17,2,2,4,3,3,No,22,6,186539,No,,,45000
+EMP2469,49,Male,Marketing,SEO Specialist,Bachelor's,0,0,0,5,4,3,Yes,10,5,409179,No,Good,??,
+EMP2470,42,Female,Operations,Operations Manager,,6,6,1,,2,3,No,40,,,No,Check Later,??,45000
+EMP2471,24,Male,HR,HR Executive,Master's,0,0,0,1,2,4,No,20,2,45048,No,,999X,Not Available
+EMP25008,Unknown,Unknown,Unknown,Unknown,PhD,0,0,0,4,4,4,Yes,28,2,51297,No,Pending,A101,Thirty Thousand
+EMP2473,52,Female,Sales,Sales Manager,MBA,14,3,1,3,4,3,No,23,9,140307,No,N/A,,
+EMP2474,56,Male,Finance,Financial Analyst,Bachelor's,3,2,1,2,3,3,No,35,10,51989,No,Check Later,999X,
+EMP2475,24,female,Finance,Financial Analyst,Master's,0,0,0,5,4,3,No,1,8,35579,No,N/A,999X,
+EMP2476,47,Male,Operations,Operations Executive,Diploma,19,14,9,3,3,5,No,29,0,120818,No,Pending,B202,45000
+EMP2477,37,Female,Customer Support,Support Executive,PhD,9,7,2,5,4,3,No,9,6,119836,No,Pending,B202,Thirty Thousand
+EMP2478,32,Male,IT,System Administrator,PhD,6,2,2,5,3,3,No,9,10,97535,No,N/A,??,Not Available
+EMP2479,42,Male,IT,System Administrator,Bachelor's,8,6,2,4,2,3,Yes,22,9,80130,Yes,Pending,999X,45000
+EMP2480,37,Male,Customer Support,Support Executive,Bachelor's,1,1,0,1,3,4,No,2,6,46283,No,Good,999X,
+EMP2481,30,Female,Customer Support,Support Executive,Diploma,0,0,0,3,3,3,No,16,7,30407,No,Good,999X,Not Available
+EMP2482,21,Female,Customer Support,Support Executive,Bachelor's,0,0,0,2,4,2,No,40,5,31302,No,N/A,,Not Available
+EMP2483,42,Female,HR,HR Executive,MBA,1,0,0,5,3,3,No,6,7,52926,No,Good,,
+EMP2484,46,Female,IT,Software Engineer,Bachelor's,6,2,2,2,4,4,No,13,0,65049,No,Pending,999X,
+EMP2485,38,Female,Customer Support,Support Executive,Diploma,9,0,0,3,4,4,No,33,0,68362,No,Check Later,B202,45000
+EMP2486,34,Male,HR,HR Executive,Bachelor's,5,3,1,3,2,5,No,19,8,70401,No,Good,??,Thirty Thousand
+EMP2487,49,Female,Marketing,SEO Specialist,PhD,19,5,4,3,4,3,No,15,3,198417,No,Good,??,Thirty Thousand
+EMP2488,32,F,HR,Recruiter,Master's,0,0,0,2,3,2,No,33,2,36953,No,Good,999X,45000
+EMP2489,56,Female,IT,System Administrator,Bachelor's,12,7,4,4,4,5,No,10,5,103537,No,,,Not Available
+EMP25009,Unknown,Unknown,Unknown,Unknown,Bachelor's,0,0,0,1,3,3,No,1,9,34747,Yes,N/A,B202,Thirty Thousand
+EMP2491,32,Male,Marketing,Marketing Executive,,4,0,0,,3,4,No,12,,,No,Pending,??,Thirty Thousand
+EMP2492,27,male,IT,Data Analyst,MBA,0,0,0,3,3,4,No,29,9,48682,No,Good,A101,Not Available
+EMP2493,49,male,HR,Recruiter,Bachelor's,27,9,7,4,2,3,Yes,17,10,176011,Yes,N/A,999X,
+EMP2494,31,Female,Sales,Sales Manager,Diploma,6,3,2,4,2,3,Yes,4,3,52421,No,Pending,??,Thirty Thousand
+EMP2495,53,F,Finance,Finance Manager,Diploma,15,8,6,3,3,4,No,29,8,96715,No,Pending,??,Not Available
+EMP2496,26,Male,IT,Software Engineer,Diploma,4,2,0,4,4,4,No,7,4,52290,No,,??,Thirty Thousand
+EMP2497,35,Male,Customer Support,Support Executive,Master's,10,2,1,3,3,3,Yes,13,6,98521,No,,B202,Not Available
+EMP2498,52,male,HR,Recruiter,MBA,16,3,2,5,3,3,Yes,5,2,161714,No,Pending,??,
+EMP2499,31,female,Customer Support,Support Executive,Bachelor's,0,0,0,1,2,2,No,6,2,27053,No,Check Later,999X,
+EMP2116,43,Female,Marketing,SEO Specialist,,13,10,0,,2,1,Yes,27,,,Yes,,B202,Not Available
+EMP2368,23,Male,Finance,Accountant,,0,0,0,,4,2,No,2,,,No,N/A,A101,Not Available
+EMP1422,24,Male,Customer Support,Support Executive,,0,0,0,,2,2,No,8,,,No,N/A,B202,
+EMP1413,25,male,Finance,Finance Manager,,3,2,1,,1,2,Yes,11,,,Yes,N/A,A101,Not Available
+EMP1451,46,Male,Finance,Finance Manager,,13,1,1,,2,3,No,30,,,No,,B202,45000
+EMP1861,25,Male,HR,Recruiter,,0,0,0,,4,1,No,7,,,No,N/A,999X,
+EMP2063,39,Female,Finance,Financial Analyst,,16,4,4,,2,4,No,14,,,Yes,Check Later,A101,Not Available
+EMP1741,25,Male,Customer Support,Support Executive,,3,0,0,,4,3,No,26,,,No,Pending,999X,
+EMP2272,28,Male,HR,Recruiter,,1,1,1,,2,1,No,33,,,Yes,Check Later,B202,Not Available
+EMP1259,36,Male,Finance,Finance Manager,,2,0,0,,3,3,Yes,11,,452262,Yes,,,
+EMP1888,55,Male,IT,System Administrator,,25,10,3,,2,4,No,36,,,No,Pending,999X,Thirty Thousand
+EMP2432,25,F,Sales,Business Development Executive,,3,0,0,,3,5,Yes,9,,,No,N/A,B202,Thirty Thousand
+EMP1712,26,Female,IT,Data Analyst,,2,1,0,,3,5,Yes,23,,,Yes,,??,Thirty Thousand
+EMP2382,49,Male,Customer Support,Support Executive,,0,0,0,,2,5,Yes,4,,,No,N/A,A101,Not Available
+EMP1070,36,Male,Marketing,Digital Marketing Manager,,9,1,1,,3,2,No,26,,,No,N/A,A101,Not Available
+EMP2268,34,Female,Customer Support,Support Executive,,9,1,1,,3,3,Yes,30,,,Yes,Check Later,,Thirty Thousand
+EMP2491,32,Male,Marketing,Marketing Executive,,4,0,0,,3,4,No,12,,,No,Pending,,Thirty Thousand
+EMP1607,37,Male,HR,HR Executive,,4,3,0,,2,5,Yes,20,,,No,Good,A101,
+EMP1433,55,M,Operations,Operations Executive,,30,30,21,,3,4,No,2,,,No,Pending,B202,
+EMP1051,60,Female,Sales,Sales Manager,,26,14,5,,3,3,No,12,,,No,Pending,A101,Not Available
+EMP25010,Unknown,Unknown,Unknown,Unknown,PhD,0,0,0,4,4,4,Yes,28,2,51297,No,Pending,A101,Thirty Thousand
+EMP1368,37,Male,Customer Support,Support Executive,Bachelor's,1,1,1,2,3,3,Yes,24,9,42216,Yes,Good,A101,Not Available
+EMP2152,22,Female,Customer Support,Support Executive,Diploma,0,0,0,4,2,4,No,34,0,27063,No,Pending,,Not Available
+EMP2029,47,Female,Operations,Operations Executive,Master's,2,1,1,3,4,2,No,2,3,47553,No,Pending,A101,Thirty Thousand
+EMP2324,50,Female,Customer Support,Support Executive,Master's,19,4,2,4,3,3,Yes,15,7,451354,No,Check Later,??,Not Available
